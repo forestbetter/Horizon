@@ -28,6 +28,10 @@
       "finance-news": {
         "threshold": 7.0,
         "topic_dedup": true
+      },
+      "tech-finance": {
+        "threshold": 5.0,
+        "topic_dedup": true
       }
     }
   },
@@ -36,85 +40,93 @@
       {
         "type": "user_events",
         "username": "karpathy",
-        "enabled": true,
+        "enabled": false,
         "profile": "tech-news"
       },
       {
         "type": "repo_releases",
         "owner": "vllm-project",
         "repo": "vllm",
-        "enabled": true,
+        "enabled": false,
         "profile": "tech-news"
       },
       {
         "type": "repo_releases",
         "owner": "sgl-project",
         "repo": "sglang",
-        "enabled": true,
+        "enabled": false,
         "profile": "tech-news"
       },
       {
         "type": "repo_releases",
         "owner": "triton-lang",
         "repo": "triton",
-        "enabled": true,
+        "enabled": false,
         "profile": "tech-news"
       }
     ],
     "hackernews": {
-      "enabled": true,
+      "enabled": false,
       "fetch_top_stories": 30,
       "min_score": 150,
       "profile": "tech-news"
     },
     "rss": [
       {
-        "name": "Simon Willison",
-        "url": "https://simonwillison.net/atom/everything/",
+        "name": "WSJ Markets",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
         "enabled": true,
-        "category": "ai-tools",
-        "profile": "tech-news"
+        "category": "markets-daily",
+        "profile": "finance-news",
+        "content_extractor": "trafilatura"
       },
       {
-        "name": "vLLM Blog",
-        "url": "https://vllm.ai/blog/rss.xml",
+        "name": "WSJ Tech",
+        "url": "https://feeds.a.dj.com/rss/RSSWSJD.xml",
         "enabled": true,
-        "category": "llm-inference",
-        "profile": "tech-blog",
+        "category": "tech-daily",
+        "profile": "tech-finance",
         "content_extractor": "trafilatura"
       },
       {
         "name": "CNBC Finance",
         "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
         "enabled": true,
-        "category": "finance",
+        "category": "markets-daily",
         "profile": "finance-news",
         "content_extractor": "trafilatura"
       },
       {
-        "name": "GitHub Trending - Daily",
-        "url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+        "name": "Stratechery",
+        "url": "https://stratechery.com/feed/",
         "enabled": true,
-        "category": "github-trending",
-        "profile": "tech-news"
+        "category": "tech-strategy",
+        "profile": "tech-finance"
+      },
+      {
+        "name": "Big Technology",
+        "url": "https://www.bigtechnology.com/feed",
+        "enabled": true,
+        "category": "tech-vc",
+        "profile": "tech-finance"
+      },
+      {
+        "name": "Newcomer",
+        "url": "https://www.newcomer.co/feed",
+        "enabled": true,
+        "category": "tech-vc",
+        "profile": "tech-finance"
       },
       {
         "name": "Semianalysis",
         "url": "https://newsletter.semianalysis.com/feed",
         "enabled": true,
         "category": "semiconductors",
-        "profile": "tech-news"
-      },
-      {
-        "name": "LWN.net",
-        "url": "https://lwn.net/headlines/full_text?key=${LWN_KEY}",
-        "enabled": true,
-        "category": "linux-kernel",
-        "profile": "tech-news"
+        "profile": "tech-finance"
       }
     ],
     "reddit": {
-      "enabled": true,
+      "enabled": false,
       "subreddits": [
         {
           "subreddit": "MachineLearning",
@@ -159,9 +171,10 @@
   "digest": {
     "max_items": null,
     "profile_order": [
+      "tech-finance",
+      "finance-news",
       "tech-news",
-      "tech-blog",
-      "finance-news"
+      "tech-blog"
     ],
     "category_groups": {},
     "default_group": "other",
