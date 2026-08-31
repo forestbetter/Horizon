@@ -33,6 +33,23 @@ jobs:
       - name: Prepare GitHub Actions config
         run: cp data/config.github.json data/config.json
 
+      # 宵禁保护：GitHub Actions 定时任务是 best-effort，高峰期可能延迟数小时甚至漏跑。
+      # 若运行启动时北京时间不在 19:00–23:59 窗口内（说明被平台延迟到深夜/凌晨），
+      # 则不注入 webhook URL —— Horizon 检测到 env 未设置会优雅跳过飞书推送，
+      # 只生成网页简报并发布，避免凌晨打扰。手动触发的运行同样受此保护。
+      - name: Compute push window (curfew guard)
+        id: window
+        shell: bash
+        run: |
+          hour=$(TZ='Asia/Shanghai' date +%H)
+          echo "local_hour=$hour" >> "$GITHUB_OUTPUT"
+          if [ "$hour" -ge 19 ]; then
+            echo "in_window=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "in_window=false" >> "$GITHUB_OUTPUT"
+          fi
+          echo "Current Beijing hour: $hour (window 19-23)"
+
       - name: Run Horizon
         env:
           # Map secrets to environment variables expected by config.json
@@ -42,7 +59,8 @@ jobs:
           GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
           LWN_KEY: ${{ secrets.LWN_KEY }}
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
-          HORIZON_WEBHOOK_URL: ${{ secrets.HORIZON_WEBHOOK_URL }}
+          # 仅在北京时间 19:00–23:59 内运行时注入飞书 webhook；否则置空以跳过推送
+          HORIZON_WEBHOOK_URL: ${{ (steps.window.outputs.in_window == 'true' && secrets.HORIZON_WEBHOOK_URL) || '' }}
         run: uv run horizon --hours 24
 
       - name: Set current date as environment variable
