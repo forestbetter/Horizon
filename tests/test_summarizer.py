@@ -105,7 +105,7 @@ def test_generate_webhook_item_includes_discussion_link_when_distinct():
         total=1,
     )
 
-    assert "tester · Apr 25, 08:00 · [Discussion](https://news.ycombinator.com/item?id=1)" in result
+    assert "tester · Apr 25, 16:00 · [Discussion](https://news.ycombinator.com/item?id=1)" in result
 
 
 def test_generate_webhook_item_omits_discussion_link_when_same_as_item_url():
@@ -152,7 +152,7 @@ def test_generate_summary_zh_uses_localized_selection_header_and_numeric_date():
     )
 
     assert "> 从 10 条内容中筛选出 1 条重要资讯。" in result
-    assert "rss · tester · 4月25日 08:00" in result
+    assert "rss · tester · 4月25日 16:00" in result
     assert "From 10 items" not in result
     assert "Apr 25, 08:00" not in result
 
@@ -246,9 +246,9 @@ def test_generate_summary_renders_primary_block_before_source_without_heading():
 
     assert "#### Summary" not in result
     assert result.index("Primary explanation.") < result.index(
-        "rss · tester · Apr 25, 08:00"
+        "rss · tester · Apr 25, 16:00"
     )
-    assert result.index("rss · tester · Apr 25, 08:00") < result.index(
+    assert result.index("rss · tester · Apr 25, 16:00") < result.index(
         "**「Background」** Supporting context."
     )
 
@@ -288,7 +288,7 @@ def test_generate_summary_renders_non_primary_blog_sections_after_source():
         )
     )
 
-    source_index = result.index("rss · tester · Apr 25, 08:00")
+    source_index = result.index("rss · tester · Apr 25, 16:00")
     context_index = result.index("**「Background」** The original constraints.")
     solution_index = result.index("**「Solution」** The implementation and evidence.")
     takeaway_index = result.index("**「Takeaway」** The durable lesson.")

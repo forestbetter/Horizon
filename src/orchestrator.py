@@ -7,6 +7,7 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Dict, List, Literal, Optional
 from urllib.parse import unquote_plus, urlsplit
+from zoneinfo import ZoneInfo
 import httpx
 from rich.console import Console
 
@@ -292,7 +293,11 @@ class HorizonOrchestrator:
             await self.enrich_items(important_items)
 
             # 7. Generate and save daily summaries for each configured language
-            today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+            # Label the digest with the Asia/Shanghai calendar day (users are
+            # in China; a UTC label would lag by 8 hours).
+            today = datetime.now(timezone.utc).astimezone(
+                ZoneInfo("Asia/Shanghai")
+            ).strftime("%Y-%m-%d")
             for lang in self.config.ai.languages:
                 summarizer = DailySummarizer(
                     profile_names=self.profiles.names,

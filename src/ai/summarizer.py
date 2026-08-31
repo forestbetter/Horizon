@@ -3,11 +3,23 @@
 import html
 import re
 from dataclasses import dataclass
+from datetime import datetime, timezone
 from typing import Dict, List, Optional
 from urllib.parse import quote, urlsplit
+from zoneinfo import ZoneInfo
 
 from .localization import normalize_language
 from ..models import ContentItem
+
+# Display timezone for item timestamps in digests (users are in China).
+_DISPLAY_TZ = ZoneInfo("Asia/Shanghai")
+
+
+def to_display_tz(moment: datetime) -> datetime:
+    """Convert a (possibly naive-UTC) datetime to the display timezone."""
+    if moment.tzinfo is None:
+        moment = moment.replace(tzinfo=timezone.utc)
+    return moment.astimezone(_DISPLAY_TZ)
 
 
 _CJK = r"[\u4e00-\u9fff\u3400-\u4dbf]"
@@ -400,14 +412,15 @@ class DailySummarizer:
         else:
             source_parts.append(_escape_markdown(item.author or "unknown"))
         if item.published_at:
+            published_local = to_display_tz(item.published_at)
             if language == "zh":
                 source_parts.append(
-                    f"{item.published_at.month}月{item.published_at.day}日 "
-                    f"{item.published_at:%H:%M}"
+                    f"{published_local.month}月{published_local.day}日 "
+                    f"{published_local:%H:%M}"
                 )
             else:
-                day = item.published_at.strftime("%d").lstrip("0")
-                source_parts.append(item.published_at.strftime(f"%b {day}, %H:%M"))
+                day = published_local.strftime("%d").lstrip("0")
+                source_parts.append(published_local.strftime(f"%b {day}, %H:%M"))
         source_line = " \u00b7 ".join(source_parts)  # ·
 
         discussion_url = meta.get("discussion_url")
