@@ -1,10 +1,12 @@
 name: Daily Horizon Summary
 
 on:
-  schedule:
-    # GitHub scheduled workflows use UTC. 12:30 UTC is 20:30 Asia/Shanghai.
-    # Note: GitHub schedules may be delayed by a few minutes at peak times.
-    - cron: '30 12 * * *'
+  # 定时触发（schedule）已于 2026-09-02 移除。
+  # 原因：GitHub schedule 为 best-effort，实测曾延迟 4–9.5 小时、甚至整日漏跑。
+  # 现改由外部可靠 cron 调用 workflow_dispatch 触发：
+  #   - 主触发源：OpenClaw 服务器（scripts/trigger-horizon.sh）
+  #   - 兜底触发源：云函数（scripts/cloud-fallback/）
+  # 请勿重新添加 schedule，否则会与外部触发源重复运行、重复消耗 token。
   workflow_dispatch:      # Allow manual trigger
 
 jobs:
