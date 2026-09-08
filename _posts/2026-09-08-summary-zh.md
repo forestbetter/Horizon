@@ -5,162 +5,125 @@ date: 2026-09-08
 lang: zh
 ---
 
-> 从 20 条内容中筛选出 11 条重要资讯。
+> 从 26 条内容中筛选出 11 条重要资讯。
 
 ---
 
 **科技财经**
-1. [谷歌 TPU 推理外部化加速：性能每美元提升高达 50%](#item-tech-finance-1) ⭐️ 6.0/10
+1. [谷歌 TPU 推理外部化加速，称性价比提升高达 50%](#item-tech-finance-1) ⭐️ 6.0/10
 
 **财经新闻**
-1. [中国向银行和保险公司注资 540 亿美元，但股价仍下跌](#item-finance-news-1) ⭐️ 8.0/10
-2. [联合国环境规划署：本世纪全球升温峰值或达 1.8℃](#item-finance-news-2) ⭐️ 7.0/10
+1. [Visa 扩展区块链贷款数据服务，稳定币卡需求激增](#item-finance-news-1) ⭐️ 7.0/10
+2. [加密货币平台因网络攻击损失超 36.3 亿美元，多数曾通过安全审计](#item-finance-news-2) ⭐️ 7.0/10
+3. [中国向银行和保险公司注资 540 亿美元，但股价仍下跌](#item-finance-news-3) ⭐️ 7.0/10
 
 **科技新闻**
-1. [华为发布麒麟 9050 Pro，时隔六年推高性能芯片](#item-tech-news-1) ⭐️ 8.0/10
-2. [最高法发布 AI 纠纷司法解释，明确换脸与算法杀熟责任](#item-tech-news-2) ⭐️ 8.0/10
-3. [张一鸣亲自督导字节跳动空间视频模型](#item-tech-news-3) ⭐️ 8.0/10
-4. [ASML 与台积电合作推进 High NA EUV 升级，12 英寸光掩模计划 2033 年量产](#item-tech-news-4) ⭐️ 8.0/10
-5. [OpenAI 披露研究员 AI 用量：前 10% 日耗 Token 超 7000 美元](#item-tech-news-5) ⭐️ 7.0/10
-6. [欧洲四大运营商洽谈组建卫星直连手机联盟](#item-tech-news-6) ⭐️ 7.0/10
-7. [马来西亚拟用华为 AI 芯片建主权项目](#item-tech-news-7) ⭐️ 7.0/10
-8. [库克缺席苹果发布会视频，新 CEO 主推折叠 iPhone](#item-tech-news-8) ⭐️ 7.0/10
+1. [ASML 与台积电合作推进 High NA EUV 12 英寸光掩模升级](#item-tech-news-1) ⭐️ 8.0/10
+2. [欧洲四大运营商洽谈组建卫星直连手机联盟，拟竞标频谱对抗星链](#item-tech-news-2) ⭐️ 7.0/10
+3. [马来西亚拟用华为 AI 芯片建主权项目](#item-tech-news-3) ⭐️ 7.0/10
+4. [张一鸣亲自督导字节跳动空间视频模型](#item-tech-news-4) ⭐️ 7.0/10
+5. [库克缺席苹果发布会视频，新 CEO 主推折叠 iPhone](#item-tech-news-5) ⭐️ 7.0/10
+6. [DeepSeek V4.1 Flash 内测：原生多模态，更快更省](#item-tech-news-6) ⭐️ 7.0/10
+7. [中国计划 2030 年智能算力提升至 9800 EFLOPS](#item-tech-news-7) ⭐️ 7.0/10
 
 ---
 
 ## 科技财经
 
 <a id="item-tech-finance-1"></a>
-### [谷歌 TPU 推理外部化加速：性能每美元提升高达 50%](https://newsletter.semianalysis.com/p/tpu-inferencex-full-steam) ⭐️ 6.0/10
+### [谷歌 TPU 推理外部化加速，称性价比提升高达 50%](https://newsletter.semianalysis.com/p/tpu-inferencex-full-steam) ⭐️ 6.0/10
 
-谷歌的 TPU 推理外部化（即向外部客户提供 TPU 服务）正在加速推进，据称性能每美元提升高达 50%，并吸引了更多客户，同时推出了 Ironwood 和 TPUv8i 等新硬件，这可能削弱英伟达 CUDA 的垄断地位。
+谷歌的 TPU 推理外部化（即向外部客户提供 TPU 推理服务）正在加速推进，公司声称其性能每美元可比现有方案提升高达 50%，且客户群持续增长。
 
 rss · Semianalysis · 9月8日 04:00
 
-**「背景」** 谷歌正在将其 TPU（张量处理单元，一种专为 AI 设计的芯片）的推理能力外部化，即向外部客户提供。据 SemiAnalysis 报道，其性能每美元可比英伟达 CUDA 方案高出至多 50%。
+**「背景」** 谷歌的 TPU（张量处理单元）是其专为 AI 推理设计的定制芯片，与英伟达的 GPU（图形处理器）竞争。此前，谷歌曾宣称其 TPU v5e 在特定基准测试中性能每美元提升 2.7 倍。
 
-**「影响」** 对于使用 AI 推理服务的公司和投资者而言，这可能意味着更低的成本和更多选择，但具体影响尚待观察。
+**「影响」** 若这些性能提升得到证实，可能削弱英伟达 CUDA 生态在 AI 推理市场的护城河，影响依赖 GPU 的云服务提供商和 AI 应用企业。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://newsletter.semianalysis.com/p/tpu-inferencex-full-steam">TPU Inference Externalization Full Steam Ahead - InferenceX</a></li>
+<li><a href="https://cloud.google.com/blog/products/compute/performance-per-dollar-of-gpus-and-tpus-for-ai-inference">Performance per dollar of GPUs and TPUs for AI inference | Google Cloud Blog</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI hardware`, `#TPU`, `#Inference`, `#Performance per dollar`, `#CUDA competition`
+**标签**: `#AI hardware`, `#Google TPU`, `#Inference`, `#Performance per dollar`, `#CUDA competition`
 
 ---
 
 ## 财经新闻
 
 <a id="item-finance-news-1"></a>
-### [中国向银行和保险公司注资 540 亿美元，但股价仍下跌](https://www.cnbc.com/2026/09/07/china-state-banks-lenders-insurers-capital-solvency-bankrupt-nim-.html) ⭐️ 8.0/10
+### [Visa 扩展区块链贷款数据服务，稳定币卡需求激增](https://www.cnbc.com/2026/09/08/visa-blockchain-lender-stablecoin-cards.html) ⭐️ 7.0/10
 
-中国财政部牵头向三家国有银行和五家保险公司注资 3600 亿元人民币（约合 536 亿美元），规模低于市场预期，导致相关银行和保险公司股价周一在香港下跌。
+Visa 周二宣布，将向区块链贷款机构提供更多结算数据，以支持稳定币关联卡项目，目前此类项目已超过 160 个，同比增长近 200%。
 
-rss · CNBC Finance · 9月8日 07:23
+rss · CNBC Finance · 9月8日 19:30
 
-**「背景」** 此次注资是继去年向四大国有银行注资 5000 亿元人民币之后的又一次行动，旨在增强金融机构的资本实力，以应对净息差收窄和偿付能力下降的压力。
+**「背景」** 去年美国通过的 GENIUS 法案为稳定币建立了监管框架，推动了技术采用。Visa 于 7 月推出了稳定币平台，以帮助金融机构利用数字资产。
 
-**「影响」** 此次注资可能为银行提供更多空间来处置不良贷款，并支持对人工智能等战略领域的投资，但由于信贷需求疲软，短期内对经济的刺激作用可能有限。
+**「影响」** 此举可能使稳定币关联卡发行方和区块链贷款机构更容易获得融资，从而加速这一领域的增长。
 
-**标签**: `#China`, `#bank recapitalization`, `#financial regulation`, `#state-owned banks`, `#market reaction`
+**标签**: `#Visa`, `#stablecoins`, `#blockchain lending`, `#crypto cards`, `#fintech`
 
 ---
 
 <a id="item-finance-news-2"></a>
-### [联合国环境规划署：本世纪全球升温峰值或达 1.8℃](http://www.unep.org/resources/limiting-overshoot-navigating-exceedance) ⭐️ 7.0/10
+### [加密货币平台因网络攻击损失超 36.3 亿美元，多数曾通过安全审计](https://www.cnbc.com/2026/09/08/crypto-platforms-lost-billions-to-cyberattacks-many-even-after-audits.html) ⭐️ 7.0/10
 
-联合国环境规划署报告称，按当前排放轨迹，本世纪全球升温峰值约为 1.8℃，长期升温将突破《巴黎协定》设定的 1.5℃目标。
+据加密货币数据网站 CoinGecko 8 月 27 日发布的报告，2025 年 1 月至 2026 年 7 月间，加密货币平台因网络攻击和密钥被盗共损失超过 36.3 亿美元，其中约 88%的被盗资金和约 60%的受影响平台此前已完成独立安全审计。
 
-telegram · zaihuapd · 9月8日 11:05
+rss · CNBC Finance · 9月8日 16:16
 
-**「背景」** 《巴黎协定》是 2015 年达成的国际气候协议，目标是将本世纪全球升温控制在比工业化前水平高 1.5℃以内。联合国环境规划署（UNEP）每年发布《排放差距报告》，评估各国减排承诺与实际排放之间的差距。
+**「背景」** 安全审计是加密货币平台常用的防护手段，但审计通常只检查代码和系统配置，难以覆盖所有攻击途径，例如针对员工设备的密码窃取或内部操作失误。CoinGecko 的报告指出，多数攻击发生在审计未覆盖的领域。
+
+**「影响」** 此次损失主要集中在少数平台，其中 Bybit 在 2025 年 2 月遭黑客攻击损失 14 亿美元（Elliptic 称与朝鲜有关），KelpDao 损失 2.92 亿美元，Drift Protocol 损失 2.85 亿美元，这些平台的用户可能面临资金损失。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.dw.com/en/emissions-gap-report-unep-global-temperature-climate-damage-paris-agreement-cop30-ndcs-co2/a-74608409">UN report : Global climate ambitions &#x27;off target&#x27;</a></li>
+<li><a href="https://coinmarketcap.com/">Cryptocurrency Prices, Charts And Market... | CoinMarketCap</a></li>
 
 </ul>
 </details>
 
-**标签**: `#climate change`, `#UNEP`, `#Paris Agreement`, `#global warming`, `#policy`
+**标签**: `#cryptocurrency`, `#cybersecurity`, `#financial losses`, `#CoinGecko`, `#Bybit`
+
+---
+
+<a id="item-finance-news-3"></a>
+### [中国向银行和保险公司注资 540 亿美元，但股价仍下跌](https://www.cnbc.com/2026/09/07/china-state-banks-lenders-insurers-capital-solvency-bankrupt-nim-.html) ⭐️ 7.0/10
+
+中国财政部牵头向三家国有银行和五家保险公司注资 3600 亿元人民币（约合 540 亿美元），规模低于市场预期，旨在提振经济。周一，香港上市的银行和保险股下跌，其中农业银行和工商银行分别下跌 2.7%和 2.3%。
+
+rss · CNBC Finance · 9月8日 07:23
+
+**「背景」** 此举是在去年向四大国有银行注资 5000 亿元人民币的基础上，以及今年 3 月承诺发行 3000 亿元特别国债以补充大型国有银行资本之后进行的。中国银行业正经历多年的净息差压缩，净息差已降至历史低位。
+
+**「影响」** 此次注资旨在增强银行和保险公司的资本实力，以支持未来的战略投资，尤其是人工智能和先进技术领域，并帮助银行加速处置不良贷款。然而，分析师认为，由于信贷需求疲软，对经济的短期影响可能有限。
+
+**标签**: `#China`, `#bank recapitalization`, `#state banks`, `#insurers`, `#capital injection`
 
 ---
 
 ## 科技新闻
 
 <a id="item-tech-news-1"></a>
-### [华为发布麒麟 9050 Pro，时隔六年推高性能芯片](https://www.news.cn/20260907/adf46c5c003240d28cc3cf6de54f9b5f/c.html) ⭐️ 8.0/10
+### [ASML 与台积电合作推进 High NA EUV 12 英寸光掩模升级](https://www.nrc.nl/nieuws/2026/09/08/asml-gaat-samenwerken-met-taiwanese-chipgigant-tsmc-om-zijn-nieuwste-chipmachines-te-upgraden-a4936073) ⭐️ 8.0/10
 
-华为于 7 日在广州发布 Mate XT 2 三折叠手机，搭载全新的麒麟 9050 Pro 芯片，这是华为时隔六年再次推出高性能芯片。麒麟 9050 Pro 是首款采用逻辑折叠技术的芯片，通过将逻辑单元分层排布并增设垂直互联通道，缩短信号传输路径，降低时延，提升性能。此次发布是继 Mate40 全球发布会后，华为首次在旗舰发布会上推出全新麒麟芯片。该芯片的发布标志着华为在芯片设计领域的重大技术突破，可能对移动计算和芯片设计行业产生深远影响。
-
-telegram · zaihuapd · 9月7日 16:20
-
-**「背景」** 华为自 2019 年以来受到美国制裁，导致其先进芯片制造能力受限，麒麟芯片的迭代一度停滞。麒麟 9050 Pro 的发布是华为在芯片技术上的重要回归，其逻辑折叠技术是一种新型的 3D 芯片堆叠方案，旨在突破传统平面芯片的性能瓶颈。
-
-**「影响」** 麒麟 9050 Pro 的发布可能提升华为旗舰手机的性能竞争力，并推动芯片设计行业对逻辑折叠等 3D 集成技术的关注。然而，其实际量产能力和市场表现仍需观察。
-
-**标签**: `#Huawei`, `#chip-design`, `#mobile-processors`, `#hardware`, `#technology-industry`
-
----
-
-<a id="item-tech-news-2"></a>
-### [最高法发布 AI 纠纷司法解释，明确换脸与算法杀熟责任](https://www.cnr.cn/news/20260907/t20260907_527806795.shtml) ⭐️ 8.0/10
-
-最高人民法院于 9 月 7 日发布人工智能纠纷案件司法解释，共 5 部分 24 条，聚焦 AI 换脸、算法杀熟、冒充他人代言、自动驾驶和知识产权等问题。解释明确，未经同意使用 AI 制作可识别的人脸、声音等可能构成人格权侵权；算法价格歧视侵害权益的应承担责任；AI 冒充他人代言诱导消费的，可依法支持惩罚性赔偿请求。此外，解释还规制利用 AI 实施“网络开盒”“人肉搜索”等侵害隐私权的行为。该解释为 AI 应用提供了明确的法律边界，对相关行业具有重要指导意义。
-
-telegram · zaihuapd · 9月7日 17:32
-
-**「背景」** 随着人工智能技术的快速发展，AI 换脸、算法杀熟等应用引发了一系列法律纠纷，但现有法律对此类新型侵权行为的界定尚不清晰。最高人民法院此次发布司法解释，旨在统一裁判标准，明确 AI 应用中的责任归属，为司法实践提供具体指引。
-
-**「影响」** 该解释将直接影响在中国运营的 AI 企业、平台及开发者，要求其在人脸、声音等生物识别信息的使用上获得明确授权，并避免算法歧视性定价。同时，为受 AI 冒充代言或隐私侵犯的消费者提供了法律救济途径，可能促使企业加强合规审查。
-
-**标签**: `#AI regulation`, `#legal liability`, `#deepfake`, `#algorithmic pricing`, `#China`
-
----
-
-<a id="item-tech-news-3"></a>
-### [张一鸣亲自督导字节跳动空间视频模型](https://www.bloomberg.com/news/articles/2026-09-07/bytedance-founder-joins-ai-elite-in-race-to-perfect-world-models) ⭐️ 8.0/10
-
-据知情人士透露，字节跳动创始人张一鸣正亲自督导一款实时空间视频生成模型的开发，该模型最快可能于 2026 年 10 月发布，但时间仍可能调整。该模型基于字节的 Seedance 技术，能够生成响应 Pico 头显用户语音或动作的互动虚拟世界。据称，该模型能以约 0.05 秒的延迟和每秒 20 帧的速度生成视频，并将高强度计算转移至云端，以降低虚拟现实设备的硬件门槛。这一进展表明字节跳动正积极布局空间计算和实时 AI 生成领域，可能对 VR 行业产生重要影响。不过，目前该消息尚未得到官方证实，且基于匿名信源。
-
-telegram · zaihuapd · 9月8日 12:05
-
-**「背景」** Seedance 是字节跳动推出的视频生成模型，此前已用于生成常规二维视频内容。此次报道中的新模型基于 Seedance 构建，旨在生成实时空间视频，即能够响应用户语音或动作的互动三维虚拟世界，用于 Pico 头显等虚拟现实设备。这类模型通常需要将高强度计算转移至云端，以降低对终端硬件的要求。
-
-**「影响」** 若该模型如期发布，将显著降低 VR 设备对本地硬件的依赖，使 Pico 头显用户能体验更流畅的互动虚拟世界，并可能推动空间视频生成技术的普及，对竞争对手形成压力。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Seedance_2.0">Seedance - Wikipedia</a></li>
-<li><a href="https://thenextweb.com/news/bytedance-spatial-video-world-model-zhang-yiming">ByteDance is preparing a real-time spatial video model under Zhang Yiming, Bloomberg reports</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI`, `#virtual-reality`, `#ByteDance`, `#spatial-computing`, `#real-time-generation`
-
----
-
-<a id="item-tech-news-4"></a>
-### [ASML 与台积电合作推进 High NA EUV 升级，12 英寸光掩模计划 2033 年量产](https://www.nrc.nl/nieuws/2026/09/08/asml-gaat-samenwerken-met-taiwanese-chipgigant-tsmc-om-zijn-nieuwste-chipmachines-te-upgraden-a4936073) ⭐️ 8.0/10
-
-ASML 与台积电于 9 月 7 日宣布产业合作，推动 High NA EUV 光刻技术从现有的 6 英寸光掩模转向 12 英寸规格，旨在提高设备生产率、降低芯片制造成本并减少拼接限制。根据计划，双方将于 2031 年建立 12 英寸光掩模试产线，并于 2033 年将相关系统用于先进制程的量产。台积电则计划从 2030 年起将 High NA EUV 用于先进节点的大规模制造。这一合作标志着 High NA EUV 技术向更高精度和更低成本方向迈出重要一步，对半导体制造的未来发展具有深远影响。
+ASML 与台积电于 9 月 7 日宣布产业合作，推动 High NA EUV 光刻技术从现有的 6 英寸光掩模转向 12 英寸规格，旨在提高设备生产率、降低芯片制造成本并减少拼接限制。根据计划，双方将于 2031 年建立 12 英寸光掩模试产线，并于 2033 年将相关系统用于先进制程量产。台积电拟于 2030 年起将 High NA EUV 用于先进节点的大规模制造。这一合作标志着半导体制造基础设施的重大转变，对芯片成本与制程微缩具有深远影响。
 
 telegram · zaihuapd · 9月8日 14:55
 
-**「背景」** High NA EUV 光刻机是 ASML 推出的新一代极紫外光刻设备，数值孔径从 0.33 提升至 0.55，可实现更小的芯片制程节点。当前 EUV 光刻使用 6 英寸光掩模，而 High NA EUV 因光学系统放大倍率变化，若继续使用 6 英寸掩模会限制曝光场尺寸，需通过拼接方式制造大芯片，增加复杂度和成本。转向 12 英寸光掩模可扩大单次曝光的覆盖面积，提高生产效率和良率。
+**「背景」** High NA EUV 光刻机是 ASML 推出的新一代极紫外光刻设备，数值孔径从 0.33 提升至 0.55，可实现更小的芯片特征尺寸，但现有 6 英寸光掩模限制了其生产效率和拼接精度。光掩模是芯片制造中用于转移电路图案的模板，其尺寸直接影响曝光面积和工艺复杂度。ASML 与台积电于 2026 年 9 月 7 日宣布合作，旨在推动行业向 12 英寸光掩模过渡，以充分发挥 High NA EUV 的潜力。
 
-**「影响」** 该合作将推动半导体行业从沿用数十年的 6 英寸光掩模转向 12 英寸规格，有望提高晶圆厂生产率、降低芯片制造成本并消除拼接限制，但相关系统预计要到 2033 年才能用于先进制程量产，台积电则计划从 2030 年起将 High NA EUV 用于先进节点的大规模制造。
+**「影响」** 对于依赖先进制程的芯片设计公司与制造商，这一合作将推动 High NA EUV 在 2030 年代初进入量产，可能降低先进节点芯片的制造成本并提升生产率，但具体成本与性能收益仍需等待试产验证。
 
 <details><summary>参考链接</summary>
 <ul>
+<li><a href="https://www.asml.com/en/news/press-releases/2026/tsmc-and-asml-announce-industry-transition-to-large-format-photomasks-for-high-na-euv">TSMC and ASML Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV</a></li>
 <li><a href="https://www.globenewswire.com/news-release/2026/09/08/3357321/0/en/asml-and-tsmc-announce-initiative-to-pioneer-industry-transition-to-large-format-photomasks-for-high-na-euv.html">ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV</a></li>
-<li><a href="https://news.samsung.com/global/samsung-electronics-and-asml-expand-strategic-collaboration-for-next-generation-semiconductor-manufacturing">Samsung Electronics and ASML Expand Strategic Collaboration for Next-Generation Semiconductor Manufacturing – Samsung Global Newsroom</a></li>
-<li><a href="https://grafa.com/en/news/united-states/asml-tsmc-high-na-euv-12-inch-photomask-initiative">ASML and TSMC target 12-inch High NA EUV masks | Grafa</a></li>
-<li><a href="https://www.globenewswire.com/news-release/2026/09/08/3357321/0/en/asml-and-tsmc-announce-initiative-to-pioneer-industry-transition-to-large-format-photomasks-for-high-na-euv.html">ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV</a></li>
+<li><a href="https://www.stocktitan.net/news/ASML/asml-and-tsmc-announce-initiative-to-pioneer-industry-transition-to-rg8uf2a834gt.html">ASML, TSMC Target 12-Inch Mask Pilot Line by 2031 | ASML Stock News</a></li>
 
 </ul>
 </details>
@@ -169,98 +132,135 @@ telegram · zaihuapd · 9月8日 14:55
 
 ---
 
-<a id="item-tech-news-5"></a>
-### [OpenAI 披露研究员 AI 用量：前 10% 日耗 Token 超 7000 美元](http://gigazine.net/gsc_news/en/20260907-ai-use-inside-openai/) ⭐️ 7.0/10
+<a id="item-tech-news-2"></a>
+### [欧洲四大运营商洽谈组建卫星直连手机联盟，拟竞标频谱对抗星链](https://www.bloomberg.com/news/articles/2026-09-07/europe-s-top-carriers-in-talks-for-satellite-to-mobile-venture) ⭐️ 7.0/10
 
-OpenAI 披露了其内部研究员的 AI 使用情况，截至 2026 年 8 月，整体用户的日均 Token 使用成本中位数超过 600 美元，而前 10% 的用户日均成本超过 7000 美元。研究员的输出 Token 量较 2025 年 11 月 1 日增加了 124 倍，且约 70% 的研究员同时运行至少 4 个 AI 智能体。这一数据揭示了 OpenAI 内部对 AI 工具的高度依赖，以及多智能体协作的普及趋势。该信息源自 GIGAZINE 的报道，但未提供具体的技术细节或原始数据来源。
+德国电信、Orange、沃达丰和西班牙电信正初步商谈组建联盟，共同竞标欧盟拟保留给本地运营商的卫星频谱，以提供手机直连卫星服务，在欧洲抗衡马斯克的星链。欧盟计划在约 2 GHz 频段中划出一部分给由欧洲企业控股的运营商，以增强自主卫星通信能力，现有牌照将于 2027 年 5 月到期。该服务可将通话、短信和数据从卫星直接发送到普通手机，无需专用设备。目前谈判仍处于初步阶段，具体细节尚未敲定。
 
-telegram · zaihuapd · 9月7日 21:53
+telegram · zaihuapd · 9月8日 10:35
 
-**「背景」** OpenAI 是一家致力于开发通用人工智能（AGI）的研究机构，其内部研究员广泛使用自家 AI 编码智能体来辅助开发和研究工作。据 Business Insider 报道，OpenAI 披露了其研究员的 AI 使用成本，显示部分研究员的日均 Token 消耗费用高达 7000 美元，且 AI 编码智能体的使用量在过去三个月内急剧增长，增速超过其他团队。
+**「背景」** 卫星直连手机（direct-to-mobile）是一种新兴技术，通过卫星将通话、短信和数据直接发送到普通手机，无需专用终端。目前，SpaceX 的星链（Starlink）正在全球推广此类服务，并与多家运营商合作。欧盟为增强自主卫星通信能力，计划在约 2 GHz 频段中划出部分频谱，专门保留给由欧洲企业控股的运营商，现有牌照将于 2027 年 5 月到期。
 
-**「影响」** 这一数据表明，OpenAI 内部研究团队已成为 AI 工具的重度用户，其 Token 消耗成本远超普通用户，可能推动 AI 成本优化和多智能体协作工具的发展。
+**「影响」** 若联盟成功组建并中标，欧洲四大运营商将能直接提供卫星直连手机服务，减少对星链等非欧洲供应商的依赖，并可能影响未来频谱分配格局。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.businessinsider.com/openai-token-spend-ai-coding-researchers-2026-9">OpenAI Reveals How Much Its Researchers Are Spending on AI Coding</a></li>
+<li><a href="https://www.europesays.com/europe/132709/">Four Major European Telecom Operators in Talks to Jointly Bid for Satellite Spectrum, Taking Aim at Starlink&#x27;s European Dominance — BigGo Finance - Europe</a></li>
+<li><a href="https://allweatherfinance.com/are-european-carriers-challenging-spacexs-starlink-four-major-carriers-plan-to-join-forces-to-enter-the-satellite-to-mobile-phone-market/">Are European carriers challenging SpaceX&#x27;s Starlink? Four major carriers plan to join forces to enter the satellite-to-mobile phone market.</a></li>
+<li><a href="https://www.straitstimes.com/business/europes-biggest-mobile-operators-in-talks-for-satellite-to-mobile-venture">Europe’s biggest mobile operators in talks for satellite-to-mobile venture | The Straits Times</a></li>
 
 </ul>
 </details>
 
-**标签**: `#OpenAI`, `#AI usage`, `#LLM`, `#research`, `#industry trends`
+**标签**: `#satellite communication`, `#telecom`, `#Starlink`, `#spectrum policy`, `#Europe`
+
+---
+
+<a id="item-tech-news-3"></a>
+### [马来西亚拟用华为 AI 芯片建主权项目](https://www.businesstimes.com.sg/international/malaysia-eyes-huawei-chips-ai-project-despite-us-warning) ⭐️ 7.0/10
+
+马来西亚正评估采用华为 Ascend 910C 芯片作为其主权 AI 项目的核心，项目规模为 20 亿令吉（约 4.94 亿美元）。若落地，马来西亚将成为首个正式选择中国 AI 加速器而非美国产品的外国政府。目前尚不清楚采购芯片数量。此前特朗普政府曾警告使用该芯片可能违反美国出口规定，但马来西亚政府认为相关决定纯属商业考量。
+
+telegram · zaihuapd · 9月8日 11:35
+
+**「背景」** 主权 AI 项目是指由政府主导、旨在将国家敏感数据存储和处理在本国境内的 AI 基础设施。华为的 Ascend 910C 是其高端 AI 加速芯片之一，被视为英伟达产品的替代品。此前，美国曾警告使用该芯片可能违反出口管制，但马来西亚政府认为这是商业决策。
+
+**「影响」** 此举可能削弱美国对华芯片出口管制的效力，并推动其他国家对华为 AI 芯片的采用，影响全球 AI 硬件供应链格局。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.digitimes.com/news/a20260908VL202/huawei-ascend-nvidia-technology-chips.html">Malaysia weighs Huawei Ascend 910C for MYR2 billion sovereign AI cloud</a></li>
+<li><a href="https://www.briefs.co/news/malaysia-eyes-huawei-chips-for-its-sovereign-ai-bet/">Malaysia Considers Huawei Chips for Sovereign AI</a></li>
+<li><a href="https://thearabianpost.com/malaysia-evaluates-huawei-chips-for-national-ai-network/">Malaysia evaluates Huawei chips for national AI network — Arabian Post</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI hardware`, `#Huawei`, `#geopolitics`, `#export controls`, `#sovereign AI`
+
+---
+
+<a id="item-tech-news-4"></a>
+### [张一鸣亲自督导字节跳动空间视频模型](https://www.bloomberg.com/news/articles/2026-09-07/bytedance-founder-joins-ai-elite-in-race-to-perfect-world-models) ⭐️ 7.0/10
+
+据知情人士透露，字节跳动创始人张一鸣正亲自督导一款实时空间视频生成模型的开发，该模型基于 Seedance，可生成响应 Pico 头显用户语音或动作的互动虚拟世界，最快可能于 2026 年 10 月发布，但时间仍可能调整。该模型据称能以约 0.05 秒延迟、每秒 20 帧生成视频，并将高强度计算转移至云端，以降低虚拟现实设备的硬件门槛。这一进展表明字节跳动在 AI 与 VR 领域的战略布局，但尚未确认为突破性成果。
+
+telegram · zaihuapd · 9月8日 12:05
+
+**「背景」** 空间视频生成模型是 AI 与虚拟现实结合的前沿方向，旨在根据用户交互实时生成沉浸式虚拟环境。字节跳动此前已推出 Seedance 视频生成模型，并拥有 Pico VR 头显业务，此次由创始人亲自督导，凸显该项目在公司战略中的重要性。
+
+**「影响」** 若该模型如期发布，将可能显著降低 VR 设备的硬件门槛，推动互动虚拟世界的普及，对 Pico 用户及 VR 开发者产生直接影响。
+
+**标签**: `#AI`, `#virtual-reality`, `#ByteDance`, `#video-generation`, `#real-time`
+
+---
+
+<a id="item-tech-news-5"></a>
+### [库克缺席苹果发布会视频，新 CEO 主推折叠 iPhone](https://www.macrumors.com/2026/09/07/tim-cook-wont-appear-apple-sept-9-event-video/) ⭐️ 7.0/10
+
+据彭博社 Mark Gurman 援引消息源，苹果前 CEO 蒂姆·库克将不会出现在 9 月 9 日“Surprise and Shine”活动的视频中，尽管他会在本周三出席放映会。库克已于 9 月 1 日卸任 CEO 并转任执行董事长，由约翰·特纳斯接任 CEO。苹果精心安排此次交接，让特纳斯成为折叠 iPhone 及后续新品的门面，若库克现身发布会反而会削弱这一效果。这一变动标志着苹果领导层的重大过渡，并预示着折叠 iPhone 即将发布。
+
+telegram · zaihuapd · 9月8日 13:03
+
+**「背景」** 苹果公司于 2026 年 4 月宣布，蒂姆·库克将于 2026 年 9 月 1 日卸任 CEO，转任执行董事长，由约翰·特纳斯接任 CEO 并加入董事会。特纳斯此前负责硬件工程，此次交接是苹果自 2011 年库克接替乔布斯以来的第二次 CEO 更替。苹果已确认将于 2026 年 9 月 9 日上午 10 点（太平洋时间）举行“Surprise and Shine”特别活动，预计将发布 iPhone 18 Pro 系列及传闻中的首款折叠屏 iPhone Ultra。
+
+**「影响」** 此次交接将直接影响苹果的产品发布策略和公众形象，新 CEO 特纳斯将主导折叠 iPhone 的发布，这可能改变苹果未来的产品方向和市场营销重点。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.linkedin.com/posts/samdrauschak_apple-just-announced-its-second-ceo-transition-activity-7457795292671901696-qwk7">Apple CEO Transition : Tim Cook to John Ternus | LinkedIn</a></li>
+<li><a href="https://www.apple.com/au/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/">Tim Cook to become Apple Executive Chairman John Ternus to...</a></li>
+<li><a href="https://www.macrumors.com/2026/09/07/iphone-18-pro-release-date-and-pre-orders/">iPhone 18 Pro: Release Date and Pre-Orders - MacRumors</a></li>
+<li><a href="https://blog.issue.stream/en/articles/apple-confirms-september-9-event-how-much-can-we-believe-about-a-foldable-iphone-f1ea03ce">Apple Confirms September 9 Event : How Much Can... | Issue Stream</a></li>
+
+</ul>
+</details>
+
+**标签**: `#apple`, `#ceo-transition`, `#foldable-iphone`, `#tim-cook`, `#tech-industry`
 
 ---
 
 <a id="item-tech-news-6"></a>
-### [欧洲四大运营商洽谈组建卫星直连手机联盟](https://www.bloomberg.com/news/articles/2026-09-07/europe-s-top-carriers-in-talks-for-satellite-to-mobile-venture) ⭐️ 7.0/10
+### [DeepSeek V4.1 Flash 内测：原生多模态，更快更省](https://telegram.me/zaihuapd/43681) ⭐️ 7.0/10
 
-德国电信、Orange、沃达丰和西班牙电信正初步商谈组建联盟，共同竞标欧盟拟保留给本地运营商的卫星频谱，以提供手机直连卫星服务，抗衡马斯克的星链。欧盟计划在约 2 GHz 频段中划出一部分给由欧洲企业控股的运营商，现有牌照将于 2027 年 5 月到期。该服务可将通话、短信和数据从卫星直接发送至普通手机。目前谈判仍处于初步阶段，具体合作细节尚未敲定。此举旨在增强欧洲自主卫星通信能力，减少对外部供应商的依赖。
+深度求索宣布开启 DeepSeek V4.1 Flash 中间版本的内测，该版本采用新模型结构，支持原生多模态，宣称能力更强、速度更快且成本更低。调用时保持 base\_url 不变，模型名需设置为 deepseek-v4.1-flash-expires-on-0910，计费标准与 deepseek-v4-flash 相同，每个账号限流 20 并发。此次内测面向开发者开放，具体结束日期未明确，但模型名中的 expires-on-0910 暗示其有效期至 2025 年 9 月 10 日。
 
-telegram · zaihuapd · 9月8日 10:35
+telegram · zaihuapd · 9月8日 16:00
 
-**「背景」** 手机直连卫星（direct-to-phone）是一种利用低地球轨道（LEO）卫星将通话、短信和数据直接发送到普通智能手机的技术，无需专用终端。目前，SpaceX 的星链（Starlink）在该领域占据领先地位，已与多家运营商合作推出服务。欧盟为增强自主卫星通信能力，计划在约 2 GHz 频段中划出部分频谱，专供由欧洲企业控股的运营商使用，现有牌照将于 2027 年 5 月到期。
+**「背景」** DeepSeek 是深度求索公司开发的一系列大语言模型。此前，DeepSeek 已发布 V4 系列模型，其中包括 DeepSeek-V4-Flash 及其视觉理解版本 DeepSeek-V4-Flash-Vision-Exp。本次内测的 V4.1 Flash 是 V4 系列的中间版本，采用新模型结构，支持原生多模态，旨在提升性能并降低成本。
 
-**「影响」** 若联盟成功组建并中标，欧洲消费者可能获得除星链外的手机直连卫星服务选项，同时欧洲运营商将增强在卫星通信领域的话语权，但谈判尚处初期，最终结果存在不确定性。
+**「影响」** 对于使用 DeepSeek API 的开发者，此次内测提供了在相同计费下体验原生多模态和更高性能的机会，但需注意 20 并发的限流限制，可能影响高并发生产环境的使用。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.binance.com/en-IN/square/post/09-07-2026-european-telecoms-hold-early-talks-on-satellite-spectrum-consortium-364167957107454">European Telecoms Hold Early Talks on Satellite Spectrum ...</a></li>
-<li><a href="https://techgolly.com/european-telecom-titans-weigh-joint-satellite-to-mobile-venture-to-rival-starlink">European Telecom Titans Weigh Joint Satellite -to-Mobile Venture To...</a></li>
-<li><a href="https://www.globalbankingandfinance.com/europe-biggest-mobile-operators-talks-satellite-to-mobile/">Europe ’s biggest mobile operators in talks for satellite -to-mobil</a></li>
+<li><a href="https://api-docs.deepseek.com/updates/">DeepSeek API Docs</a></li>
 
 </ul>
 </details>
 
-**标签**: `#satellite communication`, `#telecom industry`, `#Starlink`, `#European regulation`, `#direct-to-phone`
+**标签**: `#DeepSeek`, `#AI model`, `#multimodal`, `#beta release`, `#cost efficiency`
 
 ---
 
 <a id="item-tech-news-7"></a>
-### [马来西亚拟用华为 AI 芯片建主权项目](https://www.businesstimes.com.sg/international/malaysia-eyes-huawei-chips-ai-project-despite-us-warning) ⭐️ 7.0/10
+### [中国计划 2030 年智能算力提升至 9800 EFLOPS](https://www.scmp.com/tech/policy/article/3366733/china-targets-fourfold-boost-ai-computing-capacity-2030-major-tech-push) ⭐️ 7.0/10
 
-马来西亚正评估采用华为 Ascend 910C 芯片作为其主权 AI 项目的核心，该项目规模为 20 亿令吉（约 4.94 亿美元）。若落地，马来西亚将成为首个正式选择中国 AI 加速器而非美国产品的政府。目前尚不清楚采购芯片数量，且特朗普政府曾警告使用该芯片可能违反美国出口规定，但马来西亚政府认为该决定纯属商业考量。
+中国工业和信息化部发布未来五年产业规划，提出到 2030 年将中国智能算力提升至 9800 EFLOPS，并在 2026 年至 2030 年累计投入 3.8 万亿元用于信息基础设施建设。规划还提出有序部署万卡级以及 10 万卡以上的智能计算集群，并加强基础设施与国产算力芯片的适配。截至 2025 年 6 月底，中国智能算力达到 2185 EFLOPS，同比增长 177%，要实现 2030 年目标，算力规模需在此基础上增长至 4 倍以上。这一政策目标将推动中国 AI 基础设施的大规模扩张，并可能影响全球 AI 硬件和软件生态。
 
-telegram · zaihuapd · 9月8日 11:35
+telegram · zaihuapd · 9月8日 19:23
 
-**「背景」** 华为的升腾（Ascend）系列 AI 加速器是其在美国出口管制下自主研发的高性能计算芯片，其中 Ascend 910C 是华为当前的主力产品，而更新的升腾 950 系列仍处于限量生产阶段。马来西亚的“主权 AI”项目旨在将国家数据置于国内控制之下，为此计划投入 20 亿林吉特（约 4.94 亿美元）建设 AI 基础设施。此前马来西亚在采购 AI 芯片上态度模糊，如今正认真评估采用华为芯片，这标志着其从模糊态度转向实质性采购讨论。
+**「背景」** 智能算力通常指用于人工智能训练和推理的计算能力，以 EFLOPS（每秒百亿亿次浮点运算）为单位。中国工业和信息化部发布的五年规划是指导信息通信行业发展的政策文件，此前已设定过类似的基础设施目标。截至 2025 年 6 月底，中国智能算力已达 2185 EFLOPS，同比增长 177%，但与美国等领先国家相比仍有差距，且面临高端芯片进口限制。
 
-**「影响」** 若该计划落地，马来西亚将成为首个官方弃用美国 AI 芯片的主权国家，可能削弱美国出口管制的效力，并推动华为 AI 芯片在海外市场的采用。
+**「影响」** 该规划将促使中国大规模建设 AI 计算集群，并加速国产算力芯片的适配与应用，对国内 AI 开发者和云服务商而言，意味着更充裕的算力资源和更低的对外部芯片的依赖。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.globalsources.com/sourcing-digest/malaysia-evaluates-huawei-ascend-910c-chips-for-a-landmark-sovereign-ai-initiative/?source=GSOLHP_SKC_5">Malaysia evaluates Huawei Ascend 910 C chips for... | Global Sources</a></li>
-<li><a href="https://thenextweb.com/news/malaysia-huawei-ai-chips-sovereign-ai-us-export-warning">Malaysia weighs Huawei chips for sovereign AI , Bloomberg reports</a></li>
-<li><a href="https://www.digitimes.com/news/a20260908VL202/huawei-ascend-nvidia-technology-chips.html">Malaysia weighs Huawei Ascend 910 C for MYR2 billion sovereign AI ...</a></li>
+<li><a href="https://www.unite.ai/miit-plan-targets-9800-eflops-of-intelligent-compute-by-2030/">MIIT Plan Targets 9,800 Eflops of Intelligent Compute by 2030 – Unite.AI</a></li>
+<li><a href="https://www.scmp.com/tech/policy/article/3366733/china-targets-fourfold-boost-ai-computing-capacity-2030-major-tech-push">China targets fourfold boost in AI computing capacity by 2030 in major tech push | South China Morning Post</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI hardware`, `#Huawei`, `#geopolitics`, `#sovereign AI`, `#export controls`
-
----
-
-<a id="item-tech-news-8"></a>
-### [库克缺席苹果发布会视频，新 CEO 主推折叠 iPhone](https://www.macrumors.com/2026/09/07/tim-cook-wont-appear-apple-sept-9-event-video/) ⭐️ 7.0/10
-
-据彭博社 Mark Gurman 援引消息源，蒂姆·库克将不会出现在苹果 9 月 9 日“Surprise and Shine”活动的视频中，尽管他本周三会出席放映会。库克已于 9 月 1 日卸任 CEO 并转任执行董事长，约翰·特纳斯接任 CEO。苹果精心安排此次交接，让特纳斯成为折叠 iPhone 及后续新品的门面，若库克现身发布会反而会削弱这一效果。这一变化标志着苹果领导层的重大过渡，并预示着折叠 iPhone 的发布将成为特纳斯任期内的首个重要产品亮相。
-
-telegram · zaihuapd · 9月8日 13:03
-
-**「背景」** 蒂姆·库克在担任苹果 CEO 15 年后，于 2026 年 9 月 1 日卸任，转任执行董事长，专注于政策与战略。约翰·特纳斯（John Ternus）接任 CEO，成为苹果第八任 CEO，此前他担任硬件工程高级副总裁。此次领导层交接是苹果精心安排的过渡，旨在让特纳斯成为新产品发布的主要代言人。
-
-**「影响」** 苹果进入折叠屏手机市场可能重振近年来增长放缓的折叠屏智能手机领域，并有望改变该细分市场长期仅占整体智能手机市场极小份额的格局。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lpa3IzNkVCRXVoM2Q1a0RDaEtTZ0FQAQ?hl=en-US&amp;gl=US&amp;ceid=US:en">John Ternus named next Apple CEO as Tim Cook steps down ...</a></li>
-<li><a href="https://www.pulsenewsglobal.com/post/tim-cook-steps-down-as-apple-ceo-john-ternus-takes-over-on-september-1-2026">Tim Cook Steps Down as Apple CEO : John Ternus Takes Over on...</a></li>
-<li><a href="https://news.designrush.com/apple-ceo-tim-cook-steps-down-john-ternus-takes-over">Apple CEO Tim Cook to Step Down in September</a></li>
-<li><a href="https://www.business-standard.com/technology/tech-news/apple-foldable-iphone-reshape-foldable-smartphone-market-126090700774_1.html">Apple Foldable iPhone Could Reshape Smartphone Market | Tech ...</a></li>
-<li><a href="https://nhkworldjapan.com/technology/apple-set-to-revolutionize-global-market-with-new-foldable-iphone-usa-2026/">Apple Set to Revolutionize Global Market with New Foldable iPhone</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Apple`, `#leadership`, `#foldable iPhone`, `#Tim Cook`, `#tech industry`
+**标签**: `#AI infrastructure`, `#China tech policy`, `#computing capacity`, `#industry news`, `#investment`
 
 ---
