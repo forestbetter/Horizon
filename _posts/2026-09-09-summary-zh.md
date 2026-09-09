@@ -5,265 +5,230 @@ date: 2026-09-09
 lang: zh
 ---
 
-> 从 30 条内容中筛选出 11 条重要资讯。
+> 从 29 条内容中筛选出 10 条重要资讯。
 
 ---
 
+**科技财经**
+1. [OpenAI 攻克数学难题，Meta 发布个人代理 Muse](#item-tech-finance-1) ⭐️ 5.0/10
+
 **财经新闻**
-1. [阿达尼企业机场部门达成 10 亿美元融资协议](#item-finance-news-1) ⭐️ 7.0/10
+1. [阿达尼企业股价上涨，机场部门达成 10 亿美元融资协议](#item-finance-news-1) ⭐️ 7.0/10
 2. [中国电动汽车制造商转向人形机器人](#item-finance-news-2) ⭐️ 7.0/10
-3. [Visa 扩展区块链贷款数据服务，稳定币卡需求激增](#item-finance-news-3) ⭐️ 7.0/10
-4. [加密货币平台因网络攻击损失超 36.3 亿美元](#item-finance-news-4) ⭐️ 7.0/10
-5. [贝森特挑战交易员做空日元：称“我现在就是庄家”](#item-finance-news-5) ⭐️ 7.0/10
+3. [美国财长贝森特挑战做空日元的交易员](#item-finance-news-3) ⭐️ 7.0/10
 
 **科技新闻**
-1. [OpenAI 公布纳维–斯托克斯千禧年难题解答](#item-tech-news-1) ⭐️ 9.0/10
-2. [美国指控六家中国 AI 公司大规模蒸馏盗用技术](#item-tech-news-2) ⭐️ 8.0/10
-3. [OpenAI 发布 ChatGPT Images 2.5 图像模型](#item-tech-news-3) ⭐️ 7.0/10
-4. [美英立法者推动禁止超级智能 AI 法案](#item-tech-news-4) ⭐️ 7.0/10
-5. [陶哲轩：AI 抹平数学难度梯度，威胁开放科学](#item-tech-news-5) ⭐️ 7.0/10
-6. [DeepSeek 发布 V4.1 Flash，V4 Pro 请求将自动路由](#item-tech-news-6) ⭐️ 7.0/10
+1. [美国指控六家中国 AI 公司大规模蒸馏盗用技术](#item-tech-news-1) ⭐️ 8.0/10
+2. [OpenAI 称 GPT-6 Astra 思维链可监测性显著下降](#item-tech-news-2) ⭐️ 8.0/10
+3. [美英立法者推动禁止超级智能 AI 法案](#item-tech-news-3) ⭐️ 7.0/10
+4. [陶哲轩：AI 正在“开采”数学难题并抑制研究分享](#item-tech-news-4) ⭐️ 7.0/10
+5. [DeepSeek 将发布 V4.1 Flash 并路由 V4 Pro 请求](#item-tech-news-5) ⭐️ 7.0/10
+6. [美国防部要求 OpenAI 开发减少对军事任务拒绝的模型](#item-tech-news-6) ⭐️ 7.0/10
+
+---
+
+## 科技财经
+
+<a id="item-tech-finance-1"></a>
+### [OpenAI 攻克数学难题，Meta 发布个人代理 Muse](https://stratechery.com/2026/openai-does-math-reward-hacking-meta-launches-personal-agent/) ⭐️ 5.0/10
+
+OpenAI 解决了最著名的数学问题之一，但这对大多数人的生活影响甚微；而 Meta 推出的个人代理 Muse 可能产生更广泛的社会影响。
+
+rss · Stratechery · 9月9日 18:00
+
+**「背景」** OpenAI 于 2026 年 9 月 8 日宣布，其内部 AI 系统解决了 Navier-Stokes 问题，这是数学领域长期未解的“千禧年大奖难题”之一。该系统比其最新的 GPT-6 Astra 模型更强大，约 10,000 个 AI 代理同时工作，耗时 88 小时得出解决方案。同一天，Meta 推出了 Muse，一款个人 AI 代理，提供 $20 和 $100 两档订阅，目前仅限美国用户使用。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.theguardian.com/science/2026/sep/08/openai-claims-to-have-solved-maths-problem-that-stumped-humans-for-decades">OpenAI claims to have solved maths problem that... | The Guardian</a></li>
+<li><a href="https://tech-insider.org/meta-muse-personal-ai-agent-launch-2026/">Meta Muse AI Agent Launch: $20 &amp; $100 Tiers [2026]</a></li>
+
+</ul>
+</details>
+
+**标签**: `#OpenAI`, `#Meta`, `#AI`, `#technology`, `#product launch`
 
 ---
 
 ## 财经新闻
 
 <a id="item-finance-news-1"></a>
-### [阿达尼企业机场部门达成 10 亿美元融资协议](https://www.cnbc.com/2026/09/09/adani-enterprises-airport-fundraise-shares.html) ⭐️ 7.0/10
+### [阿达尼企业股价上涨，机场部门达成 10 亿美元融资协议](https://www.cnbc.com/2026/09/09/adani-enterprises-airport-fundraise-shares.html) ⭐️ 7.0/10
 
-阿达尼企业的机场部门阿达尼机场控股与全球投资者达成约束性协议，筹集约 1000 亿卢比（10 亿美元），投资方包括 Alpha Wave Global、Premji Invest、淡马锡和贝莱德管理的基金。该交易对阿达尼机场控股的投前估值约为 180 亿美元，投资者最终将持有约 5.54%的股份。
+阿达尼企业的机场部门已达成一项具有约束力的协议，从全球和国内投资者处筹集约 982.5 亿卢比（10 亿美元），这些投资者包括 Alpha Wave Global、Premji Invest、淡马锡和贝莱德管理的基金。该交易对阿达尼机场控股的投前估值约为 180 亿美元，投资者最终将持有约 5.54%的股份，预计于 2027 年 7 月完成。
 
 rss · CNBC Finance · 9月9日 14:26
 
-**「背景」** 此次融资是阿达尼企业 7 月份完成 1500 亿卢比合格机构配售后的最新动作。阿达尼机场控股在印度管理 8 个机场，占该国客运量超过 23%。
+**「背景」** 阿达尼机场控股在印度管理着 8 个机场，处理该国超过 23%的客运量。此次融资是继 7 月份阿达尼企业完成 1500 亿卢比的合格机构配售之后的最新一次资金筹集。
 
-**「影响」** 这笔资金将用于机场基础设施的扩建和现代化，预计将年客运能力提升至约 2 亿人次，并可能影响印度机场服务和相关非航空业务。
+**「影响」** 这笔资金将用于机场基础设施的扩建和现代化，预计将年客运能力提升至约 2 亿人次，并支持阿达尼机场城市项目及非航空业务的发展。
 
-**标签**: `#Adani Enterprises`, `#fundraising`, `#airport infrastructure`, `#India`, `#private equity`
+**标签**: `#Adani Enterprises`, `#fundraising`, `#airports`, `#India`, `#infrastructure investment`
 
 ---
 
 <a id="item-finance-news-2"></a>
 ### [中国电动汽车制造商转向人形机器人](https://www.cnbc.com/2026/09/09/chinas-ev-makers-shift-gears-to-focus-on-humanoids-as-car-market-slows.html) ⭐️ 7.0/10
 
-中国电动汽车制造商正转向人形机器人领域，以应对电动汽车销售放缓和利润率下降。小鹏汽车已筹集 9 亿美元用于机器人业务，并计划在 2026 年底前开始量产，其机器人部门估值超过 63 亿美元。
+随着电动汽车销售放缓和利润率下降，中国电动汽车制造商正转向人形机器人领域。小鹏汽车为其机器人业务筹集了 9 亿美元，并计划在 2026 年底前开始量产。
 
 rss · CNBC Finance · 9月9日 12:12
 
-**「背景」** 中国电动汽车制造商正面临国内销量增长放缓和利润率下降的压力，因此纷纷拓展至人形机器人领域，以寻求新的增长点。例如，小鹏汽车已启动人形机器人生产线，计划于 2026 年底开始量产，并预计在 2027 年启动销售和交付。
+**「背景」** 中国电动汽车制造商正面临销售增长放缓和利润率下降的压力，因此纷纷拓展至人形机器人领域，以寻求新的增长点。例如，小鹏汽车已为其机器人部门融资超过 9 亿美元，估值超过 63 亿美元。
 
-**「影响」** 中国电动汽车制造商转向人形机器人，可能加剧全球机器人市场竞争，并影响相关供应链企业。据外部数据，2026 年上半年中国人形机器人制造商占全球出货量的 97%以上，显示其早期领先地位。
+**「影响」** 这一转变可能影响电动汽车行业的投资者认知，并可能为机器人技术创造新的增长机会，但人形机器人的商业可行性仍需验证。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://electrek.co/2026/09/07/xpeng-iron-humanoid-robot-production-line/">XPeng starts IRON humanoid robot production as Tesla... | Electrek</a></li>
-<li><a href="https://english.news.cn/20260908/bf71f5f7089746b3833a40db007f3cf1/c.html">XPeng starts humanoid robot production line, targets mass...</a></li>
-<li><a href="https://uk.finance.yahoo.com/news/china-humanoid-makers-hold-97-051358284.html">China Humanoid Makers Hold 97% of Global Shipments, Report Says</a></li>
+<li><a href="https://energynews.oedigital.com/mineral-resources/2026/08/24/xpeng-robotics-unit-valued-at-more-than-63-billion-following-record-funding-round">Xpeng Robotics Unit valued at more than $6.3 billion following record...</a></li>
+<li><a href="https://electrek.co/2026/08/24/xpeng-robotics-900m-iron-humanoid-robot-valuation/">XPeng robotics raises $900M at $6.3B valuation for IRON... | Electrek</a></li>
+<li><a href="https://chinaevhome.com/2026/08/24/xpeng-robotics-raises-over-900m-valuation-tops-6-3b/">XPeng Robotics Raises Over $900M, Valuation Tops... | ChinaEVHome</a></li>
 
 </ul>
 </details>
 
-**标签**: `#China EV`, `#humanoid robots`, `#Xpeng`, `#BYD`, `#industry diversification`
+**标签**: `#China EV`, `#humanoid robots`, `#Xpeng`, `#BYD`, `#Nio`
 
 ---
 
 <a id="item-finance-news-3"></a>
-### [Visa 扩展区块链贷款数据服务，稳定币卡需求激增](https://www.cnbc.com/2026/09/08/visa-blockchain-lender-stablecoin-cards.html) ⭐️ 7.0/10
+### [美国财长贝森特挑战做空日元的交易员](https://www.bloomberg.com/news/articles/2026-09-08/bessent-dares-traders-to-bet-against-yen-i-am-the-house-now) ⭐️ 7.0/10
 
-Visa 周二宣布，将向区块链贷款机构提供更多数据，以支持稳定币关联卡项目。目前 Visa 运营超过 160 个此类项目，同比增长近 200%。
-
-rss · CNBC Finance · 9月8日 19:30
-
-**「背景」** Visa 于 2026 年 9 月 8 日宣布，将把其 VisaNet 结算数据与区块链借贷平台相结合，为稳定币关联卡项目提供新的融资渠道。此前，Visa 已于 7 月推出稳定币平台，以支持结算和扩展相关卡项目。
-
-**「影响」** 此举可能加速稳定币在支付领域的应用，影响加密货币企业和传统金融机构的借贷与发卡业务。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://coin360.com/news/visa-visanet-onchain-stablecoin-lending">Visa Taps VisaNet Data for Onchain Stablecoin Lending</a></li>
-<li><a href="https://newisty.com/blog/visa-links-settlement-data-to-blockchain-lending-for-stablecoin-cards">Visa links settlement data to blockchain lending for stablecoin cards</a></li>
-<li><a href="https://investor.visa.com/news/news-details/2026/Visa-Brings-Onchain-Lending-into-Everyday-Payments/default.aspx">Visa - Visa Brings Onchain Lending into Everyday Payments</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Visa`, `#stablecoins`, `#blockchain lending`, `#payments`, `#crypto regulation`
-
----
-
-<a id="item-finance-news-4"></a>
-### [加密货币平台因网络攻击损失超 36.3 亿美元](https://www.cnbc.com/2026/09/08/crypto-platforms-lost-billions-to-cyberattacks-many-even-after-audits.html) ⭐️ 7.0/10
-
-根据加密货币数据网站 CoinGecko 8 月 27 日的报告，2025 年 1 月至 2026 年 7 月期间，加密货币平台因网络攻击和密钥被盗共损失超过 36.3 亿美元，其中约 88%的被盗资金来自已完成安全审计的平台。
-
-rss · CNBC Finance · 9月8日 16:16
-
-**「背景」** 安全审计通常用于检查平台代码和系统漏洞，但报告指出，多数攻击针对的是审计未覆盖的领域。
-
-**「影响」** 此次损失中，Bybit 损失最严重，达 14 亿美元，其次是 KelpDao 损失 2.92 亿美元、Drift Protocol 损失 2.85 亿美元，凸显了加密货币平台在安全审计之外仍面临重大风险。
-
-**标签**: `#cryptocurrency`, `#cybersecurity`, `#hacks`, `#CoinGecko`, `#Bybit`
-
----
-
-<a id="item-finance-news-5"></a>
-### [贝森特挑战交易员做空日元：称“我现在就是庄家”](https://www.bloomberg.com/news/articles/2026-09-08/bessent-dares-traders-to-bet-against-yen-i-am-the-house-now) ⭐️ 7.0/10
-
-美国财长贝森特公开挑战交易员做空日元，称自己拥有不对称信息，对日本央行和政府的干预行动有深入了解。日元正逼近今年最强水平，市场预期日本央行可能在 9 月 18 日加息 25 个基点。
+美国财政部长贝森特公开挑战交易员做空日元，称自己“就是庄家”，并声称对日本央行和政府的干预行动有深入了解。目前日元接近今年最强水平，市场预期日本央行可能在 9 月 18 日加息 25 个基点。
 
 telegram · zaihuapd · 9月9日 12:45
 
-**「背景」** 贝森特自 2025 年起担任美国财政部长，曾为索罗斯基金管理公司合伙人。他此番言论暗示美国可能参与支持日元的干预行动，而日本央行预计将在 9 月 18 日加息 25 个基点。
+**「背景」** 贝森特的言论表明美国可能支持或知晓日本干预汇市的行动，这与他作为财政部长的身份相关。日元走强和日本央行加息预期是当前市场关注焦点。
 
-**「市场影响」** 贝森特的言论可能加剧日元波动，交易员将密切关注日本央行 9 月 18 日会议及可能的干预行动。
+**「影响」** 这一表态可能影响外汇市场交易策略，尤其是做空日元的投资者需关注潜在干预风险。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Scott_Bessent">Scott Bessent - Wikipedia</a></li>
-<li><a href="https://www.bloomberg.com/news/articles/2026-09-08/bessent-dares-traders-to-bet-against-yen-i-am-the-house-now">Treasury Secretary Bessent Says He Has ‘Pretty Good... - Bloomberg</a></li>
-<li><a href="https://www.cnbc.com/2026/09/03/yen-japan-intervention-boj.html">Japanese yen surges as BOJ rate bets and intervention talk grow</a></li>
-<li><a href="https://www.japantimes.co.jp/business/2026/09/01/economy/bessent-japan-yen-boj-rate-hike/">Bessent expects Japan to act to boost yen, signaling BOJ rate-hike chance - The Japan Times</a></li>
-<li><a href="https://www.stonex.com/en-gb/news-and-analysis/usd-jpy-pressured-as-boj-hike-bets-ramp-up/">USD/JPY Pressured as BOJ Hike Bets Ramp Up - StoneX</a></li>
-
-</ul>
-</details>
-
-**标签**: `#yen`, `#currency intervention`, `#U.S. Treasury`, `#BOJ`, `#market sentiment`
+**标签**: `#yen`, `#currency markets`, `#U.S. Treasury`, `#Bank of Japan`, `#policy intervention`
 
 ---
 
 ## 科技新闻
 
 <a id="item-tech-news-1"></a>
-### [OpenAI 公布纳维–斯托克斯千禧年难题解答](https://openai.com/index/navier-stokes-solution/) ⭐️ 9.0/10
-
-OpenAI 宣布其内部 AI 系统已解答纳维–斯托克斯存在性与光滑性问题，这是七大千禧年大奖难题之一。该系统给出的证明表明，起初光滑的流体可在有限时间内产生奇点，并同时公开了论文与 Lean 形式化验证。求解过程动用了约 1 万个并行智能体、270 万条消息和约 1300 亿输出 token。OpenAI 表示无意申领该奖项。此外，OpenAI 起初误以为 Anthropic 员工 Levent Alpöge 与纽约大学教授 Tristan Buckmaster 也解出了该题，提出联合发布，后得知对方解出的是受迫欧拉方程，并承认对方在该问题上的优先权。
-
-telegram · zaihuapd · 9月9日 08:00
-
-**「背景」** 纳维–斯托克斯存在性与光滑性问题要求证明描述流体运动的纳维–斯托克斯方程在三维空间中是否总是存在光滑且全局有效的解，或是否存在有限时间内发展出奇点（即解失去光滑性）的情况。该问题被克雷数学研究所列为七个千禧年大奖难题之一，每个问题的解答者可获得一百万美元奖金。OpenAI 于 2026 年 9 月 8 日宣布，其内部 AI 系统给出了一个证明，表明有限时间内可产生奇点，并提供了 Lean 证明助手的形式化验证。
-
-**「影响」** 若该证明经同行评审成立，将首次以严格数学方式确认纳维–斯托克斯方程可在有限时间内产生奇点，直接改变流体力学与偏微分方程理论的基础认知，并可能影响依赖该方程数值模拟的工程与气象预测的可靠性判断。同时，OpenAI 使用约 1 万个并行智能体、270 万条消息和约 1300 亿输出 token 完成证明并辅以 Lean 形式化验证，展示了大规模 AI 系统在数学研究中的实际能力，可能推动 AI 辅助证明的标准化应用。但该结果尚未经独立验证，且 OpenAI 明确不申领千禧年奖项，其数学正确性与优先权仍有待学界确认。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://openai.com/index/navier-stokes-solution/">On the Navier–Stokes Millennium Prize Problem | OpenAI</a></li>
-<li><a href="https://www.unite.ai/openai-says-internal-ai-system-resolved-the-navier-stokes-problem/">OpenAI Says Internal AI System Resolved the Navier–Stokes ...</a></li>
-<li><a href="https://openai.com/index/navier-stokes-solution/">On the Navier–Stokes Millennium Prize Problem | OpenAI</a></li>
-<li><a href="https://www.nature.com/articles/d41586-026-02842-5">OpenAI claims Navier-Stokes proof as rival teams post their own</a></li>
-
-</ul>
-</details>
-
-**标签**: `#OpenAI`, `#Navier-Stokes`, `#Millennium Prize`, `#AI research`, `#Lean verification`
-
----
-
-<a id="item-tech-news-2"></a>
 ### [美国指控六家中国 AI 公司大规模蒸馏盗用技术](https://www.reuters.com/technology/us-accuses-chinese-ai-firms-industrial-scale-theft-ai-technology-2026-09-08/) ⭐️ 8.0/10
 
-美国政府于 9 月 8 日指控 DeepSeek、Moonshot AI、阿里巴巴等六家中国 AI 公司，通过“蒸馏”技术大规模盗用 Anthropic、OpenAI、谷歌和 SpaceX 等美国企业的 AI 模型知识产权，并称相关行为“很可能在中国政府知情下进行”。美方认为此举不仅降低了中国企业的研发成本，还增强了中国的军事和网络攻击能力。该指控发生在习近平月底访美及中美 AI 安全对话前夕，可能加剧两国科技紧张关系。目前，涉事中国公司尚未公开回应。
+美国政府于 2026 年 9 月 8 日指控 DeepSeek、Moonshot AI、阿里巴巴等六家中国 AI 公司通过“蒸馏”技术大规模盗用 Anthropic、OpenAI、谷歌和 SpaceX 等美国企业的 AI 模型知识产权，并称相关行为“很可能在中国政府知情下进行”。美方认为此举不仅降低了中国企业的研发成本，还增强了中国的军事和网络攻击能力。该指控发生在习近平月底访美及中美 AI 安全对话前夕，可能对中美科技关系和 AI 政策产生重大影响。目前相关公司尚未公开回应。
 
 telegram · zaihuapd · 9月9日 09:43
 
-**「背景」** 知识蒸馏是一种模型压缩技术，通过让一个较小的模型学习大型模型的输出，从而在降低计算成本的同时保留类似能力。美国政府在 2026 年 9 月 8 日发布的联合公告中，点名 DeepSeek、Moonshot AI、阿里巴巴、MiniMax、StepFun 和 Z.AI 六家中国公司，指控它们通过数百万次查询和请求，系统性地提取了 OpenAI、Anthropic、Google 和 xAI 等美国公司模型的功能。
+**「背景」** 知识蒸馏是一种模型压缩技术，通过让较小的模型学习较大模型的输出，从而在保持性能的同时降低计算成本。近年来，中国 AI 公司被指利用蒸馏技术快速提升模型能力，而美国公司则担忧其知识产权被侵犯。此次指控发生在中美高层会晤前夕，可能加剧两国在 AI 领域的紧张关系。
 
-**「影响」** 这一指控可能促使美国政府对相关中国 AI 公司实施新的出口管制或制裁，并影响中美在 AI 安全领域的对话与合作，进而波及全球 AI 供应链和跨境技术合作。
+**「影响」** 这一指控可能加剧中美科技紧张关系，并影响双方在人工智能安全等领域的对话与合作。
 
 <details><summary>参考链接</summary>
 <ul>
 <li><a href="https://time.news/us-accuses-alibaba-deepseek-of-stealing-ai-tech-from-american-companies/">US Accuses Alibaba, DeepSeek of Stealing AI Tech from American Companies - Time News</a></li>
-<li><a href="https://www.ibtimes.co.uk/us-agencies-accuse-chinese-ai-firms-extracting-us-ai-model-capabilities-1818601">US Names Six Chinese AI Firms Accused of Stealing Claude, GPT and Gemini Capabilities | IBTimes UK</a></li>
-<li><a href="https://www.newindianexpress.com/world/2026/Sep/09/washington-accuses-chinese-ai-firms-of-systematic-theft-from-us-rivals">Washington accuses Chinese AI firms of &#x27;systematic&#x27; theft from US rivals</a></li>
+<li><a href="https://www.nbcnews.com/tech/tech-news/us-accuses-china-ai-developers-deepseek-alibaba-copying-american-ai-rcna596696">US accuses China AI developers DeepSeek and Alibaba of copying American AI</a></li>
+<li><a href="https://www.reuters.com/technology/us-accuses-chinese-ai-firms-industrial-scale-theft-ai-technology-2026-09-08/">US accuses Chinese AI firms of &#x27;malicious&#x27; copying of AI ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI policy`, `#geopolitics`, `#intellectual property`, `#Chinese AI`, `#US-China relations`
+**标签**: `#AI policy`, `#geopolitics`, `#intellectual property`, `#model distillation`, `#China`
+
+---
+
+<a id="item-tech-news-2"></a>
+### [OpenAI 称 GPT-6 Astra 思维链可监测性显著下降](https://deploymentsafety.openai.com/gpt-6-astra) ⭐️ 8.0/10
+
+OpenAI 披露，其新一代模型 GPT-6 Astra 相较前代出现“显著”的思维链（CoT）可监测性下降。首席科学家 Jakub Pachocki 表示，依赖 CoT 监测的能力正“逐步减弱”，原因是模型越来越能控制自身推理过程，并能在更少甚至无需语言化推理的情况下完成更复杂任务。官方开发文档同时提醒，Astra 的代理间消息可能出现语法或空格错误。英国 AI Safety Institute 的外部评估还发现，Astra 的原始推理更加压缩，含义不清的短语有所增加。这一变化引发了对 AI 安全与可解释性的担忧。
+
+telegram · zaihuapd · 9月9日 17:45
+
+**「背景」** 思维链（Chain-of-Thought, CoT）是大型语言模型在推理过程中生成的中间步骤，旨在提高推理的透明度和可解释性。OpenAI 等机构常通过监测 CoT 来评估模型的安全性和对齐程度。GPT-6 Astra 是 OpenAI 的新一代模型，其 CoT 可监测性下降意味着安全监测手段的有效性可能减弱。
+
+**「影响」** 对于依赖 CoT 监测来确保 AI 安全的研究者和开发者，GPT-6 Astra 的 CoT 可监测性下降可能削弱他们识别模型潜在风险的能力，需要探索新的监测方法。
+
+**标签**: `#AI safety`, `#chain-of-thought`, `#interpretability`, `#OpenAI`, `#GPT-6`
 
 ---
 
 <a id="item-tech-news-3"></a>
-### [OpenAI 发布 ChatGPT Images 2.5 图像模型](https://openai.com/index/introducing-chatgpt-images-2-5/) ⭐️ 7.0/10
+### [美英立法者推动禁止超级智能 AI 法案](https://time.com/article/2026/09/08/ban-superintelligence-ai-uk-us-lawmakers/) ⭐️ 7.0/10
 
-OpenAI 于 9 月 8 日发布 ChatGPT Images 2.5 图像模型，宣称在细节清晰度、编辑精准度和生成速度上均有提升，图像生成延迟较 2.0 版本最高降低 50%。新模型已向 ChatGPT、ChatGPT Work 和 Codex 的全平台用户推出，同时 ChatGPT 新增 Sketch 手绘引导、模板、图片评论与提示词分享功能。API 同步上线 GPT-Image-2.5 Flare 和 Sunburst 两款模型，供开发者集成使用。此次更新属于渐进式改进，而非范式转变，但对依赖图像生成的用户和开发者而言，性能和功能上的提升具有实际意义。
+美国参议员桑德斯宣布将提出《禁止人工超级智能法案》，旨在禁止开发比人类更聪明的 AI，并暂停其他先进 AI 研究。英国议员索贝尔也在下议院提出据称是 G7 议会中首份相关法案，要求赋予政府监控和限制超级智能“前体”系统的权力。两份法案还要求各自政府推动全球条约，但通过前景渺茫。伯克利教授拉塞尔警告，AI 可能造成“切尔诺贝利级灾难”，如协同破坏金融、通信或电网系统。这些立法努力反映了对 AI 潜在风险的担忧，但实际影响尚不确定。
 
-telegram · zaihuapd · 9月9日 02:45
+telegram · zaihuapd · 9月9日 11:06
 
-**「背景」** ChatGPT Images 是 OpenAI 推出的 AI 图像生成模型系列，此前版本为 2.0。此次发布的 2.5 版本在细节呈现、编辑精准度和生成速度上均有提升，并针对开发者提供了 GPT-Image-2.5 Flare 和 Sunburst 两个 API 模型，分别对应不同的速度配置。
+**「背景」** 超级智能 AI 通常指在几乎所有认知任务上超越人类智能的系统，其潜在风险包括可能削弱国家权威或造成灾难性后果。此前，AI 安全领域已有多次关于高级 AI 风险的警告，但各国立法行动相对滞后。此次美英立法者的提案，标志着 G7 国家中首次有议会层面推动相关禁令，反映了对 AI 快速发展可能带来的失控风险的担忧。
 
-**「影响」** 对于使用 ChatGPT、ChatGPT Work、Codex 或调用 API 的图像生成用户和开发者，新模型将带来更清晰的图像细节、更精准的编辑能力以及最高 50% 的延迟降低，从而提升创作效率和交互体验。
+**「影响」** 若法案通过，美国与英国将分别禁止开发超越人类智能的 AI 并暂停相关先进研究，同时赋予政府监控和限制超级智能“前体”系统的权力，这可能显著改变 AI 研发格局并引发全球监管连锁反应。然而，法案通过前景渺茫，且专家警告若未能及时禁止，AI 可能造成“切尔诺贝利级灾难”，如协同破坏金融、通信或电网系统。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://9to5mac.com/2026/09/08/openai-releases-chatgpt-images-2-5-with-sharper-details-and-more-precise-editing/">OpenAI releases ChatGPT Images 2 . 5 with &#x27;sharper details &#x27; and...</a></li>
-<li><a href="https://www.androidauthority.com/openai-chatgpt-images-2-5-model-3709062/">ChatGPT can now create AI slop posters with more... - Android Authority</a></li>
-<li><a href="https://apidog.com/blog/what-is-chatgpt-images-2-5/">What is ChatGPT Images 2 . 5 ?</a></li>
+<li><a href="https://time.com/article/2026/09/08/ban-superintelligence-ai-uk-us-lawmakers/">time.com/article/ 2026 /09/08/ ban -superintelligence- ai - uk - us - lawmakers</a></li>
+<li><a href="https://belarusvc.com/news/us-and-uk-move-to-ban-development-of-superintelligent-ai/">US and UK Move to Ban Development of Superintelligent AI</a></li>
+<li><a href="https://www.rusi.org/explore-our-research/publications/commentary/case-banning-superintelligent-ai-its-too-late">The Case for Banning Superintelligent AI , Before It&#x27;s Too Late</a></li>
+<li><a href="https://www.axios.com/2026/09/03/bernie-sanders-superintelligence-ban-ai-pause">Bernie Sanders floats ban on superintelligent AI</a></li>
 
 </ul>
 </details>
 
-**标签**: `#OpenAI`, `#image generation`, `#AI model release`, `#ChatGPT`, `#API`
+**标签**: `#AI policy`, `#AI safety`, `#legislation`, `#superintelligence`, `#governance`
 
 ---
 
 <a id="item-tech-news-4"></a>
-### [美英立法者推动禁止超级智能 AI 法案](https://time.com/article/2026/09/08/ban-superintelligence-ai-uk-us-lawmakers/) ⭐️ 7.0/10
+### [陶哲轩：AI 正在“开采”数学难题并抑制研究分享](https://mathstodon.xyz/@tao/117237320796901560) ⭐️ 7.0/10
 
-美国参议员伯尼·桑德斯宣布将提出《禁止人工超级智能法案》，旨在禁止开发比人类更聪明的 AI，并暂停其他先进 AI 研究。与此同时，英国议员索贝尔在下议院提出据称是 G7 议会中首份相关法案，要求赋予政府监控和限制超级智能“前体”系统的权力。两份法案还要求各自政府推动全球条约，但通过前景渺茫。伯克利教授拉塞尔警告，AI 可能造成“切尔诺贝利级灾难”，如协同破坏金融、通信或电网系统。
+知名数学家陶哲轩近日表示，AI 工具正在许多数学领域抹平难度梯度，使得研究者更难发现值得研究的新问题，同时“AI 可解”与“AI 困难”问题之间的边界仍不清晰。他警告，强力工具无差别解题可能削弱开放科学生态，促使研究者不再分享研究方向。为此，他建议对部分问题不仅要给出答案，还应分析解题过程和相关难度。这些言论反映了 AI 对数学研究实践和开放科学文化的潜在影响。
 
-telegram · zaihuapd · 9月9日 11:06
+telegram · zaihuapd · 9月9日 11:30
 
-**「背景」** 超级智能 AI 通常指在几乎所有认知任务上超越人类智能的系统，目前尚未实现。近年来，AI 安全领域的研究者不断警告，若不加控制地发展超级智能，可能带来灾难性风险。此前，美国国会尚未通过任何针对 AI 的重大立法，而英国等 G7 国家也缺乏专门禁止超级智能的法案。
+**「背景」** 陶哲轩是菲尔兹奖得主，长期关注人工智能在数学研究中的应用。他曾在 2024 年测试早期 OpenAI 模型时，将其比作“平庸但并非完全无能的研究生”，而到 2026 年，他已认为 AI 模型在数学和理论物理领域“已可投入实际使用”，能节省时间并辅助文献检索、代码编写和验证。
 
-**「影响」** 若法案通过，将直接限制美英两国乃至全球的先进 AI 研发活动，影响相关企业和研究机构。但由于通过前景渺茫，短期内对 AI 发展的实际影响有限。
+**「影响」** 数学研究者可能因担心研究方向被 AI 抢先或过度简化而减少公开分享，进而影响开放科学生态；同时，AI 工具的普及可能迫使数学界重新定义“有价值的问题”并调整研究评价方式。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.binance.com/en/square/post/09-03-2026-sanders-and-casar-propose-bill-to-ban-superintelligent-ai-development-362809068147755">Sanders and Casar Propose Bill to Ban Superintelligent AI ...</a></li>
-<li><a href="https://www.lesswrong.com/posts/YGCnPgyZzfP5qxTyY/a-superintelligence-bill-was-just-introduced-now-is-the-time">A superintelligence bill was just introduced - now is... — LessWrong</a></li>
+<li><a href="https://forum.openai.com/public/blogs/terence-tao-ai-is-ready-for-primetime-in-math-and-theoretical-physics-2026-03-10">Terence Tao: AI Is Ready for Primetime in Math and ...</a></li>
+<li><a href="https://academy.openai.com/public/blogs/terence-tao-ai-is-ready-for-primetime-in-math-and-theoretical-physics-2026-03-06">Terence Tao: AI is ready for primetime in math and ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI policy`, `#superintelligence`, `#legislation`, `#AI safety`, `#regulation`
+**标签**: `#AI`, `#mathematics`, `#research methodology`, `#open science`
 
 ---
 
 <a id="item-tech-news-5"></a>
-### [陶哲轩：AI 抹平数学难度梯度，威胁开放科学](https://mathstodon.xyz/@tao/117237320796901560) ⭐️ 7.0/10
+### [DeepSeek 将发布 V4.1 Flash 并路由 V4 Pro 请求](https://platform.deepseek.com/usage) ⭐️ 7.0/10
 
-知名数学家陶哲轩在 Mathstodon 上表示，AI 工具正在许多数学领域抹平难度梯度，使研究者更难发现值得研究的新问题，且目前区分“AI 可解”与“AI 困难”问题的边界仍不清晰。他警告，强力工具无差别解题可能削弱开放科学生态，促使研究者不再分享研究方向。为此，他建议对部分问题不仅要给出答案，还应分析解题过程和相关难度。这一评论反映了 AI 对数学研究实践和开放科学文化的潜在影响。
-
-telegram · zaihuapd · 9月9日 11:30
-
-**「背景」** 数学研究依赖识别有难度梯度的问题，即从易到难的问题分布，研究者通过攻克难题推动领域发展。AI 工具（如定理证明助手和自动解题系统）正在改变这一格局，可能使传统上需要人类洞察力的问题变得可解，从而影响研究选题和合作方式。
-
-**「影响」** 对数学研究者而言，AI 工具可能减少可公开讨论的研究方向，因为分享可能被他人利用 AI 快速跟进，从而削弱开放合作；同时，研究者需更注重问题难度评估和解题过程分析，以维持研究价值。
-
-**标签**: `#AI in mathematics`, `#open science`, `#research practices`, `#Terence Tao`, `#AI impact`
-
----
-
-<a id="item-tech-news-6"></a>
-### [DeepSeek 发布 V4.1 Flash，V4 Pro 请求将自动路由](https://platform.deepseek.com/usage) ⭐️ 7.0/10
-
-DeepSeek 宣布将于北京时间 2026 年 9 月 10 日前后正式发布 V4.1 Flash 模型。据称，经内部和外部多方测试，V4.1 Flash 在性能、费用、速度和总用时等指标上全面超越 V4 Pro。在 V4.1 Flash 上线后至 V4.1 Pro 发布前，所有对 V4 Pro 的请求将被自动路由到 V4.1 Flash，并按 V4.1 Flash 的单价计费。这一变动将影响使用 V4 Pro 的开发者，带来性能提升和成本变化。
+DeepSeek 宣布将于北京时间 2026 年 9 月 10 日前后发布 V4.1 Flash 模型。据称，该模型在性能、费用、速度和总用时等指标上全面超越 V4 Pro。在 V4.1 Flash 上线后至 V4.1 Pro 发布前，所有对 V4 Pro 的请求将被路由至 V4.1 Flash，并按 V4.1 Flash 的单价计费。此消息来自 Telegram 频道，具体技术细节和官方报告尚未公布。
 
 telegram · zaihuapd · 9月9日 15:18
 
-**「背景」** DeepSeek 于 2026 年 7 月 31 日发布了 V4 Flash 的正式版本（V4-Flash-0731），该版本取代了 4 月的预览版，并在 8 月 16 日引入了峰谷定价。据外部报道，DeepSeek V4.1 Flash 的模型 ID 已出现在其 API 中，带有“expires-on-0910”的过期标记，暗示该模型计划于 2026 年 9 月 10 日发布。
+**「背景」** DeepSeek 此前已发布 V4 系列模型，包括 V4 Flash 和 V4 Pro，其中 V4 Pro 于 2025 年 8 月 13 日发布。近期，DeepSeek 推出了 V4.1 Flash 的内部测试版本，模型名称为 \`deepseek-v4.1-flash-expires-on-0910\`，该版本支持多模态功能且成本更低。
 
-**「影响」** 使用 DeepSeek V4 Pro 的开发者将在 V4.1 Flash 上线后自动获得性能提升，并可能因单价调整而改变成本，但具体价格和性能数据尚未公布。
+**「影响」** 使用 DeepSeek API 的开发者将在 V4.1 Flash 发布后自动获得更优性能和更低成本，但需注意计费将按新模型单价执行，且路由变更可能影响依赖 V4 Pro 特定行为的应用。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://felloai.com/deepseek-v4/">DeepSeek V4: Specs, Benchmarks and the 0731 Release</a></li>
-<li><a href="https://www.orcarouter.ai/blog/deepseek-v4-1-flash-leak">DeepSeek V4.1 Flash API Beta: What We Know Before Launch</a></li>
+<li><a href="https://www.kucoin.com/news/flash/deepseek-launches-v4-1-flash-internal-test-version-with-multimodal-support-and-lower-costs">DeepSeek Launches v4.1 Flash Internal Test Version with Multimodal Support and Lower Costs | KuCoin</a></li>
+<li><a href="https://cellcog.ai/blog/deepseek-v4-1-flash-release-date/">DeepSeek V4.1 Flash: Release Date, the Test Model That Expires September 10, and What DeepSeek Has Published | CellCog</a></li>
 
 </ul>
 </details>
 
-**标签**: `#DeepSeek`, `#AI model release`, `#machine learning`, `#technology industry`, `#announcement`
+**标签**: `#deepseek`, `#model-release`, `#ai-models`, `#llm`, `#technology-news`
+
+---
+
+<a id="item-tech-news-6"></a>
+### [美国防部要求 OpenAI 开发减少对军事任务拒绝的模型](https://theintercept.com/2026/09/08/pentagon-openai-military-contract/) ⭐️ 7.0/10
+
+最新泄露的文件显示，美国国防部要求 OpenAI 提供其人工智能技术的特殊版本，以尽可能不频繁地拒绝军事指挥。该条款出现在一份更新合同的“P00003”版本中，该版本扩展了去年夏天国防部与 OpenAI 的原订交易。然而，OpenAI 和五角大楼均否认同意这种“最小拒绝”语言，声称泄露的“P00003”文件是草稿而非最终版本。OpenAI 发言人 Nate Evans 表示，OpenAI 从未同意要求“最低拒绝率”的合同语言，此类内容未出现在已执行的合同中。这一事件引发了对 AI 安全、伦理及军事应用的关注。
+
+telegram · zaihuapd · 9月9日 17:02
+
+**「背景」** OpenAI 与国防部的合作始于去年夏天，旨在探索 AI 在国防领域的应用。此次泄露的合同修订版“P00003”据称包含要求模型对军事命令保持最低拒绝率的条款，这涉及 AI 对齐和伦理问题，即 AI 系统是否应无条件服从军事指令。
+
+**「影响」** 如果此类条款被证实，将可能削弱 AI 安全措施，增加 AI 在军事行动中被滥用的风险，并影响公众对 AI 公司的信任。目前双方否认，但泄露文件的存在表明相关讨论可能正在进行。
+
+**标签**: `#AI ethics`, `#military AI`, `#OpenAI`, `#defense contracts`, `#AI safety`
 
 ---
