@@ -5,183 +5,197 @@ date: 2026-09-11
 lang: zh
 ---
 
-> 从 26 条内容中筛选出 7 条重要资讯。
+> 从 26 条内容中筛选出 8 条重要资讯。
 
 ---
 
 **财经新闻**
-1. [OpenAI 推出面向金融服务业的 ChatGPT，瞄准投行初级银行家工作](#item-finance-news-1) ⭐️ 7.0/10
-2. [Kalshi 获 CFTC 批准推出黄金和白银永续期货](#item-finance-news-2) ⭐️ 7.0/10
+1. [Kalshi 获 CFTC 批准推出黄金和白银永续期货](#item-finance-news-1) ⭐️ 7.0/10
 
 **科技新闻**
-1. [OpenAI 考虑放缓前沿 AI 开发](#item-tech-news-1) ⭐️ 8.0/10
-2. [OpenAI API 上线 GPT-Live-1 实时语音模型](#item-tech-news-2) ⭐️ 8.0/10
-3. [腾讯混元发布开源音频编辑模型 AuK](#item-tech-news-3) ⭐️ 7.0/10
-4. [Anthropic 报告点名七家中国 AI 实验室大规模蒸馏 Claude](#item-tech-news-4) ⭐️ 7.0/10
-5. [中国重组月球探测工程 嫦娥八号原方案取消](#item-tech-news-5) ⭐️ 7.0/10
+1. [Anthropic 报告点名七家中国 AI 实验室大规模蒸馏 Claude](#item-tech-news-1) ⭐️ 8.0/10
+2. [OpenAI 在 API 上线全双工语音模型 GPT-Live-1](#item-tech-news-2) ⭐️ 8.0/10
+3. [GitLab 紧急修复 CVSS 10.0 未授权文件读取漏洞](#item-tech-news-3) ⭐️ 8.0/10
+4. [OpenAI 推出 Agents API 公测版](#item-tech-news-4) ⭐️ 8.0/10
+5. [OpenAI 暂停 200 美元 ChatGPT Pro 新订阅](#item-tech-news-5) ⭐️ 7.0/10
+6. [OpenAI 或愿协调放缓前沿 AI 开发](#item-tech-news-6) ⭐️ 7.0/10
+7. [中国重组月球探测工程 嫦娥八号原方案取消](#item-tech-news-7) ⭐️ 7.0/10
 
 ---
 
 ## 财经新闻
 
 <a id="item-finance-news-1"></a>
-### [OpenAI 推出面向金融服务业的 ChatGPT，瞄准投行初级银行家工作](https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html) ⭐️ 7.0/10
-
-OpenAI 于周四发布 ChatGPT for Financial Services，这是其企业产品 ChatGPT Work 的定制版本，与摩根士丹利和 Evercore 合作开发，可自动完成公司研究、财务数据分析并生成投行演示文稿。该产品使用 OpenAI 最新模型 GPT-6 Astra，并接入 LSEG、Daloopa 和 PitchBook 的原生数据。
-
-rss · CNBC Finance · 9月11日 03:02
-
-**「背景」** 投行长期依赖刚毕业的初级分析师和经理研究交易并制作推介材料，而 OpenAI 正加大企业市场投入，与 Anthropic 和谷歌竞争；Anthropic 去年已推出面向华尔街的 Claude for Financial Services。
-
-**「影响」** 若此类工具能快速完成研究和推介材料制作，投行可能需重新考虑初级银行家的培训方式和招聘规模；高盛合伙人 Chris Churchman 上月警告，自动化培训性任务可能导致下一代金融从业者出现“认知萎缩”。
-
-**标签**: `#AI in finance`, `#investment banking`, `#OpenAI`, `#enterprise software`, `#labor disruption`
-
----
-
-<a id="item-finance-news-2"></a>
 ### [Kalshi 获 CFTC 批准推出黄金和白银永续期货](https://www.cnbc.com/2026/09/10/kalshi-launches-perps-for-gold-and-silver-following-cftc-approval-expanding-futures-offerings.html) ⭐️ 7.0/10
 
-Kalshi 获得美国商品期货交易委员会（CFTC）批准，可上市与黄金和白银挂钩的永续期货，这是该公司首个非加密货币类永续合约，相关市场已于周四上线。
+Kalshi 本周获得美国商品期货交易委员会（CFTC）批准，可上市与黄金和白银挂钩的永续期货，合约已于周四在其平台上线。这是该公司首次获批非加密资产的永续期货产品。
 
 rss · CNBC Finance · 9月10日 22:00
 
-**「背景」** Kalshi 此前已于 5 月底获准在美国上线与加密货币挂钩的永续期货，这是该类合约首次在美合规落地；此次黄金和白银合约是 CFTC 批准的首个非加密类永续期货。永续期货没有到期日，通过资金费率机制使合约价格贴近标的资产价格，投资者无需持有实物资产。
+**「背景」** Kalshi 今年 5 月底首次获准在美国上市加密货币永续期货；永续期货是没有到期日、无需持有标的资产的合约，通过资金费率机制使价格贴近市场价。
 
-**「影响」** 传统期货交易所可能面临客户与交易量分流的压力：Kalshi 的贵金属永续合约全天候交易、无到期日，与 CME、CBOE 现有产品直接竞争，CME 已就 CFTC 的批准提起诉讼。
+**「影响」** 消息公布后，传统期货交易所 CBOE 和 CME 股价下跌，市场担心这类新合约可能冲击其现有业务；CME 已起诉 CFTC，称该机构不当批准了这些合约。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.binance.com/en/square/post/09-10-2026-kalshi-wins-cftc-approval-for-gold-and-silver-perpetual-contracts-365192942307804">Kalshi Wins CFTC Approval for Gold and Silver Perpetual Contracts</a></li>
-<li><a href="https://finance.yahoo.com/markets/commodities/articles/kalshi-launches-gold-silver-perpetual-175449558.html">Kalshi launches gold and silver perpetual futures with CFTC approval</a></li>
-<li><a href="https://cryptobriefing.com/kalshi-launches-gold-and-silver-perps-after-cftc-approval/">Kalshi launches gold and silver perps after CFTC approval</a></li>
-<li><a href="https://defirate.com/news/kalshi-certifies-gold-and-silver-perpetual-contracts/">Kalshi Certifies Gold and Silver Perpetual Contracts While Lawsuit ...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#commodities`, `#derivatives regulation`, `#CFTC`, `#Kalshi`, `#gold and silver`
+**标签**: `#CFTC`, `#Kalshi`, `#perpetual futures`, `#gold and silver`, `#derivatives regulation`
 
 ---
 
 ## 科技新闻
 
 <a id="item-tech-news-1"></a>
-### [OpenAI 考虑放缓前沿 AI 开发](https://www.bloomberg.com/news/articles/2026-09-11/openai-is-open-to-slowing-cutting-edge-ai-ceo-sam-altman-tells-staff) ⭐️ 8.0/10
+### [Anthropic 报告点名七家中国 AI 实验室大规模蒸馏 Claude](https://www.anthropic.com/threat-intelligence-report-september-2026) ⭐️ 8.0/10
 
-据彭博社报道，多名知情人士透露，OpenAI 正考虑放缓前沿人工智能开发。首席执行官萨姆·奥尔特曼本周在全员会议上表示，公司可能与其他 AI 实验室协调放慢进度，但部分公司或不愿配合。报道称，OpenAI 近期已因安全担忧放缓部分模型开发，并暂停某些内部 AI 训练。公司拒绝置评，其首席科学家呼吁在建立共同安全标准前自愿放缓未来开发。该消息基于匿名信源，缺乏技术细节与已确认的具体安排。
-
-telegram · zaihuapd · 9月11日 10:23
-
-**「背景」** OpenAI 是推动前沿 AI 竞赛的主要实验室之一，其公开路线图此前仍列出到 2027 年的 GPT-6 开发里程碑。此次奥尔特曼的表态并非宣布永久暂停或取消研究项目，而是讨论在安全评估无法跟上时协调放缓特定类型的前沿开发。这一立场与 OpenAI 同时推动强制性国家安全要求、独立评估、事件报告和共同标准的做法并行。
-
-**「影响」** 若 OpenAI 真与其他实验室协调放缓前沿开发，其最直接后果是前沿模型发布与训练节奏可能整体延后，行业竞争格局与 AI 治理讨论将随之变化；但报道基于匿名消息且公司拒绝置评，协调能否落地仍不确定。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://insideai.news/news/ai-safety/openai-slowing-ai-development/10248/">Altman Tells Staff OpenAI Is Open to Slowing AI Development</a></li>
-<li><a href="https://kingy.ai/news/openai-ai-development-slowdown-safety/">OpenAI Says It Could Slow the AI Race—If the Industry Slows Together - Kingy AI</a></li>
-<li><a href="https://www.internationalnewsandviews.com/openai-ai-safety-sam-altman-slow-ai-development-408436-2/">OpenAI AI Safety: Sam Altman Signals AI Slowdown If Needed</a></li>
-<li><a href="https://www.linkedin.com/pulse/five-signal-global-briefing-august-19-2026-molt-6hzbc">Five-Signal Global Briefing — August 19, 2026</a></li>
-<li><a href="https://www.thedeepview.com/articles/openai-slows-the-frontier-to-regain-control">OpenAI slows the frontier to regain control | The Deep View</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI governance`, `#OpenAI`, `#AI safety`, `#frontier models`, `#industry news`
-
----
-
-<a id="item-tech-news-2"></a>
-### [OpenAI API 上线 GPT-Live-1 实时语音模型](https://openai.com/index/introducing-gpt-live-1-in-the-api/) ⭐️ 8.0/10
-
-OpenAI 于 2026 年 9 月 10 日将 GPT-Live-1 上线 API。该模型可同时听说，支持自然打断、背景噪声处理、长对话和电话语音代理，并可将复杂推理与工具调用交给后端模型。OpenAI 称，GPT-Live-1 在 Full Duplex Bench 上较 GPT-Realtime-2.1 提升 30 个百分点；API 语音前端价格为每分钟 0.05 美元。上述信息来自 Telegram 频道摘要，基准测试成绩尚未在所提供的材料中得到独立验证。
-
-telegram · zaihuapd · 9月11日 11:09
-
-**「背景」** GPT‑Live‑1 是 OpenAI 推出的全双工（full-duplex）语音模型，能够同时听与说，此前已先在 ChatGPT 中亮相，随后才开放到 API 供开发者构建语音应用与业务流程。OpenAI 的 Realtime API 系列一直面向低延迟实时对话场景，适用于客服代理、语音助手等交互式用例，GPT‑Live‑1 属于该方向上的新一代模型。
-
-**「影响」** 对语音代理开发者而言，GPT-Live-1 以每分钟 0.05 美元的前端价格提供全双工听说、打断处理与电话代理能力，并可将推理和工具调用委托给自选后端模型，降低了构建实时语音应用的门槛。不过其相对 GPT-Realtime-2.1 提升 30 个百分点的基准成绩来自 OpenAI 自述，尚待独立验证。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://developers.openai.com/api/docs/models/gpt-live-1">GPT-Live 1 Model | OpenAI API</a></li>
-<li><a href="https://openai.com/index/introducing-gpt-live-1-in-the-api/">Build more natural voice experiences with GPT‑Live‑1 in the API | OpenAI</a></li>
-<li><a href="https://learn.microsoft.com/en-us/azure/foundry/openai/how-to/realtime-audio">Use the GPT Realtime API for speech and audio with Azure OpenAI - Microsoft Foundry | Microsoft Learn</a></li>
-<li><a href="https://korshunov.ai/en/article/24593-openai-launches-gpt-live-1-api-for-natural-voice-experiences/">OpenAI launches GPT - Live - 1 API for natural voice experiences</a></li>
-<li><a href="https://cellcog.ai/blog/gpt-live-1/">GPT - Live - 1 in the API: $0.05 a Minute for the Voice, Your... | CellCog</a></li>
-<li><a href="https://www.theregister.com/ai-and-ml/2026/09/10/openai-arms-devs-with-ai-conversation-tool-that-can-talk-and-listen-at-the-same-time/5295708">GPT - Live - 1 makes speaking to AI models more fluid</a></li>
-
-</ul>
-</details>
-
-**标签**: `#OpenAI API`, `#speech models`, `#real-time AI`, `#voice agents`, `#model release`
-
----
-
-<a id="item-tech-news-3"></a>
-### [腾讯混元发布开源音频编辑模型 AuK](https://x.com/TencentHunyuan/status/2097996926876795197) ⭐️ 7.0/10
-
-腾讯混元宣布正式发布开源音频编辑模型 AuK，可通过自然语言指令和参考音频统一完成语音生成与编辑，支持零样本文本转语音、音色/风格/情绪编辑、去口音及多人语音分离等功能。同时发布的 AuK-Flash 采用 4 步推理，在匹配条件下速度约提升 4.5 倍。官方表示代码、模型权重和演示均已上线。该发布为语音与 AI 从业者提供了可直接使用的开放资源，但公告未附带基准测试、论文或独立评测，实际效果尚待验证。
-
-telegram · zaihuapd · 9月10日 19:56
-
-**「背景」** AuK 是腾讯混元推出的开源语音生成与编辑基础模型，参数量为 1.5B，通过自然语言指令与音频上下文这一统一接口完成多种任务。据其技术报告，训练数据包含约 30.3 亿条指令-音频实例、195 万小时有效监督，覆盖语音生成、内容编辑等五个任务族。该模型提供两个变体，其中 AuK-Flash 采用 4 步推理以提升速度。
-
-**「影响」** 对语音与 AI 开发者而言，AuK 以 1.5B 参数、MIT 许可开放权重与代码，降低了构建统一语音生成与编辑能力的门槛，AuK-Flash 的 4 步推理与约 4.5 倍加速则有利于实时或低成本部署。不过这些性能与领先性说法目前主要来自厂商技术报告与基准，尚缺独立评测验证。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://github.com/Tencent-Hunyuan/AuK">GitHub - Tencent-Hunyuan/AuK: AuK: An Open-Source ...</a></li>
-<li><a href="https://arxiv.org/abs/2609.08936">[2609.08936] AuK Technical Report: An Open-Source ...</a></li>
-<li><a href="https://arxiv.org/html/2609.08936v1">AuK Technical Report: An Open-Source Foundational Model for ...</a></li>
-<li><a href="https://www.orcarouter.ai/blog/auk-open-weights-speech-explained">AuK Technical Report: Tencent&#x27;s 1.5B Open Speech Model</a></li>
-<li><a href="https://arxiv.org/html/2609.08936v1">AuK Technical Report: An Open-Source Foundational Model for Speech Generation and Editing</a></li>
-<li><a href="https://sonicfield.org/auk-tencent-speech-editing">AuK turns speech editing into a written instruction - Sonic Field - Operative system for sound and listening culture</a></li>
-
-</ul>
-</details>
-
-**标签**: `#audio-editing`, `#text-to-speech`, `#open-source-models`, `#speech-ai`, `#tencent-hunyuan`
-
----
-
-<a id="item-tech-news-4"></a>
-### [Anthropic 报告点名七家中国 AI 实验室大规模蒸馏 Claude](https://www.anthropic.com/threat-intelligence-report-september-2026) ⭐️ 7.0/10
-
-Anthropic 发布威胁情报报告，称自今年 2 月以来已发现并阻止 7 家中国 AI 实验室针对 Claude 的大规模“蒸馏”活动，直接点名阿里巴巴、智谱、小米、商汤和 MiniMax。报告称阿里巴巴规模最大，5 月至 7 月产生超过 1.51 亿次交互，高峰期每天接近 300 万次，相关数据被用于训练 Qwen 3.5、3.6 和 3.7，并用于强化学习环境和模型架构研究。智谱在 17 天内产生超过 340 万次交互，还尝试提取美国头部模型的网络安全能力；小米在 20 天内产生超过 40 万次交互，部分请求包含用户姓名、联系方式和企业数据等敏感信息。报告还称商汤曾购买第三方收集的 Claude 用户对话用于训练，MiniMax 则通过关联不明显的公司建立代理服务以获取美国前沿模型的交互数据。该报告为单一厂商发布，相关指控尚未得到独立核实。
+Anthropic 发布最新威胁情报报告，称自今年 2 月以来已发现并阻止 7 家中国 AI 实验室针对 Claude 的大规模“蒸馏”活动，并直接点名阿里巴巴、智谱、小米、商汤和 MiniMax。报告称阿里巴巴规模最大，5 月至 7 月产生超过 1.51 亿次交互，高峰期每天接近 300 万次，相关数据被指用于训练 Qwen 3.5、3.6 和 3.7，并用于强化学习环境和模型架构研究。智谱在 17 天内产生超过 340 万次交互，还尝试提取美国头部模型的网络安全能力；小米在 20 天内产生超过 40 万次交互，部分请求被指包含用户姓名、联系方式和企业数据等敏感信息。报告还称商汤曾购买第三方收集的 Claude 用户对话用于训练，MiniMax 则通过关联不明显的公司建立代理服务以获取美国前沿模型的交互数据。该报告为单一厂商发布，相关指控尚未得到独立验证。
 
 telegram · zaihuapd · 9月11日 09:17
 
-**「背景」** 所谓“蒸馏”，通常指用能力更强的模型（如 Claude）的输出作为训练数据，来提升或训练另一个模型，从而以较低成本获得接近前沿模型的能力。Anthropic 早在 2026 年 2 月就曾指控中国实验室从事此类蒸馏活动，本次报告是其后续披露。
+**「背景」** 所谓“蒸馏”是指用能力更强的模型（此处为 Anthropic 的 Claude）的输出作为训练数据，来提升或训练另一个模型的做法，通常违反服务条款。Anthropic 早在 2026 年 2 月就首次指控中国实验室进行此类蒸馏活动，本次报告是其后续披露。据 CNBC 与 Business Insider 报道，Anthropic 称已检测并阻止来自阿里巴巴、Moonshot、DeepSeek、智谱、小米等中国 AI 实验室的大规模未授权行为，并称这些实验室在 5 月至 7 月间合计对 Claude 发起了近 1.9 亿次蒸馏尝试。
 
-**「影响」** 若 Anthropic 的指控被行业与监管机构采信，被点名的阿里、智谱、小米、商汤和 MiniMax 等中国 AI 实验室可能面临美国前沿模型访问受限、API 代理服务被封堵，以及围绕 AI 生成数据所有权与蒸馏合规性的更严格审查。不过该报告为单一厂商未经第三方核实的指控，实际后果仍取决于后续证据与政策回应。
+**「影响」** 若这些指控被证实，被点名的中国 AI 实验室可能面临 Anthropic 更严格的访问限制、账户封禁或法律行动，其依赖 Claude 交互数据训练和强化学习的环境将被迫调整。不过该报告为 Anthropic 单方面发布，相关指控尚未经独立验证，实际后果仍取决于后续证据与各方回应。
 
 <details><summary>参考链接</summary>
 <ul>
 <li><a href="https://www.cnbc.com/2026/09/11/chinese-ai-labs-moonshot-deepseek-alibaba-anthropic.html">Chinese AI labs secretly used millions of Claude exchanges to train their models, Anthropic says</a></li>
 <li><a href="https://siliconangle.com/2026/09/10/anthropic-says-ai-now-lets-lone-operators-run-state-level-hacking-campaigns/">Anthropic says AI now lets lone operators run state-level hacking campaigns - SiliconANGLE</a></li>
-<li><a href="https://www.linkedin.com/pulse/ai-industry-has-data-problem-anthropic-just-made-ignore-dimitrova-5uvce">Who, What, How stole data from Anthropic</a></li>
-<li><a href="https://www.cnbc.com/2026/09/11/chinese-ai-labs-moonshot-deepseek-alibaba-anthropic.html">Chinese AI labs secretly used millions of Claude exchanges to train...</a></li>
-<li><a href="https://medium.com/@ignacio.de.gregorio.noblejas/anthropic-reveals-chinas-dirty-little-ai-secret-2ea42c85f640">Anthropic Reveals China ’s Dirty Little AI Secret. | Medium</a></li>
+<li><a href="https://www.businessinsider.com/china-ai-labs-millions-distillation-attacks-anthropic-claude-2026-9">China&#x27;s star AI labs routed user requests to Claude at least 35 million times in the summer: Anthropic</a></li>
+<li><a href="https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/">Anthropic details distillation campaigns from Alibaba ...</a></li>
+<li><a href="https://www.cnbc.com/2026/09/11/chinese-ai-labs-moonshot-deepseek-alibaba-anthropic.html">Chinese AI labs secretly used millions of Claude exchanges to ...</a></li>
+<li><a href="https://www.businessinsider.com/china-ai-labs-millions-distillation-attacks-anthropic-claude-2026-9">China AI Labs Routed Requests to Claude 35 Million Times ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI industry`, `#threat intelligence`, `#model distillation`, `#Anthropic`, `#China AI`
+**标签**: `#AI security`, `#model distillation`, `#Anthropic`, `#China AI labs`, `#threat intelligence`
+
+---
+
+<a id="item-tech-news-2"></a>
+### [OpenAI 在 API 上线全双工语音模型 GPT-Live-1](https://openai.com/index/introducing-gpt-live-1-in-the-api/) ⭐️ 8.0/10
+
+OpenAI 于 2026 年 9 月 10 日将 GPT-Live-1 上线 API。该模型可同时听说，支持自然打断、背景噪声处理、长对话和电话语音代理，并可将复杂推理与工具调用交给后端模型处理。OpenAI 称 GPT-Live-1 在 Full Duplex Bench 上较 GPT-Realtime-2.1 提升 30 个百分点，API 语音前端价格为每分钟 0.05 美元。上述性能与价格数据均来自 OpenAI 自述，目前尚无独立验证或基准方法说明。
+
+telegram · zaihuapd · 9月11日 11:09
+
+**「背景」** 全双工语音模型指模型可以同时接收输入语音并生成输出语音，而非传统语音助手那样严格轮流说话，因此能支持自然打断、背景噪声下的持续对话等更接近人类通话的交互。OpenAI 此前已在 API 中提供实时语音模型（如 GPT-Realtime-2.1），本次 GPT-Live-1 是其在该方向上的新一代模型，并新增自定义音色与电话语音代理支持。
+
+**「影响」** 对构建语音代理的开发者而言，GPT-Live-1 以每分钟 0.05 美元的前端价格提供全双工对话与后端推理卸载，可能降低实时语音应用的集成与运行成本；据 AlphaSignal 报道，其可将语音代理代码量削减约 80%。不过上述性能与效率数据均来自 OpenAI 自身评测或早期合作方测试，尚缺独立验证。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://openai.com/index/introducing-gpt-live-1-in-the-api/">Build more natural voice experiences with GPT ‑ Live ‑ 1 in the... | OpenAI</a></li>
+<li><a href="https://news.aibase.com/news/30996">Bidirectional Communication and Smooth Interaction: OpenAI ...</a></li>
+<li><a href="https://alphasignal.ai/news/openai-s-gpt-live-1-cuts-voice-agent-code-by-80-at-0-05-a-minute">OpenAI&#x27;s GPT-Live-1 Cuts Voice Agent Code by 80% at $0.05 a Minute | AlphaSignal</a></li>
+<li><a href="https://www.unite.ai/openais-gpt-live-1-arrives-in-the-api-at-0-05-per-minute/">OpenAI’s GPT-Live-1 Arrives in the API at $0.05 Per Minute</a></li>
+<li><a href="https://panews.io/articles/01a08ddd-fb64-750a-8728-230d8e1ad4e9">OpenAI Launches GPT-Live-1 API, Supporting Full-Duplex Voice Conversations | PANews English</a></li>
+
+</ul>
+</details>
+
+**标签**: `#OpenAI`, `#speech-models`, `#API`, `#real-time-AI`, `#model-release`
+
+---
+
+<a id="item-tech-news-3"></a>
+### [GitLab 紧急修复 CVSS 10.0 未授权文件读取漏洞](https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-3-2-released/) ⭐️ 8.0/10
+
+GitLab 于 9 月 10 日发布 19.3.2、19.2.6 和 19.1.8 紧急补丁，修复被官方评为 CVSS 10.0 的漏洞 CVE-2026-85706。在特定条件下，未认证用户可利用代码仓库 commits API 的路径约束和认证缺陷，读取 GitLab 服务器上的任意文件。受影响范围为 18.7 至 19.1.8 之前的版本、19.2.6 之前的 19.2 版本，以及 19.3.2 之前的 19.3 版本。GitLab 强烈建议自建实例立即升级至对应修复版本，GitLab.com 已完成修复，GitLab Dedicated 用户无需操作。该漏洞由研究员 s3ntago 通过 HackerOne 报告，官方尚未公开具体前置条件，网上也未出现可复现的公开 PoC，尚无证据表明已遭在野利用。
+
+telegram · zaihuapd · 9月11日 19:05
+
+**「背景说明」** GitLab 是广泛使用的开源代码托管与 DevOps 平台，许多组织以自建实例方式部署并存放内部代码与敏感数据。CVSS 10.0 是该评分体系中的最高严重级别，通常意味着漏洞可被远程、低门槛利用并造成严重机密性、完整性或可用性影响。GitLab 通常按月度发布安全补丁，此次针对单一高危漏洞发布紧急版本，属于较为少见的处置方式。
+
+**「影响」** 运行受影响版本的自建 GitLab 实例在未升级前可能被未认证攻击者读取服务器任意文件，从而泄露配置、密钥或代码等敏感信息。由于官方未披露具体前置条件且暂无公开 PoC，实际可利用性仍存在不确定性，但自建实例运营者应优先完成升级。
+
+**标签**: `#security`, `#gitlab`, `#vulnerability`, `#open-source`, `#self-hosting`
+
+---
+
+<a id="item-tech-news-4"></a>
+### [OpenAI 推出 Agents API 公测版](https://openai.com/index/introducing-the-agents-api/) ⭐️ 8.0/10
+
+OpenAI 于 2026 年 9 月 10 日推出 Agents API 公测版，开发者可通过一次 API 调用创建生产级云端智能体，并可选择 OpenAI 托管沙箱、自有基础设施或合作伙伴环境进行部署。该 API 基于开源 Codex harness 构建，支持长会话上下文压缩、工具搜索、并行工具调用和子智能体协作。公测期间不收取额外费用，用户仅需按智能体实际使用的令牌和工具付费。
+
+telegram · zaihuapd · 9月11日 19:12
+
+**「背景」** Codex 是 OpenAI 的编程智能体产品，其底层运行框架（harness）负责协调模型调用、工具执行与上下文管理。此前开发者若要构建类似的生产级智能体，通常需要自行实现会话状态、工具编排等基础设施。此次 Agents API 将这套开源 Codex harness 以托管服务形式开放，由 OpenAI 负责运行与维护，开发者可直接调用并查看其核心逻辑。
+
+**「影响」** 对开发者而言，该公测版提供了在 OpenAI 托管沙箱、自有基础设施或合作伙伴环境之间选择部署的灵活性，并可按令牌和工具用量付费，无需在公测期承担额外费用。不过作为公测版本，其生产级可靠性与性能尚未有独立验证或基准数据支撑。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://openai.com/index/introducing-the-agents-api/">Introducing the Agents API | OpenAI</a></li>
+<li><a href="https://www.marktechpost.com/2026/09/10/openai-launches-the-agents-api-in-public-beta-putting-the-codex-harness-behind-one-api-call/">OpenAI Launches the Agents API in Public Beta, Putting the Codex Harness Behind One API Call - MarkTechPost</a></li>
+<li><a href="https://byteiota.com/openai-agents-api-public-beta-build-without-the-boilerplate/">OpenAI Agents API Public Beta: Build Without the Boilerplate | byteiota</a></li>
+<li><a href="https://developers.openai.com/api/docs/guides/agents-api/overview">Agents API | OpenAI API - developers.openai.com</a></li>
+
+</ul>
+</details>
+
+**标签**: `#OpenAI`, `#AI agents`, `#API`, `#developer tools`, `#open source`
 
 ---
 
 <a id="item-tech-news-5"></a>
+### [OpenAI 暂停 200 美元 ChatGPT Pro 新订阅](https://x.com/thsottiaux/status/2098113585683808624) ⭐️ 7.0/10
+
+OpenAI 的 Tibo 宣布暂停 200 美元 ChatGPT Pro 套餐的新订阅，以减轻系统压力并保障更多用户的使用。其他套餐和 API 仍可正常使用，现有账户不受影响，团队正在增加系统容量。Tibo 在此前几天曾预告，由于 Astra 需求空前高涨导致负荷过高，可能暂停新的 Pro 订阅。
+
+telegram · zaihuapd · 9月11日 08:09
+
+**「背景」** ChatGPT Pro 是 OpenAI 面向个人用户的最高档订阅套餐，月费 200 美元，提供对最先进模型的优先访问。Astra 是 OpenAI 最新、能力最强的模型，其上线后需求激增，给基础设施带来压力。此前 OpenAI 员工 Tibo 已预告可能因 Astra 需求空前高涨而暂停新 Pro 订阅。
+
+**「影响」** 希望新订阅 200 美元 Pro 套餐的用户将暂时无法开通，但现有 Pro 用户及其他套餐和 API 用户不受影响。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.cio.com/article/4221092/openai-pauses-200-pro-tier-as-astra-demand-strains-capacity.html">OpenAI pauses $200 Pro tier as Astra demand strains capacity</a></li>
+<li><a href="https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/">OpenAI puts Pro subscriptions on hold due to Astra demand</a></li>
+<li><a href="https://www.pcmag.com/news/chatgpt-pro-200-subscriptions-on-pause-after-unprecedented-astra-demand">ChatGPT Pro $200 Subscriptions On Pause After ... - PCMag</a></li>
+
+</ul>
+</details>
+
+**标签**: `#OpenAI`, `#ChatGPT`, `#AI infrastructure`, `#capacity/scaling`, `#AI industry`
+
+---
+
+<a id="item-tech-news-6"></a>
+### [OpenAI 或愿协调放缓前沿 AI 开发](https://www.bloomberg.com/news/articles/2026-09-11/openai-is-open-to-slowing-cutting-edge-ai-ceo-sam-altman-tells-staff) ⭐️ 7.0/10
+
+据彭博社报道，多名知情人士透露，OpenAI 正考虑放缓前沿人工智能开发。首席执行官萨姆·奥尔特曼本周在全员会议上对员工表示，公司可能与其他 AI 实验室协调放慢进度，但部分公司或不愿配合。OpenAI 近期已因安全担忧放缓部分模型开发，并暂停某些内部 AI 训练。公司拒绝就此事置评，其首席科学家呼吁在建立共同安全标准之前自愿放缓未来开发。相关说法来自未具名消息人士，尚未获得官方确认。
+
+telegram · zaihuapd · 9月11日 10:23
+
+**「背景」** “前沿 AI”（frontier AI）通常指能力最强、风险最高的一类大型模型，其开发节奏与安全治理是近年 AI 行业争论的焦点。OpenAI 此前已因安全担忧放缓部分模型开发并暂停某些内部 AI 训练，其首席科学家也呼吁在建立共同安全标准前自愿放缓未来开发。此次奥尔特曼的表态延续了这一安全优先的讨论脉络，但强调需要与其他实验室协调行动。
+
+**「影响」** 若 OpenAI 将放缓前沿开发的表态落实为行动，依赖其模型路线图的企业技术买家可能面临新能力交付节奏的不确定性，需要重新评估部署与采购计划。不过，目前该表态仅为奥尔特曼在内部会议上的说法，公司拒绝置评，尚无官方确认或具体时间表，实际影响仍待观察。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.bloomberg.com/news/articles/2026-09-11/openai-is-open-to-slowing-cutting-edge-ai-ceo-sam-altman-tells-staff">OpenAI Considers Slowing Advanced AI Development, Sam Altman Tells Employees - Bloomberg</a></li>
+<li><a href="https://www.resultsense.com/news/2026-09-11-altman-openai-open-to-slowing-development/">Altman says OpenAI is open to slowing frontier AI work</a></li>
+<li><a href="https://panews.io/articles/01a08df7-de9f-71f8-a532-585d905cd6c1">OpenAI CEO Open to Slowing Down Frontier AI Development | PANews English</a></li>
+<li><a href="https://tech-insider.org/openai-sobering-ai-models-enterprise-roadmap-2026/">OpenAI&#x27;s 6-Month AI Vow Rattles Enterprise Roadmaps [2026]</a></li>
+<li><a href="https://www.npr.org/2026/08/24/nx-s1-5943167/openai-says-it-will-slow-its-ai-model-development-to-shore-up-safety">OpenAI says it will slow its AI model development to shore up safety : NPR</a></li>
+<li><a href="https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai">OpenAI hit the brakes. Now what? | The Verge</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI safety`, `#OpenAI`, `#frontier AI`, `#AI governance`, `#industry news`
+
+---
+
+<a id="item-tech-news-7"></a>
 ### [中国重组月球探测工程 嫦娥八号原方案取消](https://spacenews.com/china-alters-change-8-lunar-south-pole-mission-amid-lunar-program-reorganization/) ⭐️ 7.0/10
 
-中国载人航天工程办公室于 2026 年 5 月宣布，将原由国家航天局负责的无人探月工程与载人登月工程整合为“月球探测工程”，从任务、资源、队伍三方面进行统合。在此背景下，原定 2029 年前后发射、登陆月球南极莫顿环形山的嫦娥八号独立任务被取消或大幅调整。中文维基百科记载，原定国际载荷方之一巴基斯坦于 2026 年 9 月证实任务取消，相关载荷拟转至 2030—2031 年的其他登月任务。SpaceNews 同期报道称，载人航天机构接管月球任务总体管理权后，正在重新配置机器人登月计划。
+中国载人航天工程办公室于 2026 年 5 月宣布，将原由国家航天局负责的无人探月工程与载人登月工程整合为“月球探测工程”，从任务、资源、队伍三方面进行统合。在此背景下，原定 2029 年前后发射并登陆月球南极莫顿环形山的嫦娥八号独立任务被取消或大幅调整。据中文维基百科记载，原定国际载荷方之一巴基斯坦于 2026 年 9 月证实任务取消，相关载荷拟转至 2030—2031 年的其他登月任务。SpaceNews 同期报道称，载人航天机构接管月球任务总体管理权后，正在重新配置机器人登月计划。
 
 telegram · zaihuapd · 9月11日 12:00
 
-**「背景」** 嫦娥八号是中国探月工程规划中的任务，原定于 2029 年前后发射并登陆月球南极莫顿环形山，同时承担搭载国际载荷的合作任务。月球南极因存在永久阴影区而被认为可能蕴藏水冰资源，是中国后续探月任务的重点探测目标，此前规划的嫦娥七号也以寻找南极附近水冰为主要目标之一。
+**「背景」** 嫦娥八号原是中国探月工程规划中的独立无人任务，计划在 2029 年前后发射并着陆月球南极莫顿环形山，同时搭载包括巴基斯坦在内的国际载荷。中国此前的无人探月由嫦娥系列任务承担，而载人登月工程则另属载人航天体系；此次将两者整合为统一的“月球探测工程”，意味着管理权与资源配置发生转移。月球南极因永久阴影区可能存在水冰而成为多国探测重点，中国后续的嫦娥七号等任务也以寻找水冰为主要目标。
 
-**「影响」** 原定参与嫦娥八号的巴基斯坦月球车等国际载荷被迫推迟至 2030—2031 年的其他登月任务，相关合作方需重新安排研制与发射计划。嫦娥八号作为国际月球科研站技术先导任务的取消或调整，也可能影响该科研站后续建设节奏与国际合作方的参与预期。
+**「影响」** 原定参与嫦娥八号任务的国际载荷方（如巴基斯坦）需将载荷转至 2030—2031 年的其他登月任务，其原定由嫦娥八号着陆器与鹊桥中继卫星提供的通信支持安排也随之落空。
 
 <details><summary>参考链接</summary>
 <ul>
@@ -189,11 +203,10 @@ telegram · zaihuapd · 9月11日 12:00
 <li><a href="https://mezha.net/eng/bukvy/00f555a3_china-s_chang-e-7_mission/">China ’s Chang ’ e -7 Mission Will Search for Ice Near the... - #Mezha</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Chang&#x27;e_8">Chang &#x27; e 8 - Wikipedia</a></li>
 <li><a href="https://www.china-in-space.com/p/change-8-mission-to-deliver-pakistani">Chang &#x27; e 8 Mission to Deliver Pakistani Lunar Rover</a></li>
-<li><a href="https://www.wikiwand.com/en/List_of_missions_to_the_Moon">List of missions to the Moon - Wikiwand</a></li>
 
 </ul>
 </details>
 
-**标签**: `#space`, `#lunar exploration`, `#China space program`, `#Chang&\#x27;e-8`, `#technology policy`
+**标签**: `#space`, `#lunar-exploration`, `#china`, `#chang&\#x27;e-8`, `#space-policy`
 
 ---
