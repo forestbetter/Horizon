@@ -5,121 +5,97 @@ date: 2026-09-14
 lang: zh
 ---
 
-> 从 22 条内容中筛选出 4 条重要资讯。
+> 从 22 条内容中筛选出 3 条重要资讯。
 
 ---
 
 **科技财经**
-1. [技术分析：4 层堆叠 HBM 或可降低 AI 推理成本](#item-tech-finance-1) ⭐️ 5.0/10
+1. [4 层 HBM 堆叠：以更少芯片实现同等带宽的技术分析](#item-tech-finance-1) ⭐️ 5.0/10
 
 **科技新闻**
-1. [Homebrew 7.0.0 发布：原生 macOS 图形界面与更严沙箱](#item-tech-news-1) ⭐️ 8.0/10
-2. [麒麟 9050 Pro 评测：3D 堆叠提升性能与能效](#item-tech-news-2) ⭐️ 7.0/10
-3. [苹果 OS 27 被指支持第三方模型接入 Siri](#item-tech-news-3) ⭐️ 7.0/10
+1. [麒麟 9050 Pro 评测：3D 堆叠带来能效与性能提升](#item-tech-news-1) ⭐️ 7.0/10
+2. [特朗普拒绝放缓 AI 发展呼吁 强调不落后中国](#item-tech-news-2) ⭐️ 7.0/10
 
 ---
 
 ## 科技财经
 
 <a id="item-tech-finance-1"></a>
-### [技术分析：4 层堆叠 HBM 或可降低 AI 推理成本](https://newsletter.semianalysis.com/p/long-live-the-short-king-why-4-hi) ⭐️ 5.0/10
+### [4 层 HBM 堆叠：以更少芯片实现同等带宽的技术分析](https://newsletter.semianalysis.com/p/long-live-the-short-king-why-4-hi) ⭐️ 5.0/10
 
-半导体分析通讯 SemiAnalysis 的一篇技术分析文章提出，4 层堆叠的高带宽内存（HBM）能在相同带宽下使用更少的芯片裸片，从而可能降低 AI 推理成本并缓解 DRAM 供应紧张。该文由 Myron Xie 撰写，但所提供内容仅为标题和副标题，未给出具体数据或对比基准。
+半导体分析通讯 SemiAnalysis 的一篇技术分析文章认为，4 层堆叠的高带宽内存（HBM）可以在使用更少芯片的情况下提供同等带宽，从而降低 AI 推理成本并缓解 DRAM 供应紧张。该文为分析观点，未提供具体数据或基准对比。
 
 rss · Semianalysis · 9月14日 02:19
 
-**「背景」** HBM（高带宽内存）是一种为 AI 芯片提供高速数据通道的存储技术，其内存总线远宽于 DDR4、GDDR5 等普通内存；一个 4 层堆叠（4-hi）的 HBM1 由四块 DRAM 芯片组成，每块芯片有两个 128 位通道，合计 8 个通道、总位宽 1024 位。该技术分析称，在内存带宽最关键的推理任务中，4-hi HBM 的单位带宽成本最优，因而每生成一个 token 的成本最低。
+**「背景」** 高带宽内存（HBM）通过将多层内存芯片垂直堆叠来提升带宽，而堆叠层数（如 4-hi 即 4 层）直接影响每颗芯片所需的晶圆数量。据 Micron（美光）称，HBM 与 DDR5 之间的晶圆产能转换比约为 3 比 1，意味着每增加 HBM 产量都会压缩通用内存的供应。
 
-**「影响」** 若 4-hi HBM 能以更少芯片实现同等带宽，AI 推理的存储成本有望下降，从而缓解当前 HBM 与 DRAM 供应紧张对 GPU 云和数据中心运营商的成本压力。
+**「影响」** 若该技术路径被采用，AI 推理服务商和内存采购方可能以更少芯片获得同等带宽，从而降低单次推理成本并缓解 DRAM 供应紧张；但这是分析观点，尚无具体数据或厂商采用计划支撑。
 
 <details><summary>参考链接</summary>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/High_Bandwidth_Memory">High Bandwidth Memory - Wikipedia</a></li>
-<li><a href="https://newsletter.semianalysis.com/p/long-live-the-short-king-why-4-hi">Long Live the Short King: Why 4-hi HBM Wins</a></li>
+<li><a href="https://en.wikipedia.org/wiki/High_Bandwidth_Memory">High Bandwidth Memory - Wikipedia</a></li>
+<li><a href="https://thehumanco.org/ai-resources/ai-ram-crisis-steam-machine">The AI RAM crisis: why the Steam Machine, phones and PCs cost more</a></li>
 <li><a href="https://aethercouncil.com/research/inference-wall-ai-hardware-optimized-wrong-bottleneck">The Inference Wall: Why AI Hardware... | AETHER Council Research</a></li>
-<li><a href="https://www.businessworld.in/article/nvidia-ai-server-cost-hike-set-to-travel-through-supply-chain-623481">Nvidia AI Server Cost Hike Set To Travel Through Supply Chain</a></li>
 
 </ul>
 </details>
 
-**标签**: `#HBM`, `#semiconductors`, `#DRAM`, `#AI inference`, `#memory supply`
+**标签**: `#semiconductors`, `#HBM`, `#AI infrastructure`, `#memory`, `#technology analysis`
 
 ---
 
 ## 科技新闻
 
 <a id="item-tech-news-1"></a>
-### [Homebrew 7.0.0 发布：原生 macOS 图形界面与更严沙箱](https://brew.sh/2026/09/13/homebrew-7.0.0/) ⭐️ 8.0/10
+### [麒麟 9050 Pro 评测：3D 堆叠带来能效与性能提升](https://www.bilibili.com/video/BV1HEYv6XETo) ⭐️ 7.0/10
 
-Homebrew 发布 7.0.0 版本，重点提升安装和升级速度，并引入更严格的沙箱保护、内置漏洞检查与安全公告数据库，以及官方 macOS 原生图形界面。该版本停止支持 macOS 10.15 及更早版本，Intel Mac 转为 Tier 3，不再提供新的预编译包。Linux 平台的沙箱机制由 Bubblewrap 改用 Landlock。
+极客湾对麒麟 9050 Pro 的评测显示，该芯片采用微观电路 3D 堆叠设计，其 9 核 16 线程 CPU 在 2.75 GHz 同频下较前代功耗降低超过 30%，而在 3.1 GHz 峰值频率下功耗未明显增加。马良 955 GPU 的 3DMark 成绩较前代提升近 40%，NPU 实测 INT8 算力达到 67.7 TOPS。搭载该芯片的 Mate XT 2 在三款重载手游中的整体表现达到骁龙 8 Elite 级别。这些数据来自单一评测，尚需更多独立测试验证。
 
-telegram · zaihuapd · 9月13日 19:23
+telegram · zaihuapd · 9月13日 21:22
 
-**「背景」** Homebrew 是 macOS 和 Linux 上广泛使用的开源包管理器，通过命令行安装、升级和管理软件包，其版本号此前已迭代至 6.x 系列。7.0.0 是自 6.0.0 以来的又一次大版本更新，官方公告将其列为安装与升级速度提升、沙箱强化、原生 macOS 应用、内置漏洞检查与安全公告数据库，以及终止 macOS 10.15 支持和 Intel Mac 转入 Tier 3 等主要变化。
+**「背景」** 麒麟是华为海思自研的移动处理器系列，长期受制于先进制程工艺限制，因此业界关注其能否通过架构与封装创新弥补差距。3D 堆叠指将多颗芯片或电路层垂直互连，以缩短信号路径、提升带宽并改善能效，是近年先进封装的重要方向。极客湾此次评测将麒麟 9050 Pro 与高通骁龙 8 Gen 3 等芯片对比，指出其单核性能落后约 10%、多核领先，属于跨代提升的讨论范畴。
 
-**「影响」** 使用 macOS 10.15 及更早版本的用户将无法继续获得支持，而 Intel Mac 用户被降为 Tier 3、不再获得新的预编译包，官方建议转向仍支持 Intel 的 MacPorts。Linux 用户则需注意沙箱机制由 Bubblewrap 切换为 Landlock，可能影响依赖旧沙箱行为的构建或运行环境。
+**「影响」** 对移动芯片与终端用户而言，该评测显示麒麟 9050 Pro 在 2.75 GHz 同频下功耗降低超 30%、GPU 3DMark 提升近 40%，Mate XT 2 在三款重载手游中达到骁龙 8 Elite 级别，意味着华为旗舰在性能与能效上进一步缩小与高通旗舰的差距。不过这些数据来自单一评测，且外部对比工具显示与骁龙 8 Elite 的基准对比尚未普遍可得，实际结论仍需更多独立测试验证。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://brew.sh/2026/09/13/homebrew-7.0.0/">Homebrew: 7.0.0</a></li>
-<li><a href="https://pasqualepillitteri.it/en/news/16056/homebrew-7-mac-app-vulns-intel-tier-3">Homebrew 7.0.0 lands with a native Mac app and a ...</a></li>
-<li><a href="https://brew.sh/2026/09/13/homebrew-7.0.0/">Homebrew: 7.0.0</a></li>
-<li><a href="https://runtimewire.com/article/homebrew-7-vulnerability-checks-brewui-intel-tier-3">Homebrew 7 adds vulnerability checks, ends Intel Mac support in ...</a></li>
+<li><a href="https://www.msn.cn/zh-cn/gaming/%E9%80%9A%E7%94%A8/%E6%9E%81%E5%AE%A2%E6%B9%BE-%E9%BA%92%E9%BA%9F9050pro-%E8%AF%84%E6%B5%8B%E6%B1%87%E6%80%BB-%E6%B8%B8%E6%88%8F%E6%80%A7%E8%83%BD%E8%B7%A8%E4%BB%A3%E6%8F%90%E5%8D%87/ar-AA2c9Fu7">极客湾，麒麟9050Pro：评测汇总：游戏性能跨代提升! - MSN</a></li>
+<li><a href="https://www.sohu.com/a/1075581481_116551">大致相当于骁龙8Gen3!麒麟9050Pro评测解禁，全方位领先9030Pro</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/2082569511459369435">终于来了!极客湾麒麟9050Pro性能解析来了，大幅提升! - 知乎</a></li>
+<li><a href="https://www.youtube.com/watch?v=sJG2_VT-HHE">APPLE A20 PRO vs Snapdragon 8 Elite Gen 5 - YouTube</a></li>
+<li><a href="https://nanoreview.net/en/soc-compare">Smartphone Processors Comparison Tool – NanoReview</a></li>
+<li><a href="https://memeburn.com/huawei-mate-90-pro-max-3d-kirin-chip-leak/">Huawei Mate 90 Pro Max: 3 D Kirin Chip, 7000mAh Battery - Memeburn</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Homebrew`, `#package-management`, `#macOS`, `#open-source`, `#security`
+**标签**: `#semiconductor`, `#mobile-hardware`, `#3d-stacking`, `#npu`, `#benchmarks`
 
 ---
 
 <a id="item-tech-news-2"></a>
-### [麒麟 9050 Pro 评测：3D 堆叠提升性能与能效](https://www.bilibili.com/video/BV1HEYv6XETo) ⭐️ 7.0/10
+### [特朗普拒绝放缓 AI 发展呼吁 强调不落后中国](https://www.ft.com/content/cae60732-f929-4735-a627-db8c14e7c7ed?syn-25a6b1a6=1) ⭐️ 7.0/10
 
-一则来自极客湾的评测摘要称，华为麒麟 9050 Pro 采用微观电路 3D 堆叠设计，其 9 核 16 线程 CPU 在 2.75 GHz 同频下较前代功耗降低超过 30%，而在 3.1 GHz 峰值频率下功耗未明显增加。马良 955 GPU 的 3DMark 成绩较前代提升近 40%，NPU 实测 INT8 算力为 67.7 TOPS。搭载该芯片的 Mate XT 2 在三款重载手游中的整体表现达到骁龙 8 Elite 级别。上述数据均来自单一评测来源，尚未获得独立验证。
+美国总统特朗普拒绝了科技业高管关于放缓人工智能发展的呼吁，并反对以安全风险为由加强监管。面对科技界和民主党要求收紧规则的主张，特朗普称相关担忧受到“非常负面的力量”影响，并强调美国不能在人工智能竞赛中落后于中国。这一表态明确了美国政府在 AI 治理上倾向放松监管、以对华竞争为优先的政策立场。
 
-telegram · zaihuapd · 9月13日 21:22
+telegram · zaihuapd · 9月14日 08:07
 
-**「背景」** 麒麟是华为自研的移动处理器系列，此前多代产品受制于先进制程获取限制，性能与能效提升空间受限。3D 堆叠（垂直堆叠）是一种将多颗芯片或电路层在垂直方向键合互连的封装技术，可在不依赖更先进制程的情况下缩短互连距离、提升带宽并改善能效。本次评测由极客湾发布，测试平台为华为 Mate XT 2 非凡大师。
+**「背景」** 特朗普此番表态发生在科技界与民主党持续呼吁收紧人工智能监管的背景下。据媒体报道，Anthropic 的 Dario Amodei、OpenAI 的 Sam Altman 以及 Elon Musk 等业界领袖曾呼吁放缓 AI 开发节奏，而多家主要 AI 机构则支持对先进系统施加更强安全保障。特朗普以美国不能在 AI 竞赛中落后于中国为由拒绝这些主张，民主党方面则将其政府对监管的抵制作为攻击点。
 
-**「影响」** 若这些数据在量产机型上得到验证，麒麟 9050 Pro 将成为华为在无法依赖先进制程微缩的情况下，通过 3D 堆叠提升移动 SoC 密度与能效的商用示范，直接影响 Mate XT 2 等机型的性能与功耗表现。不过目前所有数据均来自单一评测来源，尚待独立复现。
+**「影响」** 特朗普将 AI 监管定位为与中国竞争的手段而非风险防护，这意味着美国短期内不太可能出台以安全为由的严格监管，科技企业面临的合规压力相应减轻。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.bannedbook.org/bnews/itnews/20260913/2359276.html">📱 麒麟 9050 Pro 评测：3D 堆叠提升性能与能效 - 禁闻网</a></li>
-<li><a href="https://weibo.com/2/detail/5342773951600637">极客湾公布麒麟9050 Pro实测：3D堆叠技术加持游戏满帧</a></li>
-<li><a href="https://weibo.com/2/detail/5342774801205788">极客湾实测麒麟9050Pro 3D堆叠方案游戏表现亮眼</a></li>
-<li><a href="https://www.kad8.com/hardware/huawei-kirin-9050-pro-brings-3d-logicfolding-to-mate-xt2/">Huawei Kirin 9050 Pro Brings 3D LogicFolding to Mate XT2 · KAD</a></li>
-<li><a href="https://www.techtimes.com/articles/326836/20260907/huawei-kirin-9050-pro-launches-logicfolding-moves-roadmap-silicon.htm">Huawei Kirin 9050 Pro Launches: LogicFolding Moves From Roadmap to Silicon</a></li>
-<li><a href="https://wccftech.com/huawei-kirin-9050-breakthrough-3d-ic-design-beats-a18-pro/">Huawei’s Kirin 9050 Is Rumored To Outperform Apple’s A18 Pro, Will Utilize A New “Stacking” Technology To Bypass Older Node Limitations</a></li>
+<li><a href="https://techjournal.org/trump-ai-race-china">Trump Rejects AI Slowdown Calls, Citing China</a></li>
+<li><a href="https://www.timesnownews.com/world/us/us-news/whoever-wins-ai-wins-trump-rejects-tech-bosses-call-for-an-ai-slow-down-article-156152473">&#x27;Whoever Wins AI, Wins&#x27;: Trump Rejects Tech Bosses&#x27; Call for an AI Slow Down | Times Now</a></li>
+<li><a href="https://www.washingtonpost.com/politics/2026/09/13/trump-rejects-calls-so-slow-ai-development-citing-chinese-competition/">Trump rejects calls to slow AI development, citing Chinese competition - The Washington Post</a></li>
+<li><a href="https://www.cnn.com/2026/09/13/politics/trump-administration-ai-legislation">Trump official shrugs off real fears about AI | CNN Politics</a></li>
+<li><a href="https://www.bbc.com/news/articles/c7v48vp31mdo">Trump downplays AI risks after dire expert warnings and calls to slow...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#hardware`, `#mobile-soc`, `#3d-stacking`, `#npu`, `#benchmarks`
-
----
-
-<a id="item-tech-news-3"></a>
-### [苹果 OS 27 被指支持第三方模型接入 Siri](https://x.com/itspdfu/status/2099122424209916015) ⭐️ 7.0/10
-
-一则爆料称，苹果 iOS 27 与 macOS Golden Gate 中包含私有接口，应用可通过 App Intents 中的 Model Delegation API 为 Siri 添加拓展，并用第三方模型替换 Siri 的 AI 服务后端。帖子以 Claude 为例，称其可出现在 Siri 的“询问……”菜单中并生成 CSV；当涉及设置提醒等系统操作时，Claude 可将请求转回 Siri 执行。该功能据称需要私有的 com.apple.developer.model-delegation 权限（entitlement）。上述内容为未经证实的单一来源爆料，涉及尚未发布的软件，具体实现与最终是否落地仍不确定。
-
-telegram · zaihuapd · 9月13日 21:48
-
-**「背景」** 苹果自 2016 年 iOS 10 起通过 SiriKit 向第三方开发者开放 Siri 的部分能力，但长期不允许外部模型替换 Siri 自身的 AI 后端。此次爆料涉及的 iOS 27 与 macOS Golden Gate 是尚未发布的系统版本，相关说法来自单一来源的泄露，尚未得到苹果确认。
-
-**「影响」** 若该私有接口属实，第三方模型开发者将首次能够通过 App Intents 与 com.apple.developer.model-delegation 权限，把 Claude 等模型作为 Siri 的 AI 后端接入，从而直接触达 Siri 用户；但该功能依赖私有 entitlement，且爆料未经证实、涉及未发布系统，实际开放范围与可用性仍不确定。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.macrumors.com/2016/06/13/apple-siri-api-third-party-developers/">Apple Opens Siri to Third - Party Developers With iOS 10 - MacRumors</a></li>
-<li><a href="https://www.techlifeadventures.com/post/apple-ai-2026-delayed-siri-strategy">Apple &#x27;s AI Mulligan: Why the Delayed Siri Could... | TechLife Adventures</a></li>
-<li><a href="https://developer.apple.com/apple-intelligence/">Apple Intelligence - Apple Developer</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Apple`, `#Siri`, `#AI assistants`, `#third-party models`, `#App Intents`
+**标签**: `#AI policy`, `#AI regulation`, `#US-China tech competition`, `#technology industry`
 
 ---
