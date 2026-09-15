@@ -5,98 +5,98 @@ date: 2026-09-15
 lang: zh
 ---
 
-> 从 26 条内容中筛选出 8 条重要资讯。
+> 从 27 条内容中筛选出 10 条重要资讯。
 
 ---
 
 **科技财经**
-1. [端侧与数据中心 AI 推理的取舍分析](#item-tech-finance-1) ⭐️ 5.0/10
+1. [ChatGPT 广告见效，沃尔玛接入 Apple Pay](#item-tech-finance-1) ⭐️ 5.0/10
 
 **财经新闻**
-1. [市场预期美联储本周加息，沃什公信力面临考验](#item-finance-news-1) ⭐️ 9.0/10
-2. [中国 8 月零售增速放缓、投资降幅加深](#item-finance-news-2) ⭐️ 8.0/10
-3. [美国银行预计第三季度投行费用同比下降超 10%](#item-finance-news-3) ⭐️ 7.0/10
+1. [中国 8 月零售增速放缓、投资降幅加深](#item-finance-news-1) ⭐️ 8.0/10
+2. [市场预期美联储本周加息，沃什公信力面临考验](#item-finance-news-2) ⭐️ 8.0/10
+3. [美国银行预计第三季度投行业务费用同比下降超 10%](#item-finance-news-3) ⭐️ 7.0/10
 
 **科技新闻**
 1. [工信部发改委印发电子信息制造业“十五五”规划](#item-tech-news-1) ⭐️ 8.0/10
-2. [桑德斯提法案拟禁超级智能 AI，违者最高判 20 年](#item-tech-news-2) ⭐️ 8.0/10
-3. [数据担忧促使英伟达等企业限制 AI 模型使用](#item-tech-news-3) ⭐️ 7.0/10
+2. [桑德斯提法案拟永久禁止超级智能 AI 开发](#item-tech-news-2) ⭐️ 8.0/10
+3. [数据担忧促使英伟达、Palantir 和博思艾伦限制 AI 模型使用](#item-tech-news-3) ⭐️ 7.0/10
 4. [谷歌向全体工程师开放 Anthropic Claude 用于内部开发](#item-tech-news-4) ⭐️ 7.0/10
+5. [联发科发布首款台积电 2 纳米手机芯片天玑 9600 Pro](#item-tech-news-5) ⭐️ 7.0/10
+6. [404 Media 揭露 OpenAI“Project Lily”人工阅读用户聊天记录](#item-tech-news-6) ⭐️ 7.0/10
 
 ---
 
 ## 科技财经
 
 <a id="item-tech-finance-1"></a>
-### [端侧与数据中心 AI 推理的取舍分析](https://newsletter.semianalysis.com/p/a-brain-too-big-to-carry-on-device) ⭐️ 5.0/10
+### [ChatGPT 广告见效，沃尔玛接入 Apple Pay](https://stratechery.com/2026/openai-ads-amazon-ads-in-chatgpt-walmart-to-accept-apple-pay/) ⭐️ 5.0/10
 
-SemiAnalysis 发布一篇通讯，比较在设备本地运行 AI 推理与在数据中心运行 AI 推理的取舍，涉及机器人模型、芯片效率、Jetson Thor 与 B300 的总拥有成本（TCO）对比、部署以及网络限制。该内容目前仅有标题和主题列表，未提供具体数据或结论。
+科技评论人 Ben Thompson 指出，ChatGPT 中的广告正在奏效，并可能解决亚马逊在聊天机器人方面的最大难题；同时，沃尔玛最终开始接受 Apple Pay。
 
-rss · Semianalysis · 9月15日 00:37
+rss · Stratechery · 9月15日 18:00
 
-**「背景」** SemiAnalysis 是一家半导体与人工智能领域的分析机构，其 newsletter 常发布行业技术分析。该文由 Ivan Chiam 等人撰写，讨论在设备端（on-device）与数据中心（datacenter）运行 AI 推理的取舍，涉及机器人模型、芯片与内存效率、Jetson Thor 与 B300 的总拥有成本（TCO，即采购加运行维护的总花费）对比、部署以及网络瓶颈。
+**「背景」** 亚马逊广告与 OpenAI 于 2026 年 9 月 10 日宣布合作，通过亚马逊的需求方平台（广告主用来批量购买广告位的系统）让部分美国品牌在 ChatGPT 中投放广告，试点目前仅限少数美国广告主。沃尔玛此前长期只支持自家 Walmart Pay，此次开始接受 Apple Pay。
 
-**「影响」** 对部署机器人或边缘 AI 的企业而言，本地推理与数据中心推理的成本取舍会直接影响硬件采购和运营预算；但所给材料仅列出议题，未提供具体数据或结论，因此无法量化其影响。
+**「影响」** 若聊天机器人广告模式成立，数字广告市场的竞争格局可能生变，亚马逊等依赖电商广告收入的公司将面临新的竞争压力。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://x.com/SemiAnalysis_/status/2099548057821982752">SemiAnalysis on X: &quot;A Brain Too Big to Carry — On-Device vs ...</a></li>
-<li><a href="https://newsletter.semianalysis.com/">SemiAnalysis | Dylan Patel | Substack</a></li>
-<li><a href="https://www.nvidia.com/en-us/solutions/ai/inference/">35x Lower Token Cost with Blackwell | NVIDIA AI Inference</a></li>
-<li><a href="https://tech-insider.org/nvidia-blackwell-gpu-pricing/">NVIDIA Blackwell GPU Pricing 2026: B200, B300 &amp; DGX Costs</a></li>
-<li><a href="https://lenovopress.lenovo.com/lp2368.pdf">On-Premise vs Cloud: Generative AI Total Cost of Ownership ...</a></li>
+<li><a href="https://kurums.com/amazon-brings-advertising-to-chatgpt-what-the-september-2026-openai-partnership-means-for-marketers/">Amazon ChatGPT Ads 2026: OpenAI Partnership Explained | Kurums</a></li>
+<li><a href="https://www.cnbc.com/2026/09/10/amazon-chatgptads-open-ai.html">Amazon gives OpenAI&#x27;s ad business a boost with ChatGPT ... - CNBC</a></li>
+<li><a href="https://saganote.com/walmart-apple-pay-google-pay-tap-to-pay">Walmart Apple Pay and Google Pay Are Coming</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI inference`, `#semiconductors`, `#robotics`, `#datacenter`, `#TCO`
+**标签**: `#OpenAI`, `#Amazon`, `#Walmart`, `#Apple Pay`, `#digital advertising`
 
 ---
 
 ## 财经新闻
 
 <a id="item-finance-news-1"></a>
-### [市场预期美联储本周加息，沃什公信力面临考验](https://www.cnbc.com/2026/09/14/warshs-credibility-is-on-the-line-this-week-as-trump-policies-put-pressure-on-fed-to-hike.html) ⭐️ 9.0/10
-
-市场预期美联储本周将进行自 2023 年以来的首次加息，期货市场预计到明年 3 月至少还有三次加息。CNBC 报道称，特朗普的关税政策和伊朗战争推高了通胀前景，使美联储主席凯文·沃什的公信力面临考验。
-
-rss · CNBC Finance · 9月15日 04:49
-
-**「背景」** 今年 3 月，即伊朗战争爆发一个月后、油价接近每桶 100 美元时，美联储官员的平均预测仍是今年降息一次、明年再降一次，显示其当时倾向于把特朗普政策带来的涨价视为一次性冲击。
-
-**「影响」** 若加息落地，美国借贷成本将上升，影响房贷、车贷和企业融资；柴油价格升至每加仑 6 美元，可能进一步推高食品和运输成本。
-
-**标签**: `#Federal Reserve`, `#Monetary Policy`, `#Inflation`, `#Tariffs`, `#Iran War`
-
----
-
-<a id="item-finance-news-2"></a>
 ### [中国 8 月零售增速放缓、投资降幅加深](https://www.cnbc.com/2026/09/15/china-august-retail-sales-industrial-output-investment-exports-.html) ⭐️ 8.0/10
 
 中国国家统计局 9 月 15 日数据显示，8 月社会消费品零售总额同比增长 0.4%，低于路透调查经济学家预期的 0.8%，也低于 7 月的 0.6%；1 至 8 月城镇固定资产投资同比下降 7.2%，降幅较 1 至 7 月的 6.7%进一步扩大。
 
-rss · CNBC Finance · 9月15日 13:41
+rss · CNBC Finance · 9月15日 17:46
 
-**「背景」** 中国二季度经济增速放缓至 4.3%，为三年多来最弱，北京迄今未推出更激进刺激，主要依靠增量措施稳增长；统计局同时警告国内存在“供给强、需求弱”的供需失衡。
+**「背景」** 这是中国官方月度经济数据，二季度 GDP 增速已放缓至 4.3%，为三年多来最弱，北京今年的增长目标为 4.5%至 5%。
 
-**「影响」** 8 月新增银行贷款仅 600 亿元，远低于约 4000 亿元预期，存量贷款增速降至 4.9%的历史低位，显示企业和家庭借贷需求疲弱，可能加大北京在四季度前加码财政支持的压力。
+**「影响」** 数据走弱可能加大市场对北京出台更多财政与货币刺激的预期，但分析人士认为，只要出口仍足以支撑经济落在目标区间内，短期内大幅加码刺激的可能性不大。
 
 **标签**: `#China economy`, `#macroeconomic data`, `#retail sales`, `#fixed-asset investment`, `#monetary policy`
 
 ---
 
-<a id="item-finance-news-3"></a>
-### [美国银行预计第三季度投行费用同比下降超 10%](https://www.cnbc.com/2026/09/14/bank-of-america-bac-q3-investment-banking-fees.html) ⭐️ 7.0/10
+<a id="item-finance-news-2"></a>
+### [市场预期美联储本周加息，沃什公信力面临考验](https://www.cnbc.com/2026/09/14/warshs-credibility-is-on-the-line-this-week-as-trump-policies-put-pressure-on-fed-to-hike.html) ⭐️ 8.0/10
 
-美国银行首席执行官布莱恩·莫伊尼汉 9 月 14 日表示，该行第三季度投资银行业务费用预计将较上年同期下降超过 10%，交易收入大致持平；相比之下，第二季度投行费用曾同比增长 50%。消息公布后，美国银行股价当日下跌 5%。
+市场预计美联储本周将进行自 2023 年以来的首次加息，期货市场已计入到明年 3 月前至少三次加息。CNBC 报道称，特朗普的关税政策和伊朗战争带来的供应冲击推高了通胀前景，使美联储主席凯文·沃什面临是否加息以维护公信力的抉择。
+
+rss · CNBC Finance · 9月15日 04:49
+
+**「背景」** 今年 3 月，即伊朗战争爆发一个月后、油价接近每桶 100 美元时，美联储官员平均仍预测今年和明年各降息一次，倾向于将关税和战争引发的涨价视为一次性冲击。如今柴油价格升至每加仑 6 美元，明尼阿波利斯联储主席卡什卡利等官员开始担心一连串供应冲击可能导致通胀根深蒂固。
+
+**「影响」** 若美联储加息，美国消费者和企业的借贷成本将上升，抵押贷款、信用卡和商业贷款的利息支出可能增加。
+
+**标签**: `#Federal Reserve`, `#monetary policy`, `#inflation`, `#tariffs`, `#Iran war`
+
+---
+
+<a id="item-finance-news-3"></a>
+### [美国银行预计第三季度投行业务费用同比下降超 10%](https://www.cnbc.com/2026/09/14/bank-of-america-bac-q3-investment-banking-fees.html) ⭐️ 7.0/10
+
+美国银行首席执行官布莱恩·莫伊尼汉 9 月 14 日对分析师表示，该行第三季度投资银行业务费用预计同比下降超过 10%，交易收入大致持平；相比之下，第二季度投行费用曾同比增长 50%。消息公布后，美国银行股价当日午后下跌 5%。
 
 rss · CNBC Finance · 9月15日 04:34
 
-**「背景」** 莫伊尼汉援引 Dealogic 数据称，整个投行市场大约下降 10%，而美国银行在部分活跃业务上布局不足，因此降幅可能略大于市场水平。同日，花旗集团首席财务官贡萨洛·卢凯蒂表示，花旗第三季度投行业务收入预计实现低个位数增长，交易收入预计实现中个位数增长。
+**「背景」** 莫伊尼汉援引 Dealogic 数据称，整体投行市场下降约 10%，而该行在部分活跃业务上布局不足，因此降幅可能略大于市场。同日，花旗首席财务官贡萨洛·卢凯蒂对分析师表示，花旗第三季度投行业务收入预计实现低个位数增长，交易收入预计实现中个位数增长。
 
-**「影响」** 这一展望可能令投资者担忧，由人工智能相关交易推动的华尔街投行与交易业务繁荣是否正在失去动力；不过莫伊尼汉仍提到中型市场投行业务的交易储备较为稳健。
+**「影响」** 这一指引可能让投资者重新评估华尔街由人工智能相关交易推动的投行与交易业务繁荣能否持续，尤其是在第二季度大幅增长之后。
 
-**标签**: `#investment banking`, `#Bank of America`, `#capital markets`, `#earnings outlook`, `#Citigroup`
+**标签**: `#investment banking`, `#Bank of America`, `#capital markets`, `#earnings guidance`, `#financial sector`
 
 ---
 
@@ -105,101 +105,144 @@ rss · CNBC Finance · 9月15日 04:34
 <a id="item-tech-news-1"></a>
 ### [工信部发改委印发电子信息制造业“十五五”规划](https://www.secrss.com/articles/93961) ⭐️ 8.0/10
 
-工信部与国家发展改革委联合印发《电子信息制造业发展“十五五”规划》，部署 17 项重点任务，提出提高先进制程能力，突破高端手机核心芯片和 PC 高性能芯片，并加强开源鸿蒙等国产操作系统的搭载应用。规划还提出推进 RISC-V、人工智能芯片和终端、北斗等领域发展。目标方面，到 2030 年规模以上企业营业收入突破 30 万亿元，产业研发投入强度达到 3.5%。该规划属于国家层面的战略性路线图，为半导体、硬件及开源软件产业提供政策信号，但并非具体技术突破或已落地产品。
+工信部与国家发展改革委联合印发《电子信息制造业发展“十五五”规划》，部署 17 项重点任务，提出提高先进制程能力，突破高端手机核心芯片和 PC 高性能芯片，并加强开源鸿蒙等国产操作系统的搭载应用。规划还提出推进 RISC-V、人工智能芯片和终端、北斗等领域发展。目标方面，到 2030 年规模以上企业营业收入突破 30 万亿元，产业研发投入强度达到 3.5%。该规划为半导体、先进制程、高端芯片及国产操作系统生态设定了明确的产业政策方向。
 
 telegram · zaihuapd · 9月15日 11:10
 
-**「背景」** 中国的五年规划是覆盖国民经济和社会发展的中长期顶层设计，其中“十五五”对应 2026 年至 2030 年。电子信息制造业此前已纳入“十四五”等历次五年规划，此次由工业和信息化部与国家发展改革委联合印发专项规划，延续以先进制程、核心芯片和国产操作系统为抓手的产业升级路径。开源鸿蒙（OpenHarmony）是华为主导捐赠给开放原子开源基金会的开源操作系统项目，RISC-V 则是开放指令集架构，二者均被列为该规划的重点方向。
+**「背景」** 《电子信息制造业发展“十五五”规划》是中国工业和信息化部与国家发展改革委联合印发的五年期产业规划，覆盖 2026 年至 2030 年，延续了此前多个五年规划对集成电路和电子信息产业的部署思路。规划共列出 17 项重点任务，除先进制程、高端手机核心芯片和 PC 高性能芯片外，还涉及 RISC-V 研发与产业化、人工智能芯片及软硬件全栈生态、北斗等领域。开源鸿蒙（OpenHarmony）作为国产操作系统代表被明确列入搭载推广方向，与软硬件协同适配工具建设一并推进。
 
-**「影响」** 该规划将先进制程、高端手机与 PC 芯片、RISC-V 及开源鸿蒙生态列为重点任务，意味着国内芯片设计、制造及操作系统厂商在未来五年更可能获得政策与资源倾斜，但规划本身是战略路线图，并未给出具体技术突破或产品落地时间表。规划同时指出国产操作系统普遍面临应用生态薄弱、高端工业软件（如 EDA）市场被欧美企业主导，相关企业需在软硬件协同适配与生态建设上持续投入。
+**「影响」** 该规划为国内半导体、AI 芯片、RISC-V 及开源鸿蒙生态相关企业设定了明确的政策方向与 2030 年营收、研发投入目标，相关产业链企业预计将获得更多政策与资金支持。不过规划属于产业政策部署，具体落地节奏与成效仍取决于后续配套措施和执行情况。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.163.com/money/article/L6RUJPCF00258105.html">两部门印发《电子信息制造业发展“十五五”规划》|电子材料|自动化|元器件_网易财经</a></li>
-<li><a href="https://www.chinanews.com.cn/cj/2026/09-15/10696548.shtml">两部门印发《电子信息制造业发展“十五五”规划》-中新网</a></li>
-<li><a href="https://www.chinanews.com.cn/cj/2026/09-15/10696548.shtml">两部门印发《电子信息制造业发展“十五五”规划》-中新网</a></li>
-<li><a href="http://gjs.cssn.cn/kydt/kydt_kycg/202605/t20260522_5992816.shtml">中国电子信息制造业发展：“十四五”回顾与“十五五”展望-中国社会科学院工业经济研究所</a></li>
+<li><a href="https://www.ithome.com/1/002/403.htm">工信部、国家发改委：“十五五”规划提高先进制程能力，突破高端手机核心芯片、PC 高性能芯片，加强开源鸿蒙等国产操作系统搭载 - IT之家</a></li>
+<li><a href="https://www.163.com/dy/article/L6RV8SMJ0550WHYR.html">两部门印发《电子信息制造业发展“十五五”规划》|元器件|自动化|高精度|电子材料_网易订阅</a></li>
+<li><a href="https://fund.eastmoney.com/a/202609153874514129.html">30 万 亿 蓝图出炉！ AI ...</a></li>
+<li><a href="http://3g.cnfol.com/sc_stock/gushijujiao/20260915/32370146.shtml">30 万 亿 蓝图出炉！ AI ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#semiconductors`, `#policy`, `#open-source`, `#RISC-V`, `#AI chips`
+**标签**: `#semiconductors`, `#China tech policy`, `#OpenHarmony`, `#RISC-V`, `#AI chips`
 
 ---
 
 <a id="item-tech-news-2"></a>
-### [桑德斯提法案拟禁超级智能 AI，违者最高判 20 年](https://www.techspot.com/news/113831-new-bernie-sanders-bill-would-ban-superintelligent-ai.html) ⭐️ 8.0/10
+### [桑德斯提法案拟永久禁止超级智能 AI 开发](https://www.techspot.com/news/113831-new-bernie-sanders-bill-would-ban-superintelligent-ai.html) ⭐️ 8.0/10
 
-美国参议员桑德斯与众议员卡萨尔联合提出《禁止人工超级智能法案》，拟永久禁止开发和部署超级智能 AI，并在联邦监管机构制定安全规则前暂停先进 AI 开发。法案还推动达成国际协议，在全球范围阻止超级智能出现。违反者将面临最高 20 年监禁，企业则可能被处以“公司死刑”。法案还计划设立内阁级机构，监视前沿 AI 系统各阶段的危险能力，并监督清除这些能力。该法案目前仅为立法提案，尚未成为法律。
+美国参议员桑德斯与众议员卡萨尔联合提出《禁止人工超级智能法案》，拟永久禁止开发和部署超级智能 AI，并在联邦监管机构制定安全规则前暂停先进 AI 开发。法案规定违反者最高可判 20 年监禁，企业可能面临被处以“公司死刑”的处罚。法案还推动达成国际协议，在全球范围阻止超级智能出现，并计划设立内阁级机构，监视前沿 AI 系统各阶段的危险能力并监督清除这些能力。该法案目前仅为立法提案，尚未成为法律。
 
 telegram · zaihuapd · 9月15日 12:26
 
-**「背景」** 该法案由美国参议员伯尼·桑德斯与众议员卡萨尔联合提出，属于立法提案而非已生效法律。其核心思路是永久禁止超级智能 AI 的开发与部署，并在联邦监管机构制定安全规则前暂停先进 AI 开发，同时推动国际协议以在全球范围阻止超级智能出现。法案还拟设立内阁级监管机构，监视前沿 AI 系统各阶段的危险能力并监督清除，违反者个人最高可判 20 年监禁，企业可能面临“公司死刑”。
+**「背景」** 该法案名为《禁止人工超级智能法案》（Ban Artificial Superintelligence Act），由参议员伯尼·桑德斯与众议员格雷格·卡萨尔（Greg Casar）联合提出。所谓“超级智能”通常指在几乎所有认知任务上全面超越人类的人工智能系统，目前尚不存在，但前沿模型能力的快速提升引发了对其潜在失控风险的担忧。该提案属于立法动议，尚未成为法律，需经国会审议通过并由总统签署方能生效。
 
-**「影响」** 若该提案成为法律，美国前沿 AI 实验室和开发者将面临最高 20 年监禁及企业被强制解散的风险，先进 AI 开发在联邦安全规则出台前须暂停。不过目前它仍只是立法提案，尚未进入表决或生效程序，实际约束力取决于后续立法进展。
+**「影响」** 若该法案最终通过，美国前沿 AI 实验室与相关企业将面临开发暂停和最高 20 年监禁、企业解散等处罚，超级智能研发可能被迫转移或停滞。不过目前它只是提案，尚未成为法律，实际影响取决于国会审议结果。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://bitcoinfoundation.org/news/ai/sanders-pushes-permanent-us-superintelligent-ai-ban-with-20-year-prison-terms/">Sanders Pushes Permanent US Superintelligent AI Ban With...</a></li>
-<li><a href="https://www.ibtimes.co.uk/ban-superintelligent-ai-legislation-1817896">Bernie Sanders &#x27; New AI Bill Could Shut Down... | IBTimes UK</a></li>
-<li><a href="https://www.techspot.com/news/113831-new-bernie-sanders-bill-would-ban-superintelligent-ai.html">New Bernie Sanders bill would ban superintelligent AI ... | TechSpot</a></li>
-<li><a href="https://hotair.com/john-s-2/2026/09/11/bernies-ban-on-superintelligence-is-a-terrible-idea-and-his-other-bill-is-worse-n3818894">Bernie&#x27;s Ban on Superintelligence Is a Terrible Idea (and His Other Bill ...</a></li>
-<li><a href="https://www.usatoday.com/story/opinion/columnist/2026/09/11/bernie-sanders-bill-ban-ai-superintelligence/91673853007/">Bernie Sanders &#x27; AI ban won&#x27;t stop China. It&#x27;ll stop us | Opinion</a></li>
+<li><a href="https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development/">NEWS: Sanders, Casar to Introduce Legislation to Ban Artificial Superintelligence and Temporarily Pause Advanced AI Development » Senator Bernie Sanders</a></li>
+<li><a href="https://www.techspot.com/news/113831-new-bernie-sanders-bill-would-ban-superintelligent-ai.html">New Bernie Sanders bill would ban superintelligent AI and threaten developers with 20 years in prison | TechSpot</a></li>
+<li><a href="https://www.sanders.senate.gov/wp-content/uploads/Ban-Artificial-Superintelligence-Act-Release-Summary.pdf">The Ban Artificial Superintelligence Act</a></li>
+<li><a href="https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development/">NEWS: Sanders, Casar to Introduce Legislation to Ban ...</a></li>
+<li><a href="https://www.techspot.com/news/113831-new-bernie-sanders-bill-would-ban-superintelligent-ai.html">New Bernie Sanders bill would ban superintelligent AI and ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI regulation`, `#superintelligence`, `#AI policy`, `#US legislation`, `#AI safety`
+**标签**: `#AI regulation`, `#superintelligence`, `#policy`, `#US legislation`, `#AI safety`
 
 ---
 
 <a id="item-tech-news-3"></a>
-### [数据担忧促使英伟达等企业限制 AI 模型使用](https://www.theinformation.com/articles/anthropic-data-fears-prompt-nvidia-palantir-booz-allen-restrict-model-use) ⭐️ 7.0/10
+### [数据担忧促使英伟达、Palantir 和博思艾伦限制 AI 模型使用](https://www.theinformation.com/articles/anthropic-data-fears-prompt-nvidia-palantir-booz-allen-restrict-model-use) ⭐️ 7.0/10
 
-据 The Information 报道，英伟达、Palantir 和博思艾伦（Booz Allen）已开始限制或减少使用 Anthropic 等公司的 AI 模型，并要求供应商保证不会滥用客户数据。这些企业担心 AI 公司可能从客户的知识产权中学习，数据保留与隐私风险正促使涉及敏感业务的大型公司重新评估模型使用。该报道来自 Telegram 频道转述，未提供具体限制范围、涉及模型版本或时间表等细节，也未见独立验证。
+据 The Information 报道，英伟达、Palantir 和博思艾伦（Booz Allen）已开始限制或减少使用 Anthropic 等公司的 AI 模型，并要求供应商保证不会滥用客户数据。这些企业担心 AI 公司可能从客户的知识产权中学习，数据保留与隐私风险正促使涉及敏感业务的大型公司重新评估模型使用。报道未披露限制的具体范围、涉及模型版本或替代方案等细节。
 
 telegram · zaihuapd · 9月15日 09:02
 
-**「背景」** 企业采用前沿 AI 模型时，供应商通常会在服务条款中保留一定期限的客户数据，用于滥用监控或模型改进，这使处理敏感业务的公司担心自身知识产权可能被模型学习。据 The Information 报道，英伟达、Palantir 和博思艾伦正是出于对数据保留和知识产权风险的担忧，开始限制或减少使用 Anthropic 等公司的模型，并要求供应商提供不会滥用客户数据的保证。
+**「背景」** Anthropic 等 AI 模型供应商通常会在服务条款中保留使用客户输入数据改进模型的权利，这使处理敏感业务的企业担心自身知识产权可能被模型学习或数据保留不当。据 The Information 报道，Anthropic 于 2026 年 6 月调整了覆盖模型的使用数据保留政策，成为此次企业限制模型使用的直接触发因素。英伟达、Palantir 和博思艾伦等公司因此要求供应商提供不滥用客户数据的保证，否则可能限制甚至停止使用相关模型。
 
-**「影响」** 对涉及敏感业务的企业客户而言，这一动向可能直接限制其采用 Anthropic 等前沿模型的意愿，并推动供应商在数据保留与知识产权保护上作出更明确的合同承诺。据路透社报道，Anthropic 已计划让企业客户对其数据拥有更大控制权，显示供应商正因客户压力调整政策。
+**「影响」** 对涉及敏感业务的企业而言，数据保留与知识产权保护正从次要考量升级为 AI 采购的前置门槛，供应商能否提供不滥用客户数据的保证将直接影响其能否进入这类客户的采购名单。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://digg.com/tech/ac7babff-57e8-48f1-b653-800fb5e1dbab">Enterprise Giants Restrict Anthropic and OpenAI Models Over Data ...</a></li>
-<li><a href="https://qz.com/palantir-nvidia-booz-allen-anthropic-openai-data-restrictions-091426">Palantir , Nvidia , Booz Allen restrict Anthropic and OpenAI models</a></li>
-<li><a href="https://www.azernews.az/region/263874.html">Nvidia , Palantir said to restrict AI model use</a></li>
-<li><a href="https://www.reuters.com/business/anthropic-plans-change-enterprise-data-retention-policy-source-says-2026-08-20/">Anthropic plans to change enterprise data retention policy, source says ...</a></li>
+<li><a href="https://www.reuters.com/business/palantir-nvidia-curb-ai-model-use-over-data-fears-information-reports-2026-09-14/">Palantir, Nvidia curb AI model use over data fears, The ...</a></li>
+<li><a href="https://www.explainx.ai/blog/nvidia-palantir-booz-allen-curb-anthropic-fable-data-risks-2026">Nvidia, Palantir, Booz Allen Curb Anthropic Fable Use Over ...</a></li>
+<li><a href="https://www.spinach.ai/blog/enterprise-data-retention-policy">Data Retention for Enterprise AI Tools (August 2026)</a></li>
+<li><a href="https://arjunjaggi.com/blog/ai-procurement-checklist">The Enterprise AI Procurement Checklist: 40 Questions Before You Sign · Arjun Jaggi</a></li>
+<li><a href="https://gsconsultingllc.com/insights/managing-ai-vendor-risk">Managing AI Vendor Risk in Regulated Industries | GS Consulting</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI governance`, `#data privacy`, `#enterprise AI`, `#AI vendors`, `#tech industry`
+**标签**: `#AI governance`, `#enterprise AI`, `#data privacy`, `#AI procurement`, `#industry news`
 
 ---
 
 <a id="item-tech-news-4"></a>
 ### [谷歌向全体工程师开放 Anthropic Claude 用于内部开发](https://www.businessinsider.com/google-finally-lets-all-engineers-use-anthropics-claude-2026-9) ⭐️ 7.0/10
 
-据 Business Insider 报道，谷歌已向全公司工程师开放 Anthropic 旗下最强的编程模型 Claude（Opus 5），用于内部开发，但仅限于其内部开发平台 Antigravity。此前谷歌通常禁止大多数员工使用 Claude Code、OpenAI 的 Codex 等外部编程工具，要求他们改用自家 Gemini。谷歌发言人表示，Gemini 仍是内部开发的主要模型，Claude 按每位员工配额提供、作为补充。此举被视为对 AI 编码竞争压力的回应；谷歌是 Anthropic 的投资者，今年早些时候宣布计划向该公司投入最多 400 亿美元。该消息来自 Telegram 频道转述的 Business Insider 报道，尚无独立验证。
+据 Business Insider 报道，谷歌已向全公司工程师开放 Anthropic 最强的编程模型 Claude（Opus 5），用于内部开发，但仅限于其内部开发平台 Antigravity。此前谷歌通常禁止大多数员工使用 Claude Code、OpenAI 的 Codex 等外部编程工具，要求他们改用自家 Gemini。谷歌发言人表示，Gemini 仍是内部开发的主要模型，Claude 按每位员工配额提供、作为补充。此举被视为对 AI 编码竞争压力的回应；谷歌是 Anthropic 的投资者，今年早些时候宣布计划向该公司投入最多 400 亿美元。
 
 telegram · zaihuapd · 9月15日 13:31
 
-**「背景」** 谷歌此前通常禁止大多数员工使用 Claude Code、OpenAI 的 Codex 等外部编程工具，要求他们改用自家 Gemini；Claude 的访问权限仅限 Google DeepMind 内部部分团队及少数人员。谷歌同时是 Anthropic 的投资者，今年早些时候宣布计划向该公司投入最多 400 亿美元。
+**「背景」** 谷歌此前通常禁止大多数员工使用 Claude Code、OpenAI 的 Codex 等外部编程工具，要求他们改用自家 Gemini，Claude 的访问权限仅限部分团队和高优先级项目。谷歌同时是 Anthropic 的投资者，今年早些时候宣布计划向该公司投入最多 400 亿美元。此次开放正值 AI 编码工具竞争加剧，编码速度的考量压过了对 Gemini 的忠诚。
 
-**「影响」** 对谷歌内部工程师而言，Claude（Opus 5）现可在 Antigravity 平台按每人配额使用，但 Gemini 仍是主要开发模型，Claude 仅作补充，因此短期内不会取代 Gemini 的默认地位。此举也凸显谷歌与 Anthropic 之间既是竞争对手又是投资者的双重关系——谷歌此前已宣布计划向 Anthropic 投入最多 400 亿美元。
+**「影响」** 对谷歌工程师而言，内部开发工具选择从以 Gemini 为唯一选项，变为可在 Antigravity 平台上按配额使用 Claude（Opus 5），但 Gemini 仍是主要模型。此举也凸显谷歌在自研 Gemini 与投资 Anthropic（计划投入最多 400 亿美元）之间的双重角色，可能影响其内部 AI 编码工具生态的竞争格局。
 
 <details><summary>参考链接</summary>
 <ul>
 <li><a href="https://www.businessinsider.com/google-finally-lets-all-engineers-use-anthropics-claude-2026-9">Google Finally Lets All Engineers Use Anthropic&#x27;s Claude - Business Insider</a></li>
-<li><a href="https://finance.biggo.com/news/2aa7c4bf-ad9a-4e3b-8ed8-3c2862e9ecb6">Google breaks internal precedent, opens Anthropic&#x27;s Claude model to all engineers — BigGo Finance</a></li>
-<li><a href="https://thenextweb.com/news/google-40-billion-anthropic-investment-gemini">Google is investing up to $40 billion in a company that ... - TNW</a></li>
-<li><a href="https://www.clauder-navi.com/en/google-claude-anthropic">Google Invests Up to $40 Billion in Anthropic | Impact on Claude</a></li>
-<li><a href="https://www.inc.com/kevin-haynes/google-just-bet-40-billion-on-its-biggest-rival-heres-why/91336276">Google Just Bet $40 Billion on Its Biggest Rival—Here&#x27;s Why</a></li>
+<li><a href="https://en.sedaily.com/international/2026/09/15/google-lets-engineers-use-rival-anthropics-claude">Google Lets Engineers Use Rival Anthropic&#x27;s Claude - Seoul Economic Daily</a></li>
+<li><a href="https://kingy.ai/news/google-engineers-anthropic-claude-ai-coding/">Google Opens the Door to Claude for All Engineers—and the AI Coding Race Just Got More Interesting - Kingy AI</a></li>
+<li><a href="https://intheworldofai.com/p/anthropic-google-picks-claude">Google Bets $ 40 B on Claude Over Gemini : AI War Decided</a></li>
+<li><a href="https://geteasyai.org/blog/google-anthropic-40b-investment-rival-funding">Google Is Investing $ 40 B in Anthropic — The Company Building...</a></li>
+<li><a href="https://ddrinnova.com/en/blog/google-40-billion-anthropic-deal-ai-infrastructure-2026">Google &#x27;s $ 40 Billion Anthropic Investment : The AI... - DDR Innova</a></li>
 
 </ul>
 </details>
 
 **标签**: `#AI coding tools`, `#Google`, `#Anthropic`, `#developer tooling`, `#industry news`
+
+---
+
+<a id="item-tech-news-5"></a>
+### [联发科发布首款台积电 2 纳米手机芯片天玑 9600 Pro](https://www.reuters.com/business/media-telecom/mediatek-launches-new-mobile-chip-using-tsmcs-most-advanced-technology-2026-09-15/) ⭐️ 7.0/10
+
+联发科于 9 月 15 日推出旗舰手机芯片天玑 9600 Pro，采用台积电 2 纳米制程，是该公司首款使用这一制程的手机处理器；同日还发布了采用 3 纳米制程的天玑 9600M。联发科表示，两款芯片搭载的首批手机将很快上市。9600 Pro 配备专用 AI 处理器，在处理用户提示词、启动模型生成前的性能较上一代提升 51%。
+
+telegram · zaihuapd · 9月15日 16:57
+
+**「背景」** 2 纳米是台积电目前最先进的量产制程节点，相较 3 纳米可在同等功耗下提供更高性能或更低功耗，通常首先用于旗舰手机芯片。联发科的天玑系列是其面向高端智能手机的主力产品线，此次发布延续了其与台积电在先进制程上的合作。
+
+**「影响」** 若首批终端如期上市，采用天玑 9600 Pro 的旗舰手机将成为市场上最早搭载台积电 2 纳米制程的移动设备之一，可能影响高端安卓手机在端侧 AI 性能上的竞争格局。
+
+**标签**: `#semiconductors`, `#mobile chips`, `#TSMC 2nm`, `#MediaTek`, `#on-device AI`
+
+---
+
+<a id="item-tech-news-6"></a>
+### [404 Media 揭露 OpenAI“Project Lily”人工阅读用户聊天记录](https://www.404media.co/inside-project-lily-the-humans-reading-your-chatgpt-chats/) ⭐️ 7.0/10
+
+404 Media 报道称，OpenAI 正雇用数百名合同工参与名为“Project Lily”的项目，人工阅读大量真实用户的 ChatGPT 提示词及完整对话，并为模型回复评分、提出修改意见。报道指出，这些对话中可能包含敏感个人信息。OpenAI 表示会在内容交给审核员前尽量删除个人信息，但承认敏感细节仍可能被看到。Anthropic 也确认使用人工审核来改进模型。该报道引发了对 AI 训练与评估过程中用户隐私和数据治理的担忧。
+
+telegram · zaihuapd · 9月15日 19:56
+
+**「背景」** OpenAI 等大模型厂商在训练和评估模型时，通常需要人工标注与审核数据，以提升回复质量并识别不当内容。此次 404 Media 报道的“Project Lily”是 OpenAI 内部代号，指其雇用数百名合同工阅读真实用户的 ChatGPT 提示词与完整对话，并按 1 至 7 分制为模型回复评分。据报道，这些合同工由 Crossing Hurdles 招募、通过 Mercor 支付报酬，OpenAI 称会在审核前尽量删除个人信息，但承认敏感细节仍可能被看到。
+
+**「影响」** 这意味着 ChatGPT 用户提交的提示词和完整对话可能被 OpenAI 合同工人工阅读，即使经过隐私过滤模型处理，敏感个人信息仍可能暴露给审核人员，对注重隐私的用户构成直接风险。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.404media.co/inside-project-lily-the-humans-reading-your-chatgpt-chats/">Inside ‘Project Lily’: The Humans Reading Your ChatGPT Chats</a></li>
+<li><a href="https://www.tomsguide.com/ai/chatgpt/humans-may-be-reading-your-chatgpt-prompts-heres-how-to-stop-it">OpenAI paid contractors to read ChatGPT conversations — here&#x27;s how to protect yourself | Tom&#x27;s Guide</a></li>
+<li><a href="https://aiweekly.co/alerts/404-media-openai-project-lily-hires-hundreds-of-contractors-to-read-real">404 Media: OpenAI &#x27;Project Lily&#x27; Hires Hundreds of Contractors to Read Real ChatGPT Prompts | AI Weekly</a></li>
+<li><a href="https://cryptobriefing.com/openai-contractors-review-chatgpt-chats/">OpenAI hires contractors to review ChatGPT user chats : report</a></li>
+<li><a href="https://www.404media.co/inside-project-lily-the-humans-reading-your-chatgpt-chats/">Inside ‘Project Lily’: The Humans Reading Your ChatGPT Chats</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI privacy`, `#OpenAI`, `#data annotation`, `#AI industry`, `#content moderation`
 
 ---
