@@ -5,118 +5,83 @@ date: 2026-09-16
 lang: zh
 ---
 
-> 从 21 条内容中筛选出 11 条重要资讯。
+> 从 23 条内容中筛选出 9 条重要资讯。
 
 ---
 
 **科技财经**
-1. [OpenAI 广告见效、亚马逊拟在 ChatGPT 投放广告、沃尔玛开始接受 Apple Pay](#item-tech-finance-1) ⭐️ 6.0/10
-2. [数据中心禁令对美国建设影响有限？](#item-tech-finance-2) ⭐️ 5.0/10
+1. [数据中心禁令对美国建设影响有限？](#item-tech-finance-1) ⭐️ 5.0/10
 
 **财经新闻**
-1. [中国 8 月零售增速放缓、投资降幅加深，经济承压](#item-finance-news-1) ⭐️ 8.0/10
-2. [报道称字节跳动 2026 上半年净利润下降，AI 投入加大](#item-finance-news-2) ⭐️ 7.0/10
+1. [平陆运河通航：西南地区新增通往东盟的水运通道](#item-finance-news-1) ⭐️ 8.0/10
+2. [香港推出 11 项措施鼓励生育](#item-finance-news-2) ⭐️ 7.0/10
 
 **科技新闻**
 1. [英特尔 CEO：CPU 仅满足五成需求，14A 明年一季度投产](#item-tech-news-1) ⭐️ 8.0/10
-2. [联发科发布首款 2 纳米手机芯片天玑 9600 Pro](#item-tech-news-2) ⭐️ 7.0/10
-3. [404 Media 揭露 OpenAI“Project Lily”人工阅读用户聊天记录](#item-tech-news-3) ⭐️ 7.0/10
-4. [Mozilla：闭源前沿 AI 仅领先开源约 4 个月，成本高 5 倍](#item-tech-news-4) ⭐️ 7.0/10
-5. [苹果详解 iPhone 18 Pro 图像溯源安全机制](#item-tech-news-5) ⭐️ 7.0/10
-6. [Cloudflare 推出可保留搜索收录并禁止 AI 训练的域名设置](#item-tech-news-6) ⭐️ 7.0/10
-7. [低质中文赌场网站暗藏高危网络攻击基础设施](#item-tech-news-7) ⭐️ 7.0/10
+2. [Mozilla：闭源前沿模型领先开源约 4.4 个月](#item-tech-news-2) ⭐️ 7.0/10
+3. [苹果详解 iPhone 18 Pro Reference Image 图像溯源](#item-tech-news-3) ⭐️ 7.0/10
+4. [Cloudflare 推出按域名设置：保留搜索收录同时禁止 AI 训练](#item-tech-news-4) ⭐️ 7.0/10
+5. [低质中文赌场网站被用作网络攻击基础设施](#item-tech-news-5) ⭐️ 7.0/10
+6. [阶跃星辰发布 StepAudio 3 Music 音乐生成模型](#item-tech-news-6) ⭐️ 7.0/10
 
 ---
 
 ## 科技财经
 
 <a id="item-tech-finance-1"></a>
-### [OpenAI 广告见效、亚马逊拟在 ChatGPT 投放广告、沃尔玛开始接受 Apple Pay](https://stratechery.com/2026/openai-ads-amazon-ads-in-chatgpt-walmart-to-accept-apple-pay/) ⭐️ 6.0/10
-
-据 Stratechery 报道，OpenAI 在 ChatGPT 中的广告被指已见成效，并可能帮助亚马逊解决其聊天机器人变现难题；同时沃尔玛已开始接受 Apple Pay。报道未提供具体数据或对比基准。
-
-rss · Stratechery · 9月15日 18:00
-
-**「背景」** 亚马逊广告宣布与 OpenAI 合作，让现有广告主无需新平台或新合同即可在 ChatGPT 中投放广告；据 CNBC 报道，OpenAI 的广告业务年化收入已达 10 亿美元。沃尔玛此前长期拒绝 Apple Pay 等非接触支付，2026 年 8 月 21 日宣布自 8 月 24 日起在部分门店和山姆会员店推出 Tap to Pay，并计划逐步推广至全国。
-
-**「影响」** 若 ChatGPT 广告模式成立，亚马逊等依赖广告收入的平台可能获得新的聊天机器人变现渠道，而沃尔玛接受 Apple Pay 则可能改变其门店的支付方式选择。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.cnbc.com/2026/09/10/amazon-chatgptads-open-ai.html">Amazon gives OpenAI&#x27;s ad business a boost with ChatGPT partnership</a></li>
-<li><a href="https://advertising.amazon.com/library/news/amazon-ads-chat-gpt-advertising-integration">Amazon Ads announces new integration with ChatGPT | Amazon Ads</a></li>
-<li><a href="https://theroberthu.com/blog/amazon-ads-chatgpt-openai-partnership">Amazon Ads and ChatGPT: What the OpenAI Partnership Does | Robert Hu</a></li>
-<li><a href="https://corporate.walmart.com/news/2026/08/21/more-ways-to-pay-tap-to-pay-is-coming-to-walmart-and-sams-club">More Ways to Pay: Tap to Pay Is Coming to Walmart and Sam&#x27;s Club</a></li>
-<li><a href="https://www.facebook.com/rossenreports/posts/walmart-officially-started-rolling-out-tap-to-pay-including-apple-pay-and-google/1633834358104012/">Walmart OFFICIALLY started rolling out Tap to Pay (including Apple Pay ...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#OpenAI`, `#Amazon`, `#ChatGPT`, `#Walmart`, `#Apple Pay`
-
----
-
-<a id="item-tech-finance-2"></a>
 ### [数据中心禁令对美国建设影响有限？](https://newsletter.semianalysis.com/p/everyone-says-datacenter-moratoriums) ⭐️ 5.0/10
 
-一篇通讯分析指出，美国数据中心建设因地方禁令而实际延误的规模远小于普遍说法：约 20GW 位于受限地方边界内，但实际延误仅 1,525MW，全美含纽约在内为 2.3GW。该数据来自该通讯的分析，未提供方法或基准。
+SemiAnalysis 的一篇分析文章认为，美国数据中心建设受地方禁令的影响远小于普遍说法：约 20GW 装机容量位于受限的地方边界内，但实际推迟的仅 1,525MW，全美（含纽约）合计 2.3GW。上述数字为作者自身分析，原文未提供测算方法或基准说明。
 
 rss · Semianalysis · 9月16日 04:54
 
-**「背景」** 数据中心“暂停令”指地方政府以电力、用水或用地等理由限制新建数据中心。SemiAnalysis 的这篇通讯称，其梳理了 300 多处此类限制，并认为限制数量本身并不能反映实际受影响的算力规模。
+**「背景」** 数据中心选址常受地方政策限制，但限制范围与实际受影响容量可能相差很大。SemiAnalysis 的分析称，全美约 20GW 数据中心容量位于受限地方边界内，但实际推迟的仅 1,525MW，全国范围内（含纽约）为 2.3GW；该机构此前还指出，缅因州拟议的全州禁令因当地规划容量不足 5MW 而影响有限。
 
-**「影响」** 若该分析成立，受影响的将主要是受限地区内的数据中心开发商与相关电力需求方：约 20GW 项目位于受限地方边界内，但实际延期仅约 1,525MW，全国含纽约州约 2.3GW。
+**「影响」** 若该分析成立，受影响的将主要是被地方限制圈定区域内的数据中心开发商与相关电力、基建供应商；但作者称实际受阻规模远小于外界普遍认知，因此对全美数据中心建设总量的直接冲击可能有限。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://newsletter.semianalysis.com/p/everyone-says-datacenter-moratoriums">Everyone Says Datacenter Moratoriums Are Killing the US Buildout .</a></li>
-<li><a href="https://sechub.in/view/3291756">Everyone Says Datacenter Moratoriums Are Killing the US Buildout .</a></li>
-<li><a href="https://newsletter.semianalysis.com/p/everyone-says-datacenter-moratoriums">Everyone Says Datacenter Moratoriums Are Killing the US Buildout .</a></li>
+<li><a href="https://newsletter.semianalysis.com/p/everyone-says-datacenter-moratoriums">Everyone Says Datacenter Moratoriums Are Killing the US Buildout. We Mapped All 300 of Them</a></li>
+<li><a href="https://newsletter.semianalysis.com/p/stop-saying-half-of-2026-us-datacenter">Stop Saying Half of 2026 US Datacenter Capacity Is Canceled</a></li>
+<li><a href="https://newsletter.semianalysis.com/p/everyone-says-datacenter-moratoriums">Everyone Says Datacenter Moratoriums Are Killing the US ...</a></li>
+<li><a href="https://www.electricchoice.com/datacenters/moratoriums/">Data Center Moratoriums and Restrictions - electricchoice.com</a></li>
 
 </ul>
 </details>
 
-**标签**: `#datacenters`, `#US infrastructure`, `#energy demand`, `#local policy`, `#AI buildout`
+**标签**: `#datacenters`, `#infrastructure`, `#energy`, `#technology`, `#local policy`
 
 ---
 
 ## 财经新闻
 
 <a id="item-finance-news-1"></a>
-### [中国 8 月零售增速放缓、投资降幅加深，经济承压](https://www.cnbc.com/2026/09/15/china-august-retail-sales-industrial-output-investment-exports-.html) ⭐️ 8.0/10
+### [平陆运河通航：西南地区新增通往东盟的水运通道](https://www.news.cn/politics/20260916/4d3b671357d14c8db202cbf6120f2c43/c.html) ⭐️ 8.0/10
 
-中国国家统计局 9 月 15 日数据显示，8 月社会消费品零售总额同比增长 0.4%，低于路透调查经济学家预期的 0.8%，较 7 月的 0.6%进一步放缓；1 至 8 月城镇固定资产投资同比下降 7.2%，降幅较 1 至 7 月的 6.7%扩大。
+据新华网报道，平陆运河已建成通航，全长 134.2 公里，投资 700 多亿元人民币，可通航 5000 吨级船舶；报道称西南地区货物经此较传统路径缩短航程 560 公里以上，物流成本降低 18%至 30%。
 
-rss · CNBC Finance · 9月15日 17:46
+telegram · zaihuapd · 9月16日 17:10
 
-**「背景」** 中国二季度经济增速放缓至 4.3%，为三年多来最弱，北京今年增长目标为 4.5%至 5%，但迄今仍以渐进措施而非大规模刺激应对；统计局称国内存在“供给强、需求弱”的供需失衡，并呼吁加大宏观政策调整力度、提振内需。
+**「背景」** 该运河北起南宁横州市，经钦州沿钦江入北部湾，2022 年 8 月开工，是新中国成立以来首条“通江达海”运河工程；通航当日，“南宁港—越南芹苴港”和“南宁港—洋浦港”两条江海直达航线开启首航。
 
-**「影响」** 8 月新增人民币贷款仅 600 亿元，远低于约 4000 亿元的预测，贷款余额增速降至 4.9%的历史低位，显示企业和家庭借贷需求疲弱，可能促使市场关注三季度财政支持力度及 9 月是否成为政策窗口。
+**「影响」** 若报道中的航程和成本降幅成立，依赖西南至东盟海运的出口企业和物流企业可能获得更低的运输成本与更短的运输时间，但相关数据尚未经独立核实。
 
-**标签**: `#China economy`, `#macroeconomic data`, `#monetary policy`, `#credit growth`, `#fixed-asset investment`
+**标签**: `#infrastructure`, `#trade`, `#China-ASEAN`, `#shipping`, `#logistics`
 
 ---
 
 <a id="item-finance-news-2"></a>
-### [报道称字节跳动 2026 上半年净利润下降，AI 投入加大](https://finance.sina.com.cn/jjxw/2026-09-15/doc-inirxpiq6857286.shtml) ⭐️ 7.0/10
+### [香港推出 11 项措施鼓励生育](https://www.info.gov.hk/gia/general/202609/16/P2026091600265.htm) ⭐️ 7.0/10
 
-据外媒报道，字节跳动 2026 年上半年净利润降至约 200 亿美元，同比下降，净利润率降至约 16.7%，主因是 AI 领域大规模投入；同期营收同比增长 30%，海外收入占比突破三成。字节跳动未对上述数据置评。
+香港行政长官李家超在新《施政报告》中宣布 11 项鼓励生育措施，包括将 2 万港元新生婴儿奖励金计划延续 3 年，并把第二名及之后子女的奖励金提高至 3 万港元。
 
-telegram · zaihuapd · 9月15日 23:59
+telegram · zaihuapd · 9月16日 16:01
 
-**「背景」** 字节跳动是未上市的私营公司，其财务数据通常不公开披露，此次数字来自外媒 The Information 的报道，公司未予置评。
+**「背景」** 李家超表示，本届政府改变过去不干预政策，转为鼓励生育，营造生育友善环境。
 
-**「影响」** 若报道属实，字节跳动将更大比例预算投向国产 AI 芯片，可能利好中国本土 AI 芯片供应商；同时其 2026 年 AI 基础设施预算已从原定 1600 亿元人民币上调至 2000 亿元，资本开支扩大或持续压制其利润率。
+**「影响」** 这些措施涉及税务、住房、医疗和托儿服务，将影响有新生子女的香港家庭：第二名及之后子女的免税额由 14 万港元提高至 16 万港元，自 2026/27 课税年度起生效；符合条件家庭可获最多 2 万港元印花税减免；有新生婴儿的白表家庭申请居屋时最高按揭成数提升至 95%。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://finance.sina.com.cn/roll/2025-12-23/doc-inhcucqs0876286.shtml">报道：字节计划2026年资本支出1600亿元，半数将投入AI芯片_新浪财经_新浪网</a></li>
-<li><a href="https://cn.investing.com/news/company-news/article-3357889">字节跳动将2026年AI基础设施预算提高25%，总额达2000亿元人民币 提供者 Investing.com</a></li>
-
-</ul>
-</details>
-
-**标签**: `#ByteDance`, `#AI investment`, `#corporate earnings`, `#China tech`, `#TikTok`
+**标签**: `#Hong Kong policy`, `#fiscal policy`, `#demographics`, `#housing`, `#taxation`
 
 ---
 
@@ -125,172 +90,155 @@ telegram · zaihuapd · 9月15日 23:59
 <a id="item-tech-news-1"></a>
 ### [英特尔 CEO：CPU 仅满足五成需求，14A 明年一季度投产](https://wallstreetcn.com/articles/3781851) ⭐️ 8.0/10
 
-英特尔 CEO 陈立武表示，AI 智能体扩张带动 CPU 需求激增，公司目前只能满足前沿客户约 50% 的需求。他确认英特尔 18A 制程已全面量产，14A 制程将于 2027 年一季度投产。英特尔还在布局数据流架构、晶圆级扩展和神经形态计算，并称相关芯片在特定推理场景下可用 GPU 1/10 至 1/15 的功耗实现同等性能。上述功耗与性能说法属于前瞻性表述，尚未得到独立验证。
+英特尔 CEO 陈立武表示，AI 智能体的扩张带动 CPU 需求激增，公司目前只能满足前沿客户约 50% 的需求。他同时披露，英特尔 18A 制程已全面量产，14A 制程将于 2027 年一季度投产。英特尔还在布局数据流架构、晶圆级扩展和神经形态计算，并称相关芯片在特定推理场景下可用 GPU 1/10 至 1/15 的功耗实现同等性能。上述产能与功耗数据均为公司单方面披露，尚待第三方验证。
 
 telegram · zaihuapd · 9月16日 12:15
 
-**「背景」** 英特尔近年推进“四年五个制程节点”路线，18A 是其首个采用 RibbonFET 全环绕栅极晶体管与 PowerVia 背面供电的节点，被视为代工业务能否翻身的关键。14A 则是 18A 之后的下一代节点，此前公开预期即为 2027 年前后具备量产条件，与本次 CEO 给出的 2027 年一季度投产时间表基本一致。
+**「背景」** 英特尔近年推进“四年五个节点”路线图，18A 是其首个引入全环绕栅极晶体管（RibbonFET）与背面供电（PowerVia）的制程节点，被视为其代工业务能否重获竞争力的关键。14A 则是继 18A 之后的下一代节点，按公司此前规划将采用高数值孔径 EUV 光刻。与此同时，AI 智能体（Agentic AI）的兴起正在改变数据中心中 CPU 与 GPU 的配比，陈立武在 Computex 2026 主题演讲中曾提出这一比例可能从 1:8 向 1:1 靠拢。
 
-**「影响」** 若英特尔所述数据流架构、晶圆级扩展与神经形态计算芯片真能在特定推理场景以 GPU 的 1/10 至 1/15 功耗实现同等性能，则依赖大规模推理算力的 AI 服务商与数据中心有望显著降低能耗与运营成本；但该性能宣称尚未经第三方验证，且仅限特定推理场景，实际落地效果仍待观察。
+**「影响」** 若英特尔的数据流架构、晶圆级扩展与神经形态计算芯片真能在特定推理场景下以 GPU 的 1/10 至 1/15 功耗实现同等性能，则依赖大规模 AI 推理的企业与云服务商可能获得显著的能效与成本优势；但该性能主张尚属前瞻性、未经第三方验证，实际落地效果仍待观察。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.facebook.com/TheStarOnline/posts/intel-ceo-lip-bu-tan-is-now-considering-offering-the-companys-18a-manufacturing-/1381553980673790/">Intel CEO Lip-Bu Tan is now considering offering the company&#x27;s ...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Hardware_for_artificial_intelligence">Hardware for artificial intelligence - Wikipedia</a></li>
+<li><a href="https://finance.biggo.com/news/BLzCh54BpwxG186N2DDo">Intel CEO Lip-Bu Tan: AI Computing Landscape Is Shifting, CPU ...</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Neural_processing_unit">Neural processing unit - Wikipedia</a></li>
-<li><a href="https://www.intc.com/news-events/press-releases/detail/1691/intel-builds-worlds-largest-neuromorphic-system-to">Intel Builds World’s Largest Neuromorphic System to Enable More Sustainable AI :: Intel Corporation (INTC)</a></li>
+<li><a href="https://www.youtube.com/watch?v=gX9NqDuwTnA">Neuromorphic computing with emerging memory devices - YouTube</a></li>
+<li><a href="https://www.emergentmind.com/topics/wafer-scale-chips-wscs">Wafer - Scale Chips: Integration &amp; Architecture</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Intel`, `#semiconductor manufacturing`, `#AI inference hardware`, `#CPU supply`, `#chip architecture`
+**标签**: `#Intel`, `#semiconductor manufacturing`, `#AI inference`, `#hardware`, `#dataflow architecture`
 
 ---
 
 <a id="item-tech-news-2"></a>
-### [联发科发布首款 2 纳米手机芯片天玑 9600 Pro](https://www.reuters.com/business/media-telecom/mediatek-launches-new-mobile-chip-using-tsmcs-most-advanced-technology-2026-09-15/) ⭐️ 7.0/10
+### [Mozilla：闭源前沿模型领先开源约 4.4 个月](https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/) ⭐️ 7.0/10
 
-联发科于 9 月 15 日推出旗舰手机芯片天玑 9600 Pro，采用台积电 2 纳米制程，是该公司首款使用这一制程的手机处理器；同日还发布了采用 3 纳米制程的天玑 9600M。联发科表示，搭载这两款芯片的首批手机将很快上市。天玑 9600 Pro 配备专用 AI 处理器，在处理用户提示词、启动模型生成前的性能较上一代提升 51%。上述性能数据为联发科方面的说法，公告未披露更多技术细节。
+Mozilla 监测数据显示，美国科技公司的前沿 AI 模型与中国公司最佳开放权重模型的性能差距已缩小至约 4.4 个月。按 METR 的“任务时间跨度”指标，最佳开源模型目前能可靠完成约 7 小时的任务，闭源模型约为 12 小时，前者约为后者的 1.7 倍，预计开源模型约 4 个月后可达到当前闭源模型水平。成本方面，Kimi K3 在综合性能指数上仅比 Anthropic 的闭源前沿模型 Fable 5 低 3 分，使用成本约为后者的 30%，即闭源模型以约 5 倍成本换取约 4 个月领先。不过闭源模型在需要专家级专业能力、高强度信息检索和超长上下文的任务中仍保持优势。
 
-telegram · zaihuapd · 9月15日 16:57
+telegram · zaihuapd · 9月16日 11:25
 
-**「背景」** 台积电的 2 纳米制程是其继 3 纳米之后的新一代先进制程节点，通常意味着晶体管密度与能效的进一步提升。联发科此前旗舰手机芯片主要采用 3 纳米及更早的制程，此次天玑 9600 Pro 是其首款采用 2 纳米制程的手机处理器，因此被视为该公司在先进制程采用上的一个节点性进展。
+**「背景」** 开放权重模型指模型参数公开、可自行下载部署和微调的 AI 模型，与只能通过 API 调用的闭源前沿模型形成对比。METR 的“任务时间跨度”指标用于衡量模型能可靠完成的任务时长，常被用来量化不同模型之间的能力差距。Mozilla 此次发布的报告正是基于这类监测数据，对比美国闭源前沿模型与中国最佳开放权重模型的表现。
 
-**「影响」** 天玑 9600 Pro 率先采用台积电 2nm 制程，使联发科在与高通等对手争夺下一代 AI 手机芯片首发权上占据先机，并可能推动 Oppo、Vivo 等厂商加快推出搭载该芯片的机型。不过其 51% 的 AI 性能提升目前仅为联发科单方面宣称，实际表现有待第三方测试验证。
+**「影响」** 对于预算敏感的开发者和企业，这意味着以约 30% 的成本即可获得接近前沿的能力，Kimi K3 在综合性能指数上仅落后 Anthropic 的 Fable 5 约 3 分，使开源权重模型成为许多任务的可行替代方案。但在需要专家级专业能力、高强度信息检索和超长上下文的任务中，闭源前沿模型仍保持优势，因此高难度场景下付费溢价仍有其合理性。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://blockonomi.com/mediatek-unveils-dimensity-9600-pro-tsmcs-2nm-tech-powers-new-flagship-chip">MediaTek Unveils Dimensity 9600 Pro: TSMC&#x27;s 2nm Tech Powers New Flagship Chip - Blockonomi</a></li>
-<li><a href="https://www.semiconductor-digest.com/mediatek-launches-dimensity-9600-pro-on-tsmc-2nm-process/">MediaTek Launches Dimensity 9600 Pro on TSMC 2nm Process - Semiconductor Digest</a></li>
-<li><a href="https://www.gizmochina.com/2026/09/15/mediatek-announces-dimensity-9600-pro-built-on-2nm-process-and-arms-c2-cores/">MediaTek announces Dimensity 9600 Pro built on 2nm process and ARM’s C2 cores - Gizmochina</a></li>
-<li><a href="https://blockonomi.com/mediatek-unveils-dimensity-9600-pro-tsmcs-2nm-tech-powers-new-flagship-chip">MediaTek Unveils Dimensity 9600 Pro: TSMC&#x27;s 2nm Tech Powers New Flagship Chip - Blockonomi</a></li>
-<li><a href="https://www.ibtimes.com.au/mediatek-dimensity-9600-pro-tsmc-2nm-chip-1875595">MediaTek Beats Qualcomm to TSMC&#x27;s 2nm Chip Race With Its New Dimensity 9600 Pro Smartphone Processor</a></li>
-<li><a href="https://finance.biggo.com/news/89c81ba6-1090-41e5-b70b-7c92d87e9e84">MediaTek Debuts Dimensity 9600 Pro, First Phone Chip Built on TSMC&#x27;s 2nm Process — BigGo Finance</a></li>
+<li><a href="https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/">Exclusive: Paying for frontier AI models buys 4-month head ...</a></li>
+<li><a href="https://letsdatascience.com/news/mozilla-report-finds-narrow-us-china-ai-gap-f63dd9f0">Mozilla Report Finds Narrow US-China AI Gap | Let&#x27;s Data Science</a></li>
+<li><a href="https://www.solvimon.com/pricing-guides/kimi-k3-vs-the-frontier">Kimi K3 vs the frontier: what the open-source flagship actually costs - Solvimon</a></li>
+<li><a href="https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/">Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost - Ars Technica</a></li>
+<li><a href="https://x.com/paddix/article/2078513496610820114">Kimi K3 &amp; the new frontier of Open Weight Models = &quot;Own your Intelligence&quot; | Paddy Srinivasan (@paddix) on X</a></li>
 
 </ul>
 </details>
 
-**标签**: `#semiconductors`, `#mobile chips`, `#MediaTek`, `#TSMC 2nm`, `#AI hardware`
+**标签**: `#open-weight models`, `#AI model comparison`, `#frontier AI`, `#cost efficiency`, `#AI industry`
 
 ---
 
 <a id="item-tech-news-3"></a>
-### [404 Media 揭露 OpenAI“Project Lily”人工阅读用户聊天记录](https://www.404media.co/inside-project-lily-the-humans-reading-your-chatgpt-chats/) ⭐️ 7.0/10
+### [苹果详解 iPhone 18 Pro Reference Image 图像溯源](https://security.apple.com/blog/apple-reference-image/) ⭐️ 7.0/10
 
-404 Media 报道称，OpenAI 正通过名为“Project Lily”的项目雇用数百名合同工，人工阅读大量真实用户的 ChatGPT 提示词及完整对话，并为模型回复评分、提出修改意见。报道指出，这些对话中可能包含敏感个人信息。OpenAI 表示会在交给审核员前尽量删除个人信息，但承认敏感细节仍可能被看到。报道还提到，Anthropic 也确认使用人工审核来改进模型。该报道引发了对用户隐私和敏感个人数据暴露风险的关注。
-
-telegram · zaihuapd · 9月15日 19:56
-
-**「背景」** OpenAI 等大模型厂商在训练和优化模型时，通常需要人工对模型输出进行评分与反馈，这类数据标注工作往往外包给合同工完成。404 Media 的调查将这一做法与 OpenAI 内部代号“Project Lily”的项目联系起来，指出其审核对象是真实用户的 ChatGPT 提示词和完整对话，而非合成或脱敏数据。Anthropic 也确认使用人工审核来改进模型，说明人工介入模型评估在业内并非孤例。
-
-**「影响」** 对于使用 ChatGPT 的用户而言，其提示词和完整对话可能被 OpenAI 雇用的合同工人工阅读，其中可能包含敏感个人信息，这加剧了用户对隐私泄露的担忧。报道还提到 Anthropic 也使用人工审核来改进模型，表明人工审查用户数据在 AI 行业中并非孤例。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.404media.co/inside-project-lily-the-humans-reading-your-chatgpt-chats/">Inside ‘ Project Lily ’: The Humans Reading Your ChatGPT Chats</a></li>
-<li><a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pjMF92LUVSRkllX2NVeWlCR0l5Z0FQAQ?hl=en-US&amp;gl=US&amp;ceid=US:en">Report: OpenAI contractors read ChatGPT user conversations ...</a></li>
-<li><a href="https://theoutpost.ai/news-story/open-ai-contractors-read-real-chat-gpt-conversations-under-project-lily-raising-privacy-alarms-30851/">OpenAI &#x27;s Project Lily : Humans Reading ChatGPT Chats</a></li>
-<li><a href="https://mezha.net/eng/news/42114bde_openai_uses_human_contractors/">OpenAI Uses Human Contractors to Review ChatGPT ... - #Mezha</a></li>
-<li><a href="https://theoutpost.ai/news-story/open-ai-contractors-read-real-chat-gpt-conversations-under-project-lily-raising-privacy-alarms-30851/">OpenAI &#x27;s Project Lily: Humans Reading ChatGPT Chats</a></li>
-<li><a href="https://cryptobriefing.com/openai-contractors-review-chatgpt-chats/">OpenAI hires contractors to review ChatGPT user chats : report</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI privacy`, `#OpenAI`, `#data annotation`, `#AI industry`, `#content moderation`
-
----
-
-<a id="item-tech-news-4"></a>
-### [Mozilla：闭源前沿 AI 仅领先开源约 4 个月，成本高 5 倍](https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/) ⭐️ 7.0/10
-
-Mozilla 监测数据显示，美国科技公司的前沿 AI 模型与中国公司最佳开放权重模型的性能差距已缩小至约 4.4 个月。按 METR 的“任务时间跨度”指标，最佳开源模型目前能可靠完成约 7 小时的任务，闭源模型约 12 小时，即闭源模型的任务时长优势约为 1.7 倍，预计开源模型约 4 个月后可达到当前闭源模型水平。具体案例上，Kimi K3 在综合性能指数上仅比 Anthropic 的闭源前沿模型 Fable 5 低 3 分，而使用成本约为后者的 30%，即闭源模型以约 5 倍成本换取约 4 个月领先。不过闭源模型在需要专家级专业能力、高强度信息检索以及超长上下文的任务中仍保持优势。
-
-telegram · zaihuapd · 9月16日 11:25
-
-**「背景」** 开放权重模型指模型参数公开、可自行下载部署和微调的 AI 模型，与只能通过 API 调用的闭源模型形成对比。METR（Model Evaluation &amp; Threat Research）提出的“任务时间跨度”指标，用于衡量模型能可靠完成的任务时长，是评估模型能力差距的常用方法之一。Mozilla 此次发布的监测数据即基于该指标，对比美国前沿闭源模型与中国最佳开放权重模型的能力差距。
-
-**「影响」** 对成本敏感的开发者与企业而言，若任务落在开源模型约 7 小时的任务时间跨度内，采用 Kimi K3 等开放权重模型可将推理成本降至闭源前沿模型的约 30%，但需接受约 4.4 个月的性能滞后。在专家级专业能力、高强度信息检索和超长上下文任务上，闭源前沿模型仍具优势，因此这类场景短期内难以迁移。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/">Exclusive: Paying for frontier AI models buys 4-month head start at ...</a></li>
-<li><a href="https://superpowerdaily.com/posts/mozilla-finds-chinese-open-models-are-within-4-4-months-of-u-s-frontier-ai">Mozilla Finds Chinese Open Models Are Within 4.4 Months of U.S. ...</a></li>
-<li><a href="https://www.aichatdaily.com/ai-models/chinese-open-weight-models-close-gap-us-frontier-ai">Chinese open-weight models close gap with US frontier AI to 4.4 months</a></li>
-
-</ul>
-</details>
-
-**标签**: `#open-weight models`, `#AI benchmarks`, `#model economics`, `#frontier AI`, `#AI industry`
-
----
-
-<a id="item-tech-news-5"></a>
-### [苹果详解 iPhone 18 Pro 图像溯源安全机制](https://security.apple.com/blog/apple-reference-image/) ⭐️ 7.0/10
-
-苹果于 9 月 15 日发布安全博客，详解 iPhone 18 Pro 的 Apple Reference Image 功能。该功能由传感器对像素和元数据签名，形成安全数字负片，并配合加密时间戳建立拍摄时间的上下界，再由专用云计算在可验证环境中完成处理。最终签名结合 RSA-3072 与 ML-DSA-87 后量子密码方案，苹果称其为据其所知唯一具备量子安全防护的图像溯源系统。信任链从传感器制造阶段初始化即开始，设计上保护摄影师匿名性。该功能为可选模式，在中国和欧盟暂不可用。
+苹果于 9 月 15 日发布安全博客，详解 iPhone 18 Pro 的 Apple Reference Image 功能。该功能通过传感器对像素和元数据签名形成安全数字负片，配合加密时间戳建立拍摄时间上下界，再由专用云计算在可验证环境中完成处理。最终签名结合 RSA-3072 与 ML-DSA-87 后量子密码方案，苹果称其为据其所知唯一具备量子安全防护的图像溯源系统。信任链从传感器制造阶段初始化即开始，设计上保护摄影师匿名性。该功能为可选模式，在中国和欧盟暂不可用。
 
 telegram · zaihuapd · 9月16日 13:02
 
-**「背景」** 图像溯源（provenance）旨在证明照片由真实设备拍摄且未被篡改，业界此前多采用 C2PA 等基于内容凭证的标准，但签名通常发生在图像处理之后。苹果的 Reference Image 则把签名提前到传感器捕获瞬间：传感器进入专用参考模式，在像素数据生成后立即签名，且固件被禁止修改数据。该功能为可选模式，仅适用于 iPhone 18 Pro 系列的主摄像头，目前在中国和欧盟暂不可用。
+**「背景」** 图像溯源（provenance）旨在证明一张照片确实由某台相机拍摄、且内容未被篡改，通常依赖对图像数据与元数据做密码学签名。苹果此前已在 iCloud 照片、iMessage 等场景推广端到端加密与 Private Cloud Compute 等可验证云处理机制，Reference Image 是把这一思路延伸到相机传感器层面。该功能为可选模式，苹果称其是据其所知唯一具备量子安全防护的图像溯源系统，但在中国和欧盟暂不可用。
 
-**「影响」** 该功能为可选模式，且在中国和欧盟暂不可用，因此这些地区的 iPhone 18 Pro 用户无法使用这一溯源能力。苹果将其定位为据其所知唯一具备量子安全防护的图像溯源系统，但该说法尚未获得独立验证。
+**「影响」** 该功能为可选模式，在中国和欧盟暂不可用，但欧盟用户仍可在受支持的 Apple 设备上查看和开发参考图像。若系统被攻破，苹果提供了撤销选项，且 Private Cloud Compute 会为每张图像计算置信度分数。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.androidauthority.com/apple-reference-image-vs-android-c2pa-3711734/">Apple claims iPhone 18 Pro &#x27;s camera is more secure than Android</a></li>
+<li><a href="https://www.igeeksblog.com/iphone-18-pro-reference-image/">Apple explains how iPhone 18 Pro’s Reference Image mode ...</a></li>
+<li><a href="https://www.macobserver.com/news/apple-reference-image-iphone-18-pro-how-it-works/">Apple Explains How iPhone 18 Pro Reference Image Verifies a ...</a></li>
+<li><a href="https://security.apple.com/blog/apple-reference-image">Apple Reference Image: A New Approach for Verified ...</a></li>
+<li><a href="https://www.igeeksblog.com/iphone-18-pro-reference-image/">Apple explains how iPhone 18 Pro’s Reference Image mode verifies...</a></li>
 <li><a href="https://www.macrumors.com/2026/09/15/apple-reference-image-info/">Apple Details How Reference Image Proves a Photo is... - MacRumors</a></li>
 
 </ul>
 </details>
 
-**标签**: `#post-quantum cryptography`, `#image provenance`, `#hardware security`, `#Apple`, `#privacy`
+**标签**: `#post-quantum cryptography`, `#image provenance`, `#Apple`, `#hardware security`, `#privacy`
 
 ---
 
-<a id="item-tech-news-6"></a>
-### [Cloudflare 推出可保留搜索收录并禁止 AI 训练的域名设置](https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/) ⭐️ 7.0/10
+<a id="item-tech-news-4"></a>
+### [Cloudflare 推出按域名设置：保留搜索收录同时禁止 AI 训练](https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/) ⭐️ 7.0/10
 
-Cloudflare 于 9 月 15 日宣布推出“禁止 AI 训练”设置，允许网站继续被搜索引擎收录，同时阻止不符合要求的训练爬虫。该设置按域名配置，苹果、谷歌和微软已符合或承诺符合相关要求。若网站选择“阻止”，包括混合爬虫在内的所有爬虫都会被拦截，搜索收录也会受到影响。Cloudflare 还计划明年初让网站控制内容被 AI 摘要引用的比例。
+Cloudflare 于 9 月 15 日宣布推出“禁止 AI 训练”设置，允许网站继续被搜索引擎收录，同时阻止不符合要求的训练爬虫。该设置按域名配置，苹果、谷歌和微软已符合或承诺符合相关要求。若网站选择“阻止”，包括混合爬虫在内的所有爬虫都会被拦截，搜索收录也会受到影响。Cloudflare 还计划在明年初让网站控制内容被 AI 摘要引用的比例。
 
 telegram · zaihuapd · 9月16日 13:46
 
-**「背景」** Cloudflare 是一家为大量网站提供 CDN、DNS 与安全防护等基础设施服务的公司，因此其爬虫管理策略会直接影响网站内容如何被外部抓取。搜索引擎爬虫与 AI 训练爬虫长期共用相似的抓取方式，网站难以在保留搜索收录的同时阻止内容被用于 AI 训练，这一矛盾是此次设置推出的背景。
+**「背景」** Cloudflare 是一家为网站提供 CDN、DNS 与安全防护等基础设施服务的大型网络平台，其按域名下发的爬虫策略会直接影响大量站点的流量与内容可访问性。近年来，AI 训练爬虫与搜索引擎爬虫的界限日益模糊，出现了同时承担搜索收录与 AI 训练的“混合爬虫”，使网站难以在保留搜索流量的同时拒绝内容被用于模型训练。
 
-**「影响」** 对网站运营者而言，该设置提供了在保留搜索引擎收录的同时阻止 AI 训练爬虫的选项，但选择“阻止”会连带拦截混合爬虫并影响搜索收录，需在 AI 数据保护与搜索可见性之间权衡。苹果、谷歌和微软已符合或承诺符合相关要求，意味着这一控制对主流搜索引擎的兼容性已有初步保障。
+**「影响」** 对网站运营者而言，该设置提供了在保留搜索引擎收录的同时阻止 AI 训练爬虫的按域名选项，但选择“阻止”会连带拦截混合爬虫并影响搜索收录，需在收录与训练授权之间权衡。Cloudflare 计划明年初进一步让网站控制内容被 AI 摘要引用的比例。
 
 <details><summary>参考链接</summary>
 <ul>
 <li><a href="https://www.cloudflare.com/">Welcome to Cloudflare - Powering the next generation of applications</a></li>
+<li><a href="https://www.cloudflare.com/press/press-releases/2025/cloudflare-just-changed-how-ai-crawlers-scrape-the-internet-at-large/">Cloudflare Just Changed How AI Crawlers Scrape the Internet-at-Large; Permission-Based Approach Makes Way for A New Business Model | Cloudflare</a></li>
+<li><a href="https://blog.cloudflare.com/content-independence-day-ai-options/">Your site, your rules: new AI traffic options for all customers | Cloudflare Blog</a></li>
+<li><a href="https://blog.cloudflare.com/control-content-use-for-ai-training/">Control content use for AI training with Cloudflare’s managed robots.txt and blocking for monetized content | Cloudflare Blog</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI crawling`, `#Cloudflare`, `#web infrastructure`, `#AI training data`, `#search indexing`
+**标签**: `#AI crawlers`, `#Cloudflare`, `#web infrastructure`, `#content licensing`, `#search indexing`
 
 ---
 
-<a id="item-tech-news-7"></a>
-### [低质中文赌场网站暗藏高危网络攻击基础设施](https://www.theregister.com/security/2026/09/15/low-quality-casino-sites-conceal-highly-dangerous-threat-actors/5296652) ⭐️ 7.0/10
+<a id="item-tech-news-5"></a>
+### [低质中文赌场网站被用作网络攻击基础设施](https://www.theregister.com/security/2026/09/15/low-quality-casino-sites-conceal-highly-dangerous-threat-actors/5296652) ⭐️ 7.0/10
 
-网络安全公司发现，约 170 万个低质中文赌场网站可能被用作网络攻击基础设施，而非单纯的赌博或成人内容站点。自 2023 年以来，与中国有关联的 APT 组织利用名为“PeckBirdy”的框架，将恶意软件的命令控制（C2）域名隐藏在低质量赌博网站中，并通过虚假软件更新诱骗用户下载恶意程序。由于这些网站外观与普通赌博网站高度相似，安全人员容易将相关访问误判为员工违规浏览而忽略，从而放过了潜在的 C2 通信。该发现对防御方具有操作意义，但现有信息为单一来源的报道摘要，缺乏一手技术细节。
+一家网络安全公司报告称，大量中文赌博和成人网站表面上是普通娱乐站点，实际被用作网络攻击基础设施。该公司追踪到约 170 万个中文赌场网站，其中部分被用于恶意软件传播和间谍活动。自 2023 年以来，一个与中国有关联的 APT 组织利用名为“PeckBirdy”的框架，将恶意软件的命令控制（C2）域名隐藏在低质量赌博网站中，并通过虚假软件更新诱骗用户下载恶意程序。由于这些网站外观与普通赌博网站高度相似，安全人员容易将相关访问误判为员工违规浏览而忽略。该发现来自单一厂商报告，经 Telegram 频道转发，尚缺乏独立验证。
 
 telegram · zaihuapd · 9月16日 15:31
 
-**「背景」** 命令控制（C2）基础设施是恶意软件与攻击者通信、接收指令和回传数据的核心环节，因此常被伪装成正常流量以规避检测。据安全研究报道，与中国有关联的 APT 组织自 2023 年起使用名为 PeckBirdy 的 JScript 脚本框架，通过虚假软件更新投递恶意程序，并借助 LOLBins（系统自带合法程序）在多种环境中执行攻击。此次安全公司 Infoblox 的发现表明，攻击者进一步将 C2 域名藏匿于约 170 万个低质量中文赌场网站之中。
+**「背景」** 该发现来自网络安全公司 Infoblox 的研究，其追踪到约 170 万个中文赌场及成人网站，这类站点常被用于非法赌博、洗钱和逃税，长期处于安全监控的盲区。与中国有关联的 APT 组织自 2023 年起利用名为 PeckBirdy 的恶意软件框架，将命令控制（C2）基础设施隐藏在这些低质量网站中，使恶意流量伪装成普通赌博访问。
 
-**「影响」** 安全团队可能因将相关流量误判为员工违规浏览赌博网站而漏检恶意软件 C2 通信，从而延误对与中国关联 APT 活动的发现与响应。该发现来自单一安全厂商 Infoblox 的报告，具体技术细节和影响范围仍待更多独立验证。
+**「影响」** 安全团队若仅将访问低质中文赌博网站视为员工违规浏览，可能漏掉与中国关联的 APT 组织借 PeckBirdy 框架隐藏的命令控制流量，从而延误对间谍活动和恶意软件分发的发现。Infoblox 因此呼吁安全社区更密切地关注这约 170 万个域名。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://thehackernews.com/2026/01/china-linked-hackers-have-used.html?m=1">China-Linked Hackers Have Used the PeckBirdy JavaScript C2 ...</a></li>
-<li><a href="https://www.trendaisecurity.com/en-us/resources-insights/trendai-security-blog/peckbirdy-script-framework">PeckBirdy: A Versatile Script Framework for LOLBins Exploitation ...</a></li>
+<li><a href="https://cyberpress.org/peckbirdy-hides-in-casinos/">PeckBirdy Malware Uses Chinese Casino and Adult Websites to ...</a></li>
+<li><a href="https://qpulse.quasarcybertech.com/news/5787/china-aligned-apts-utilizing-peckbirdy-framework-via-compromised-chinese-language-casino-websites">China-aligned APTs utilizing PeckBirdy framework via ...</a></li>
+<li><a href="https://gbhackers.com/peckbirdy-malware-c2/">China-Aligned Hackers Hide PeckBirdy Malware C2 Inside Casino ...</a></li>
 <li><a href="https://www.theregister.com/security/2026/09/15/low-quality-casino-sites-conceal-highly-dangerous-threat-actors/5296652">Low-quality casino sites conceal highly dangerous threat actors</a></li>
-<li><a href="https://www.theregister.com/security/2026/09/15/low-quality-casino-sites-conceal-highly-dangerous-threat-actors/5296652">Low-quality casino sites conceal highly dangerous threat actors</a></li>
+<li><a href="https://cyberpress.org/peckbirdy-hides-in-casinos/">PeckBirdy Malware Uses Chinese Casino and Adult Websites to ...</a></li>
+<li><a href="https://www.intelligentciso.com/2026/09/16/infoblox-finds-casino-lookalikes-conceal-gambling-scams-and-cybercrime/">Infoblox finds casino lookalikes conceal gambling, scams and ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#cybersecurity`, `#APT`, `#malware C2`, `#threat intelligence`, `#China`
+**标签**: `#cybersecurity`, `#APT`, `#malware`, `#threat intelligence`, `#network security`
+
+---
+
+<a id="item-tech-news-6"></a>
+### [阶跃星辰发布 StepAudio 3 Music 音乐生成模型](https://static.stepfun.com/blog/stepaudio3/music/) ⭐️ 7.0/10
+
+阶跃星辰发布 AI 音乐生成模型 StepAudio 3 Music，采用 MoE 架构与 AR + DiT 范式，通过 ABC-COT 技术将自然语言创作意图转化为歌曲结构规划，再生成完整的 48 kHz 立体声歌曲。用户在描述中写明风格、人声、情绪、乐器、调性、速度即可，模型在 Audiobox 与 MuQ-Similarity 评测中均取得 SOTA，兼顾音乐质量与可控性，面向短视频配乐、词曲 Demo 及游戏主题曲等场景。该发布为简要公告，未提供独立验证、详细基准数据或可用性信息。
+
+telegram · zaihuapd · 9月16日 16:48
+
+**「背景」** 阶跃星辰（StepFun）是一家中国人工智能公司，2024 年 3 月在上海全球开发者先锋大会上发布了采用混合专家（MoE）架构的万亿参数语言大模型 Step-2 预览版，并开放 API 供合作伙伴试用。2026 年 9 月 15 日，该公司推出新一代语音大模型 StepAudio 3 系列，一次性发布 StepAudio 3 Realtime、ASR、TTS、Gen 和 Music 五款模型，覆盖实时语音交互、语音识别、语音合成等方向。StepAudio 3 Music 是该系列中的音乐生成模型，其技术报告显示，它采用流匹配扩散 Transformer（DiT）预测连续的 StepAudio VAE 潜变量，再由 VAE 解码器转换为 48 kHz 音频，并通过 MoE 自回归模型以 ABC 记谱法生成中间编曲规划（ABC-CoT），使和声、节奏与旋律结构进入生成上下文。
+
+**「影响」** 若 StepAudio 3 Music 的 SOTA 声明成立，短视频配乐、词曲 Demo 与游戏主题曲等场景的创作者可直接用自然语言描述风格、人声、情绪、乐器、调性与速度来生成 48 kHz 立体声歌曲，降低音乐制作门槛。但该结论依赖作者自评，且技术报告显示其训练数据大量来自自家早期模型生成的合成数据，SOTA 仍需独立验证。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://zh.wikipedia.org/zh-hans/%E9%98%B6%E8%B7%83%E6%98%9F%E8%BE%B0">阶跃星辰 - 维基百科，自由的百科全书</a></li>
+<li><a href="https://www.ifastdata.com/2026/09/15/%E9%98%B6%E8%B7%83%E5%8F%91%E5%B8%83%E8%AF%AD%E9%9F%B3%E5%A4%A7%E6%A8%A1%E5%9E%8Bstepaudio-3%E7%B3%BB%E5%88%97/">阶跃发布语音大模型StepAudio 3系列 – Fastdata极数</a></li>
+<li><a href="https://github.com/hanzhad/squelch-news-engine/issues/902">Paper page - StepAudio 3 Music Technical Report · Issue #902 · hanzhad/squelch-news-engine</a></li>
+<li><a href="https://github.com/hanzhad/squelch-news-engine/issues/902">Paper page - StepAudio 3 Music Technical Report · Issue #902 · hanzhad/squelch-news-engine</a></li>
+<li><a href="https://pith.science/paper/2609.12945">StepAudio 3 Gen Technical Report · Pith Review</a></li>
+<li><a href="https://arxiv.org/html/2609.12945v1">StepAudio 3 Gen Technical Report</a></li>
+
+</ul>
+</details>
+
+**标签**: `#generative-ai`, `#audio-generation`, `#music-generation`, `#model-release`, `#MoE`
 
 ---
