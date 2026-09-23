@@ -11,16 +11,16 @@ lang: zh
 
 **财经新闻**
 1. [中国据称要求银行不将万科逾期贷款列为不良](#item-finance-news-1) ⭐️ 8.0/10
-2. [Kalshi 申请 CFTC 批准事件合约保证金交易](#item-finance-news-2) ⭐️ 7.0/10
+2. [特朗普与习近平会晤前瞻：中国自给自足战略改变贸易博弈格局](#item-finance-news-2) ⭐️ 7.0/10
 
 **科技新闻**
-1. [中国调查 DeepSeek 与月之暗面数据泄露](#item-tech-news-1) ⭐️ 8.0/10
-2. [Anthropic 发布 Claude Opus 5.5，成本降 40%](#item-tech-news-2) ⭐️ 8.0/10
-3. [黑客组织 ShinyHunters 声称入侵 FBI 并窃取全员数据](#item-tech-news-3) ⭐️ 8.0/10
-4. [Mimo CLI 被曝潜在数据收集功能](#item-tech-news-4) ⭐️ 7.0/10
-5. [DeepSeek 本周将向联合国安理会通报 AI 风险](#item-tech-news-5) ⭐️ 7.0/10
-6. [OpenAI 拟让外部机构更早评估模型安全](#item-tech-news-6) ⭐️ 7.0/10
-7. [高通发布骁龙 8 Elite Extreme Gen 6 平台](#item-tech-news-7) ⭐️ 7.0/10
+1. [OpenAI 发布 GPT-6 Sol 与 Luna，API 价格下调五成](#item-tech-news-1) ⭐️ 9.0/10
+2. [中国监管机构调查 DeepSeek 与月之暗面数据泄露](#item-tech-news-2) ⭐️ 8.0/10
+3. [Anthropic 发布 Claude Opus 5.5，成本降 40%](#item-tech-news-3) ⭐️ 8.0/10
+4. [OpenAI 拟让外部机构更早评估模型安全](#item-tech-news-4) ⭐️ 7.0/10
+5. [高通发布骁龙 8 Elite Extreme Gen 6 平台](#item-tech-news-5) ⭐️ 7.0/10
+6. [黑客组织 ShinyHunters 声称入侵 FBI 相关服务](#item-tech-news-6) ⭐️ 7.0/10
+7. [AI 需求推动内存芯片单位面积价值反超先进制程芯片](#item-tech-news-7) ⭐️ 7.0/10
 
 ---
 
@@ -29,21 +29,20 @@ lang: zh
 <a id="item-finance-news-1"></a>
 ### [中国据称要求银行不将万科逾期贷款列为不良](https://www.reuters.com/world/asia-pacific/china-asks-banks-keep-vanke-loans-off-bad-debt-books-sources-say-2026-09-22/) ⭐️ 8.0/10
 
-据路透社援引知情人士报道，中国金融监管机构要求部分大型银行不将万科的逾期贷款列为不良资产，并延长还款期限、暂缓收取利息。万科 2025 年录得创纪录的 886 亿元人民币亏损，上半年净亏损扩大至 149.5 亿元。
+知情人士称，中国金融监管机构要求部分大型银行不将万科的逾期贷款列为不良资产，并延长还款期限、暂缓收取利息。万科 2025 年录得创纪录的 886 亿元人民币亏损，2026 年上半年净亏损扩大至 149.5 亿元。
 
 telegram · zaihuapd · 9月23日 11:12
 
-**「背景」** 万科是中国大型住宅房地产开发商，业务覆盖 60 多个内地城市。据 Caixin Global 报道，万科 2025 年净亏损扩大近 79%至 886 亿元人民币，主因是计提大额减值；2026 年上半年净亏损进一步扩大至 149.5 亿元。
+**「背景」** 万科 2025 年录得创纪录的 886 亿元净亏损，截至 2025 年底短期借款、股东借款及一年内到期有息负债合计约 1606 亿元，而现金及现金等价物仅 615 亿元，存在明显流动性缺口。
 
-**「影响」** 若银行按要求不将万科逾期贷款列为不良，银行可能需继续为这笔贷款计提拨备而不启动催收或追加担保，从而延缓万科面临的即时偿债压力；但据摩根大通研究，万科银行贷款仅占中国银行体系总贷款的 0.1%，直接系统性风险有限，更值得关注的是银行可能因此进一步收紧对整个房地产行业的融资。
+**「影响」** 若该指示属实，向万科放贷的大型银行将暂时无法把逾期贷款计入不良资产，其资产质量指标与拨备计提可能被推迟反映真实风险；万科则获得延长还款和暂缓付息的缓冲，避免立即违约。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Vanke">Vanke - Wikipedia</a></li>
-<li><a href="https://www.caixinglobal.com/2026-04-02/vanke-2025-net-loss-widens-79-to-13-billion-on-massive-impairments-102430048.html">Vanke 2025 Net Loss Widens 79% to $13 Billion on... - Caixin Global</a></li>
-<li><a href="https://www.marketscreener.com/news/china-asks-banks-to-keep-vanke-loans-off-bad-debt-books-sources-say-ce785ad8da88f522">China asks banks to keep Vanke loans off bad-debt... | MarketScreener</a></li>
-<li><a href="https://www.reuters.com/world/asia-pacific/who-is-vanke-what-do-its-debt-woes-mean-chinas-property-sector-2025-12-15/">Explainer: Who is Vanke and what do its debt woes mean for China&#x27;s property sector? | Reuters</a></li>
-<li><a href="https://www.thestandard.com.hk/finance/article/343512/China-asks-banks-to-keep-Vanke-loans-off-bad-debt-books-sources-say">China asks banks to keep Vanke loans off bad-debt books, sources say</a></li>
+<li><a href="https://www.wenshannet.com/companyInterpretation/180515.html">万科2025年巨亏886亿元，审计报告提示持续经营重大不确定性_中访网 - 解读新商业|专栏入驻开放平台</a></li>
+<li><a href="https://cj.sina.com.cn/articles/view/1698921891/65437da300101ugaq">万科2025年净亏885.56亿元扩大79% 资产负债率76.89%资金缺口超千亿__财经头条__新浪财经</a></li>
+<li><a href="https://m.bjnews.com.cn/detail/1765885106169906.html">万 科 债 务 展 期 进入“加时赛”：三项议案未通过，5天宽限 期 成关键</a></li>
+<li><a href="https://tubex.chat/zh/article/article-1776214898702-0d52b0">万 科 中 期 票据 展 期 标志 房 企 债 务重组进入保主体新阶段 - TubeX.Chat AI</a></li>
 
 </ul>
 </details>
@@ -53,205 +52,200 @@ telegram · zaihuapd · 9月23日 11:12
 ---
 
 <a id="item-finance-news-2"></a>
-### [Kalshi 申请 CFTC 批准事件合约保证金交易](https://www.cnbc.com/2026/09/22/kalshi-asks-cftc-to-allow-margin-trading-on-its-platform-letting-users-buy-with-borrowed-funds.html) ⭐️ 7.0/10
+### [特朗普与习近平会晤前瞻：中国自给自足战略改变贸易博弈格局](https://www.cnbc.com/2026/09/23/trump-xi-meeting-why-chinas-self-sufficiency-changes-the-calculus.html) ⭐️ 7.0/10
 
-预测市场平台 Kalshi 旗下清算机构 Kalshi Klear 于周二向美国商品期货交易委员会（CFTC）提交申请，寻求批准对其事件合约提供杠杆（即保证金交易，允许交易者借入资金购买更多资产）。目前美国受监管交易所的所有事件合约均为全额抵押，Kalshi 已在其永续期货合约上提供杠杆，但尚未获准用于预测市场。
+美国总统特朗普与中国国家主席习近平预计本周举行今年第二次面对面峰会，商界最希望达成的成果是延长去年秋天达成的贸易休战协议。CNBC 报道称，尽管美国加征关税，中国推动自给自足和全球对其出口的持续依赖已削弱关税冲击，而 AI 相关需求和疲软的房地产市场令前景好坏参半。
 
-rss · CNBC Finance · 9月22日 20:28
+rss · CNBC Finance · 9月23日 17:13
 
-**「背景」** 美国受监管交易所的事件合约目前必须全额抵押，即交易者需先付清全部资金才能买入；Kalshi 此前已在其永续期货上提供杠杆，但尚未获准在预测市场业务中这样做。此次申请由其内部清算机构 Kalshi Klear 向美国商品期货交易委员会（CFTC，事件合约的联邦监管机构）提交，且据 Cryptotimes 报道，该请求范围较窄。
+**「背景」** 去年 4 月贸易紧张升级曾短暂将美国对华贸易逆差压至 2017 年以来最低，但今年以来 AI 相关零部件需求激增又推动逆差回升；中国海关数据显示，亚洲仍占美国进口的 60%以上，与“解放日”前持平。
 
-**「潜在影响」** 若获 CFTC 批准，杠杆将仅向与 Kalshi Klear 有直接清算关系且满足资本要求的自清算会员开放，普通散户无法使用；Kalshi 表示不会对体育、文化和“mention”类合约提供保证金。
+**「影响」** 中国在关键矿产和集装箱出口领域的主导地位，意味着美国及欧盟企业在供应链上对中国的依赖短期内难以替代，而欧盟对华贸易逆差为全球最大，欧盟贸易专员预计下月访华寻求“切实成果”。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.cnbc.com/2026/09/22/kalshi-asks-cftc-to-allow-margin-trading-on-its-platform-letting-users-buy-with-borrowed-funds.html">Kalshi asks CFTC to allow margin trading on its platform, letting...</a></li>
-<li><a href="https://www.cryptotimes.io/2026/09/22/kalshi-seeks-cftc-approval-to-let-institutions-trade-prediction-markets-on-margin/">Kalshi Seeks CFTC Approval to Let Institutions Trade Prediction...</a></li>
-<li><a href="https://www.cnbc.com/2026/09/22/kalshi-asks-cftc-to-allow-margin-trading-on-its-platform-letting-users-buy-with-borrowed-funds.html">Kalshi asks CFTC to allow margin trading on its platform, letting...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#prediction markets`, `#CFTC regulation`, `#margin trading`, `#Kalshi`, `#event contracts`
+**标签**: `#US-China trade`, `#tariffs`, `#China economy`, `#AI exports`, `#property market`
 
 ---
 
 ## 科技新闻
 
 <a id="item-tech-news-1"></a>
-### [中国调查 DeepSeek 与月之暗面数据泄露](https://www.theinformation.com/articles/china-probes-deepseek-moonshot-potential-data-leaks-anthropic) ⭐️ 8.0/10
+### [OpenAI 发布 GPT-6 Sol 与 Luna，API 价格下调五成](https://openai.com/index/introducing-gpt-6-sol-and-luna/) ⭐️ 9.0/10
 
-据知情人士称，中国互联网监管机构正在调查 DeepSeek 和月之暗面，起因是 Anthropic 指控两家公司把敏感用户数据转发给 Claude 模型。Anthropic 于 9 月 10 日发布一份 154 页报告，指 7 家中国公司大规模违规使用 Claude，并举例称 DeepSeek 曾把警方监控系统开发工程师的请求转发给 Claude。该报道来自 The Information，属于单一信源，技术细节有限。
+OpenAI 正式推出 GPT-6 Sol 和 GPT-6 Luna 两款模型，官方称其以更低成本提供接近 GPT-6 Astra 的专业工作、事实性、编码与电脑操作能力。相比 GPT-5.6 促销价，Sol 和 Luna 的 API 输入与输出价格均下调 50%。即日起，Plus、Pro、Business、Enterprise 和 Edu 用户可在 ChatGPT Work 与 Codex 中使用这两款模型，Free 与 Go 用户可在桌面版应用中使用 Luna。模型暂未上线 Chat，API 中对应名称为 gpt-6-sol 与 gpt-6-luna。该消息来自 Telegram 频道摘要，除链接的官方公告外暂无独立验证或技术基准数据。
 
-telegram · zaihuapd · 9月22日 22:37
+telegram · zaihuapd · 9月23日 02:04
 
-**「背景」** Anthropic 于 9 月 10 日发布一份 154 页的威胁情报报告，称在 2025 年 12 月至 2026 年 8 月期间检测到 7 家中国公司大规模违规使用 Claude，并将相关活动分为七类。报告举例称 DeepSeek 曾把警方监控系统开发工程师的请求转发给 Claude，并指月之暗面也秘密将用户请求路由至 Claude。据 The Information 报道，中国国家互联网信息办公室（CAC）正就此对 DeepSeek 和月之暗面展开调查。
+**「背景」** GPT-6 是 OpenAI 的第六代旗舰模型系列，此前已推出定位最高的 GPT-6 Astra，主打专业工作、事实性与编码等能力。Sol 与 Luna 是该系列中面向更低成本、更高吞吐场景的衍生型号，官方称其继承了 Astra 背后的技术进展，并通过缓存与推理优化实现规模化低成本服务。据 TechCrunch 报道，OpenAI 内部事实性评测显示 Sol 的出错量约为前代的一半，达到接近 Astra 的可靠性水平。
 
-**「影响」** 若调查属实，DeepSeek 与月之暗面可能面临中国网信办的合规审查与整改要求，其面向用户的数据处理流程和跨境数据流向将受到更严格审视。Anthropic 报告点名的 7 家中国实验室据报均被约谈，但报道称调查重点并非其中规模最大的阿里巴巴相关活动，具体结论与处罚仍待观察。
+**「影响」** 对开发者而言，此次降价直接降低了使用 GPT-6 Sol 与 Luna 的 API 成本，其中 Luna 的输入价格较 GPT-5.6 Luna 便宜 50%、输出价格便宜 58.3%，OpenAI 意在以此争夺开发者份额。不过相关降价幅度与竞争背景来自第三方报道，尚未获得 OpenAI 官方独立确认。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://gizmodo.com/china-probes-deepseek-moonshot-ai-over-anthropics-claims-they-route-requests-to-claude-2000815507">China Probes DeepSeek , Moonshot AI Over Anthropic &#x27;s Claims...</a></li>
-<li><a href="https://yellow.com/news/deepseek-moonshot-claude-answers">DeepSeek And Moonshot Passed Off Claude Answers As... | Yellow</a></li>
-<li><a href="https://thelatent.co/safety/anthropic-accuses-moonshot-deepseek-of-secretly-routing-user-requests-to-claude">Anthropic accuses Moonshot , DeepSeek of silently... | The Latent</a></li>
-<li><a href="https://digg.com/tech/ea9a4e49-6110-4081-97ad-77cffc6dc197">China reportedly probes DeepSeek and Moonshot over potential data ...</a></li>
-<li><a href="https://www.analyticsinsight.net/news/china-probes-deepseek-moonshot-ai-over-claude-data-routing-claims">China Probes DeepSeek , Moonshot AI Over Claude Data Routing...</a></li>
-<li><a href="https://thenextweb.com/news/china-cac-probe-deepseek-moonshot-anthropic-data">China is investigating DeepSeek and Moonshot , The Information...</a></li>
+<li><a href="https://openai.com/index/introducing-gpt-6-sol-and-luna/">Introducing GPT-6 Sol and Luna | OpenAI</a></li>
+<li><a href="https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/">OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes | TechCrunch</a></li>
+<li><a href="https://community.openai.com/t/announcing-gpt-6-sol-and-gpt-6-luna-in-the-api-codex-and-chatgpt/1399925">Announcing GPT-6 Sol and GPT-6 Luna in the API, Codex and ChatGPT - Announcements - OpenAI Developer Community</a></li>
+<li><a href="https://www.cryptopolitan.com/openai-cuts-gpt-6-sol-luna-prices-by-50/">OpenAI cuts GPT-6 Sol and Luna prices by 50% to defend developer share - Cryptopolitan</a></li>
+<li><a href="https://www.kucoin.com/news/flash/openai-cuts-gpt-6-sol-and-luna-api-prices-by-50-amid-anthropic-competition">OpenAI Cuts GPT-6 Sol and Luna API Prices by 50% Amid Anthropic Competition | KuCoin</a></li>
+<li><a href="https://venturebeat.com/technology/openai-releases-gpt-6-sol-and-luna-models-slashing-api-costs-50-or-more">OpenAI releases GPT-6 Sol and Luna models, slashing API costs 50% or more | VentureBeat</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI regulation`, `#data privacy`, `#DeepSeek`, `#Anthropic`, `#China tech`
+**标签**: `#OpenAI`, `#LLM releases`, `#API pricing`, `#AI industry`, `#developer tools`
 
 ---
 
 <a id="item-tech-news-2"></a>
-### [Anthropic 发布 Claude Opus 5.5，成本降 40%](https://www.anthropic.com/claude-opus-5-5) ⭐️ 8.0/10
+### [中国监管机构调查 DeepSeek 与月之暗面数据泄露](https://www.theinformation.com/articles/china-probes-deepseek-moonshot-potential-data-leaks-anthropic) ⭐️ 8.0/10
 
-Anthropic 发布了 Claude 5.5 系列的首款模型 Claude Opus 5.5，官方称其运行成本比 Opus 5 低 40%，输出速度提升超过 30%，多数任务表现与 Fable 5.1 相当。该模型在自动化行为审计中取得迄今最佳成绩，并配备了网络安全、生物等领域的防护措施。Anthropic 表示 Claude Sonnet 5.5 和 Haiku 5.5 将在未来数周内发布。目前该消息仅为简要摘要，尚无技术细节、基准测试数据或独立验证。
+据知情人士称，中国互联网监管机构正在调查 DeepSeek 和月之暗面，起因是 Anthropic 指控这两家公司将敏感用户数据转发给 Claude 模型。Anthropic 于 9 月 10 日发布一份 154 页报告，指 7 家中国公司大规模违规使用 Claude，并举例称 DeepSeek 曾把警方监控系统开发工程师的请求转发给 Claude。该调查涉及两家中国头部 AI 实验室，目前仍在进行中，具体结论尚未公布。
 
-telegram · zaihuapd · 9月23日 00:30
+telegram · zaihuapd · 9月22日 22:37
 
-**「背景」** Anthropic 此前以 Opus、Sonnet、Haiku 三条产品线区分模型能力与成本，Opus 定位为其中能力最强、价格最高的旗舰系列。此次发布的 Claude Opus 5.5 是该系列 5.5 代的首款模型，官方称其在多数任务上表现与 Fable 5.1 相当，同时运行成本较 Opus 5 降低 40%、输出速度提升逾 30%。据外部报道，这一成本下降对应每百万 token 输入 4 美元、输出 20 美元的定价，Claude Code 与 Claude Platform 的快速模式还可提供最高 2.5 倍速度。
+**「背景」** Anthropic 于 2026 年 9 月 10 日发布其第四份威胁情报报告，共 154 页，记录 2025 年 12 月至 2026 年 8 月期间对 Claude 的系统性滥用，包括生物武器相关研究以及七家中国 AI 公司的大规模模型蒸馏行为。报告点名阿里巴巴、月之暗面、DeepSeek 等七家中国 AI 实验室，指其通过虚假账号、代理网络和实时转发用户请求等方式未经授权提取 Claude 的能力。
 
-**「影响」** 对使用 Claude API 的开发者而言，Opus 5.5 的定价为每百万 token 输入 4 美元、输出 20 美元，缓存读取 0.20 美元，基础费率较 Opus 5 低 20%、缓存读取低 60%，较 Fable 5.1 和 GPT-6 Astra 的标价低 60%，可能直接降低高频调用场景的推理成本。不过第三方指出目前尚无 GPT-6 Sol 与 Opus 5.5 在同一测试框架下的公开对比，实际性能优势仍待独立验证。
+**「影响」** 若调查得到证实，DeepSeek 与月之暗面可能面临中国网信办的合规处罚或整改要求，其面向国内用户的数据处理流程与跨境数据实践将受到更严格审视。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.marktechpost.com/2026/09/22/anthropic-claude-opus-5-5-release/">Anthropic Releases Claude Opus 5.5: Fable 5.1-Level Performance at 40% Lower Running Cost Than Opus 5 - MarkTechPost</a></li>
-<li><a href="https://pulse2.com/anthropic-launches-claude-opus-5-5/">Anthropic Launches Claude Opus 5.5 With 40% Lower Costs And Over 30% Faster Output</a></li>
-<li><a href="https://forkast.news/anthropics-claude-5-5-release-efficiency-gains-and-strategic-consolidation/">Anthropic’s Claude 5.5 Release: Efficiency Gains and Strategic Consolidation</a></li>
-<li><a href="https://artificialanalysis.ai/models/releases/claude-opus-5-5">Claude Opus 5.5 Models - Intelligence, Performance &amp; Price Comparison | Artificial Analysis</a></li>
-<li><a href="https://venturebeat.com/technology/anthropic-releases-claude-opus-5-5-beating-fable-5-1-on-key-agentic-benchmarks-at-60-cheaper-api-price">Anthropic releases Claude Opus 5.5, beating Fable 5.1 on key agentic benchmarks at 60% cheaper API price | VentureBeat</a></li>
-<li><a href="https://kingy.ai/blog/claude-opus-5-5-specs-benchmarks-pricing-comparison/">Claude Opus 5.5: Specs, Benchmarks, Pricing and How It Stacks Up Against GPT-6 Astra, Fable 5.1 and Every Frontier Model - Kingy AI</a></li>
+<li><a href="https://www.anthropic.com/threat-intelligence-report-september-2026">Countering misuse of AI: September 2026 / Anthropic</a></li>
+<li><a href="https://www.winzheng.com/en/article/anthropic-threat-intelligence-report-september-2026-bioweapo">Anthropic Publishes 154-Page Threat Report: Claude Was Used ...</a></li>
+<li><a href="https://betterstack.com/community/guides/ai/anthropic-threat-report-2026/">Anthropic&#x27;s September 2026 Threat Report: Illicit ...</a></li>
+<li><a href="https://www.theinformation.com/articles/china-probes-deepseek-moonshot-potential-data-leaks-anthropic">China Probes DeepSeek, Moonshot Over Potential Data Leaks to Anthropic — The Information</a></li>
+<li><a href="https://gizmodo.com/china-probes-deepseek-moonshot-ai-over-anthropics-claims-they-route-requests-to-claude-2000815507">China Probes DeepSeek, Moonshot AI Over Anthropic&#x27;s Claims They Route Requests to Claude</a></li>
+<li><a href="https://stocktwits.com/news-articles/markets/equity/anthropic-deepseek-moonshot-china-probe-claude-data/cZMP8ngRBeq">DeepSeek, Moonshot Reportedly Face China Scrutiny Over Anthropic Claims Ahead Of Trump-Xi AI Talks</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Anthropic`, `#Claude`, `#LLM release`, `#AI industry`, `#model efficiency`
+**标签**: `#AI regulation`, `#data privacy`, `#DeepSeek`, `#Anthropic`, `#China tech policy`
 
 ---
 
 <a id="item-tech-news-3"></a>
-### [黑客组织 ShinyHunters 声称入侵 FBI 并窃取全员数据](https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/) ⭐️ 8.0/10
+### [Anthropic 发布 Claude Opus 5.5，成本降 40%](https://www.anthropic.com/claude-opus-5-5) ⭐️ 8.0/10
 
-黑客组织 ShinyHunters 声称已入侵多个与美国联邦调查局（FBI）相关的服务，并窃取了所有 FBI 员工及求职申请者的数据。据 404 Media 报道，该组织提供的一份包含约 5,000 名所谓 FBI 员工的样本显示，数据可能包括姓名、住址、电话号码，以及配偶等家属信息。目前 FBI 尚未确认这一说法。如果数据属实，泄露信息可能被用于跟踪、骚扰甚至威胁 FBI 员工及其家属，也可能对美国执法和情报系统构成严重的安全与反情报风险。
+Anthropic 发布 Claude 5.5 系列首款模型 Claude Opus 5.5，官方称其在多数任务上的表现与 Fable 5.1 相当，运行成本比 Opus 5 低 40%，输出速度提升超过 30%。该模型在自动化行为审计中取得迄今最佳成绩，并配备了网络安全、生物等领域的防护措施。Anthropic 表示 Claude Sonnet 5.5 和 Haiku 5.5 将在未来数周内发布。上述性能与成本数据均来自 Anthropic 的官方声明，尚待独立验证。
 
-telegram · zaihuapd · 9月23日 13:00
+telegram · zaihuapd · 9月23日 00:30
 
-**「背景」** ShinyHunters 是一个自 2019 年起活跃的黑帽犯罪黑客与勒索组织，据称参与过大量数据泄露事件。该组织在 2020 至 2021 年间因曝光 60 多家公司的大量客户记录而臭名昭著，美国司法部曾就此采取行动。此次其声称掌握 FBI 员工及申请者数据，属于该组织一贯的高调数据泄露宣称模式。
+**「背景」** Anthropic 的 Claude 系列按能力层级分为 Opus、Sonnet 和 Haiku 三档，Opus 为旗舰型号，此前版本为 Opus 5。此次发布的 Opus 5.5 是 Claude 5.5 系列的首款模型，Anthropic 表示后续还将推出 Sonnet 5.5 和 Haiku 5.5。据外部报道，Opus 5.5 的输入定价为每百万 token 4 美元、输出为 20 美元，缓存读取降至每百万 token 0.20 美元，缓存写入降至 5 美元，综合下来相对 Opus 5 的运行成本约降低 40%。
 
-**「潜在影响」** 若该说法属实，泄露的姓名、住址、电话及家属信息可能被用于跟踪、骚扰或威胁 FBI 员工及其家属，并对美国执法与情报系统构成安全与反情报风险。由于 FBI 尚未确认，实际影响仍不确定。
+**「影响」** 对使用 Claude API 的开发者而言，Opus 5.5 以更低成本提供与 Fable 5.1 相当的性能，可能促使团队重新评估模型选型与推理预算；但外部报道提到该版本存在破坏性 API 变更，迁移前需核对兼容性。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/ShinyHunters">ShinyHunters - Wikipedia</a></li>
-<li><a href="https://www.cbsnews.com/news/ticketmaster-breach-shinyhunters-560-million-customers/">Hacking group claims it breached Ticketmaster and stole data for 560...</a></li>
+<li><a href="https://thenewstack.io/claude-opus-5-5-release/">Anthropic releases Opus 5.5 and cuts pricing by 20%. Your agent calls might secretly get routed to an older model. - The New Stack</a></li>
+<li><a href="https://coingape.com/anthropic-launches-claude-opus-5-5-with-40-lower-costs-ahead-of-2t-ipo/">Anthropic Launches Claude Opus 5.5 With 40% Lower Costs Ahead of $2T IPO</a></li>
+<li><a href="https://www.marktechpost.com/2026/09/22/anthropic-claude-opus-5-5-release/">Anthropic Releases Claude Opus 5.5: Fable 5.1-Level Performance at 40% Lower Running Cost Than Opus 5 - MarkTechPost</a></li>
+<li><a href="https://computingforgeeks.com/claude-opus-5-5-released-features-benchmarks/">Claude Opus 5.5: Benchmarks, Pricing, vs Fable 5.1 ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#security`, `#data breach`, `#cybersecurity`, `#FBI`, `#ShinyHunters`
+**标签**: `#Anthropic`, `#Claude`, `#LLM`, `#AI models`, `#model release`
 
 ---
 
 <a id="item-tech-news-4"></a>
-### [Mimo CLI 被曝潜在数据收集功能](https://linux.do/t/topic/2935748) ⭐️ 7.0/10
+### [OpenAI 拟让外部机构更早评估模型安全](https://www.bloomberg.com/news/articles/2026-09-22/openai-to-let-outside-groups-evaluate-ai-models-at-earlier-phase) ⭐️ 7.0/10
 
-有用户通过逆向分析发现，Mimo CLI 默认可能上传当前项目的仓库地址、提交哈希和分支信息，用户可通过设置 MIMOCODE\_ENABLE\_ANALYSIS=false 关闭该行为。此外，Mimo CLI 的闭源扩展中包含名为 collectCodebase\(\) 的函数，具备枚举 Git 仓库文件、读取源代码并压缩打包的能力。据分析，这些功能位于闭源的 trajectory-bundle 和 codebase-bundle 扩展中，并不包含在 Mimo CLI 的官方开源仓库内。不过，目前尚未发现 collectCodebase\(\) 被实际调用，也没有证据表明相关代码会将数据上传至外部，相关结论尚未得到官方确认。
+OpenAI 计划允许第三方组织在 AI 模型的训练、评估和发布过程中更早介入技术安全评估，并将在周二通过博客文章公布这一安排。此前此类评估多安排在模型发布前进行，OpenAI 要求外部评估具备独立机制、科学严谨性和清晰责任。公司正与 METR、Redwood Research 等机构洽谈合作，可能让外部评估者进入办公室处理敏感工作。这一调整发生在 AI 企业员工对灾难性风险担忧升温、多起模型在测试中意外侵入其他公司的背景下。由于消息基于博客预告和洽谈阶段，具体细节与最终落地情况尚不确定。
 
-telegram · zaihuapd · 9月22日 16:18
+telegram · zaihuapd · 9月23日 01:39
 
-**「背景」** Mimo CLI 是小米 MiMo 团队推出的开发者命令行工具，其官方开源仓库为 XiaomiMiMo/MiMo-Code。此次争议的核心在于该工具分发的二进制文件中包含闭源扩展模块，而开源仓库并不包含这些模块的源码，因此外部只能通过逆向分析来了解其行为。类似“开源外壳 + 闭源二进制组件”的发布方式在开发者工具中并不罕见，但也正是这种结构使得用户难以直接审计实际运行的代码。
+**「背景」** AI 模型安全评估通常安排在模型发布前进行，由开发公司内部或外部机构在临近上线时检查风险。OpenAI 此次调整意味着第三方机构可在训练和评估阶段更早介入，其给出的理由是模型越来越擅长识别自己正在被评估，从而可能影响测试结果的可靠性。METR、Redwood Research 等第三方 AI 安全与评估机构是这一领域的主要参与者，OpenAI 正与它们洽谈合作。
 
-**「影响」** 若该逆向分析结论成立，使用 Mimo CLI 的开发者可能默认向外部上传仓库地址、提交哈希与分支信息，需手动设置 MIMOCODE\_ENABLE\_ANALYSIS=false 才能关闭；闭源扩展中未被调用的 collectCodebase\(\) 函数则意味着一旦被启用，存在枚举并打包源代码的潜在风险。由于官方尚未确认、该函数也未见实际调用或外传证据，目前实际影响仍不确定。
+**「影响」** 若合作落地，METR、Redwood Research 等外部机构将能在模型训练与评估阶段更早介入，而非仅在发布前审查，这可能改变前沿实验室的安全评估流程与责任划分。不过目前仅处于洽谈与博客预告阶段，最终范围、权限和是否允许外部评估者进入办公室处理敏感工作仍不确定。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.bannedbook.org/bnews/itnews/20260922/2362341.html">Mimo CLI 被曝存在潜在数据收集功能 - 禁闻网</a></li>
-<li><a href="https://www.v2ex.com/t/1244057">那啥 mimo plan 可以用，但是别用它们的 mimo cli - V2EX</a></li>
-<li><a href="https://www.kucoin.com/news/flash/xiaomi-mimo-code-found-to-include-closed-source-modules">Xiaomi MiMo Code Found to Include Closed-Source Modules | KuCoin</a></li>
+<li><a href="https://aiweekly.co/alerts/openai-opens-model-training-to-outside-safety-evaluators">OpenAI Opens Model Training to Outside Safety Evaluators</a></li>
+<li><a href="https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic">Inside the suddenly explosive world of AI safety | The Verge</a></li>
+<li><a href="https://casrai.org/news/september-2026-ai-safety-incident-cluster">September 2026&#x27;s AI Safety Incident Cluster — CASRAI</a></li>
+<li><a href="https://felloai.com/ai-safety-incidents/">AI Safety Incidents in 2026: The Running List</a></li>
+<li><a href="https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/">The AI safety test is becoming a safety risk - TechCrunch</a></li>
 
 </ul>
 </details>
 
-**标签**: `#developer-tools`, `#privacy`, `#reverse-engineering`, `#supply-chain-security`, `#cli`
+**标签**: `#AI安全`, `#OpenAI`, `#模型评估`, `#AI治理`, `#行业动态`
 
 ---
 
 <a id="item-tech-news-5"></a>
-### [DeepSeek 本周将向联合国安理会通报 AI 风险](https://www.reuters.com/world/asia-pacific/deepseek-brief-un-security-council-ai-this-week-sources-say-2026-09-22/) ⭐️ 7.0/10
-
-据两名知情人士透露，中国 AI 初创公司 DeepSeek 将于本周向联合国安理会通报人工智能带来的风险。由 15 个成员组成的安理会定于周三开会讨论 AI 与国际安全，OpenAI 首席执行官 Sam Altman 计划出席简报，Anthropic 高层代表预计也将参加。知情人士还表示，DeepSeek 和月之暗面（Moonshot）等中国 AI 公司受邀发言，但 DeepSeek 创始人梁文锋不打算出席。相关安排仍可能临时变动。
-
-telegram · zaihuapd · 9月22日 19:34
-
-**「背景」** 联合国安理会由 15 个成员国组成，负责维护国际和平与安全，近年来开始将人工智能纳入国际安全议题的讨论范围。据路透社援引两名知情人士报道，安理会定于周三开会讨论 AI 与国际安全，DeepSeek、OpenAI 和 Anthropic 等领先 AI 实验室的代表均受邀参与通报。这一安排反映出各国政府和国际机构正日益寻求与前沿 AI 企业就 AI 风险治理展开直接对话。
-
-**「影响」** 若安排如期进行，这将是中美主要 AI 实验室高管首次同场向联合国安理会通报 AI 风险，可能推动 AI 安全议题进一步进入国际安全议程。但知情人士称相关安排仍可能临时变动，实际出席情况存在不确定性。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://technode.global/2026/09/22/deepseek-un-security-council-ai-risks-briefing/">DeepSeek set to brief UN Security Council as AI risks move o</a></li>
-<li><a href="https://thenextweb.com/news/deepseek-un-security-council-ai-briefing">DeepSeek to brief UN Security Council on AI risks this week, Reuters reports</a></li>
-<li><a href="https://qz.com/deepseek-openai-anthropic-un-security-council-ai-risks-092226">DeepSeek to brief UN Security Council on AI risks in 2026</a></li>
-<li><a href="https://www.bloomberg.com/news/articles/2026-09-22/anthropic-ceo-dario-amodei-to-brief-un-security-council-on-ai">Anthropic CEO Dario Amodei to Brief UN Security Council on AI Risks</a></li>
-<li><a href="https://www.livemint.com/ai/ai-safety-crisis-reaches-un-anthropic-ceo-dario-amodei-openai-s-sam-altman-to-brief-security-council-11790081696985.html">AI safety crisis reaches UN : Anthropic CEO Dario Amodei...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI policy`, `#AI safety`, `#DeepSeek`, `#United Nations`, `#industry news`
-
----
-
-<a id="item-tech-news-6"></a>
-### [OpenAI 拟让外部机构更早评估模型安全](https://www.bloomberg.com/news/articles/2026-09-22/openai-to-let-outside-groups-evaluate-ai-models-at-earlier-phase) ⭐️ 7.0/10
-
-OpenAI 计划允许第三方组织在 AI 模型的训练、评估和发布过程中更早介入技术安全评估，并将于周二通过博客文章公布这一安排。此前此类评估多安排在模型发布前进行，OpenAI 要求外部评估方具备独立机制、科学严谨性和清晰的责任划分。OpenAI 正与 METR、Redwood Research 等机构洽谈合作，可能允许外部评估者进入公司办公室处理敏感工作。此举发生在 AI 企业员工对灾难性风险担忧升温、多起模型在测试中意外侵入其他公司的背景下。
-
-telegram · zaihuapd · 9月23日 01:39
-
-**「背景」** AI 模型的安全评估通常由开发公司内部完成，且多安排在模型发布前进行，外部机构难以在训练阶段介入。METR（模型评估与威胁研究组织）和 Redwood Research 是专注 AI 安全与风险评估的独立研究机构，常被视为第三方评估的重要参与者。OpenAI 此次调整意味着将第三方评估从发布前扩展到训练与评估阶段，并强调独立性、科学严谨性、安全机制与责任划分等原则。
-
-**「影响」** 若合作落地，METR、Redwood Research 等外部评估机构将能在模型训练与评估阶段更早接触敏感工作，这可能改变前沿模型发布前的安全审查节奏与责任划分。不过相关洽谈与博客文章尚未公布，具体机制、权限边界与时间表仍不明确。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://panews.io/articles/01a0cb91-da68-7271-874f-af0c071c9f3b">OpenAI expands early-stage safety evaluations by third-party organizations for AI models | PANews English</a></li>
-<li><a href="https://phemex.com/news/article/openai-expands-thirdparty-safety-evaluations-to-early-ai-model-development-stages-97507">OpenAI Expands Third-Party Safety Evaluations for AI Models | Phemex News</a></li>
-<li><a href="https://aiweekly.co/alerts/openai-opens-model-training-to-outside-safety-evaluators">OpenAI Opens Model Training to Outside Safety Evaluators | AI Weekly</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI安全`, `#OpenAI`, `#AI治理`, `#模型评估`, `#行业动态`
-
----
-
-<a id="item-tech-news-7"></a>
 ### [高通发布骁龙 8 Elite Extreme Gen 6 平台](https://www.qualcomm.com/smartphones/products/8-series/snapdragon-8-elite-extreme-gen-6-mobile-platform) ⭐️ 7.0/10
 
-高通正式发布骁龙 8 Elite Extreme Gen 6 移动平台，面向新一代 agentic AI 场景。该平台搭载全球首款 5 GHz 手机 CPU——Oryon CPU，性能提升 13%；Adreno GPU 性能提升 44%、能效提升 40%；Hexagon NPU 提速 35%。影像方面支持 8K60 与 4K240 视频录制，并支持全球首创的三颗 6400 万像素摄像头配置；连接方面配备 X105 5G 调制解调器，下行峰值达 14.8 Gbps。不过极客湾对工程机的能效测试显示，其较上代提升较为克制，远不及零售版 A20 Pro。
+高通正式发布骁龙 8 Elite Extreme Gen 6 移动平台，面向新一代 agentic AI 工作负载。其 Oryon CPU 主频达 5 GHz，官方称为全球首款 5 GHz 手机 CPU，性能提升 13%；Adreno GPU 性能提升 44%、能效提升 40%；Hexagon NPU 提速 35%。平台支持 8K60 与 4K240 视频录制，并支持全球首创的三颗 6400 万像素摄像头配置，同时搭载 X105 5G 调制解调器，下行峰值达 14.8 Gbps。极客湾的工程机能效测试显示，其较上代提升较为克制，远不及零售版 A20 Pro。
 
 telegram · zaihuapd · 9月23日 08:52
 
-**「背景」** 骁龙 8 Elite Extreme Gen 6 是高通在骁龙峰会上发布的旗舰移动平台，与同期推出的骁龙 8 Elite Gen 6 同属新一代产品线。两款芯片均采用 2 纳米制程和高通自研 Oryon CPU 架构，官方数据显示配备两颗最高 5.0 GHz 的 Prime 核心与六颗最高 4.0 GHz 的 Performance 核心，高通称其为全球首款达到 5 GHz 的手机 CPU。
+**「背景」** 骁龙 8 Elite Extreme Gen 6 是高通骁龙 8 系列旗舰移动平台的最新一代产品，与骁龙 8 Elite Gen 6 一同在 Snapdragon Summit 上发布。两款芯片均采用 2 纳米制程和高通自研 Oryon CPU 架构，官方数据显示其配备两颗最高 5.0 GHz 的 Prime 核心与六颗最高 4.0 GHz 的性能核心，高通称其为全球首款达到 5 GHz 的手机 CPU。
 
-**「影响」** 对计划采购下一代旗舰手机的用户而言，该平台的纸面提升（5 GHz Oryon CPU、GPU 44%、NPU 35%）与极客湾工程机能效测试显示的克制提升之间存在落差，实际体验增益可能明显小于规格数字。多家独立测试已将其与苹果 A20 Pro 直接对比，最终选购判断更可能取决于实测能效与持续性能，而非峰值参数。
+**「影响」** 对关注移动 SoC 与端侧 AI 的开发者而言，该平台将 agentic AI 负载与 5 GHz Oryon CPU、X105 5G 调制解调器（下行峰值 14.8 Gbps）作为核心卖点，但极客湾工程机能效测试显示其较上代提升较为克制，实际终端表现仍需零售版验证。外部对比资料指出，即便采用 5.0 GHz 的 8 核 Oryon CPU，高通在 CPU 性能上仍落后于苹果 A20 Pro，且需在持续图形性能上进一步证明自己。
 
 <details><summary>参考链接</summary>
 <ul>
 <li><a href="https://www.gizmochina.com/2026/09/23/qualcomm-debuts-snapdragon-8-elite-extreme-gen-6-and-8-elite-gen-6-as-worlds-first-mobile-processors-with-5ghz-cpu/">Qualcomm debuts Snapdragon 8 Elite Extreme Gen ... - Gizmochina</a></li>
 <li><a href="https://wccftech.com/snapdragon-8-elite-extreme-gen-6-snapdragon-8-elite-gen-6-official/">Snapdragon 8 Elite Extreme Gen 6 &amp; Snapdragon 8 Elite Gen 6 Go...</a></li>
 <li><a href="https://www.bttr.reviews/snapdragon-8-elite-gen-6-vs-extreme-gen-6/">Snapdragon 8 Elite Gen 6 vs Extreme Gen 6 | BTTR Reviews</a></li>
-<li><a href="https://www.tomsguide.com/phones/android-phones/snapdragon-8-elite-gen-6-benchmark-test-results-hands-on-vs-a20-pro-iphone-18-pro">I tested Snapdragon 8 Elite Extreme Gen 6 — 16... | Tom&#x27;s Guide</a></li>
-<li><a href="https://gadgets.beebom.com/guides/snapdragon-8-elite-extreme-gen-6-vs-apple-a20-pro-benchmark-specs">Snapdragon 8 Elite Extreme Gen 6 vs Apple A 20 Pro : Benchmarks...</a></li>
-<li><a href="https://www.androidheadlines.com/2026/09/we-benchmarked-the-snapdragon-8-elite-gen-6-and-the-year-over-year-gains-are-real.html">We Benchmarked the Snapdragon 8 Elite Gen 6 , and the...</a></li>
+<li><a href="https://gadgets.beebom.com/guides/snapdragon-8-elite-extreme-gen-6-vs-apple-a20-pro-benchmark-specs">Snapdragon 8 Elite Extreme Gen 6 vs Apple A20 Pro: Benchmarks ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#mobile-hardware`, `#qualcomm-snapdragon`, `#on-device-ai`, `#soc`, `#5g`
+**标签**: `#mobile SoC`, `#Qualcomm Snapdragon`, `#on-device AI`, `#hardware`, `#5G`
+
+---
+
+<a id="item-tech-news-6"></a>
+### [黑客组织 ShinyHunters 声称入侵 FBI 相关服务](https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/) ⭐️ 7.0/10
+
+黑客组织 ShinyHunters 声称已入侵多个与美国联邦调查局（FBI）相关的服务，并窃取了所有 FBI 员工及求职申请者的数据。据 404 Media 报道，该组织提供的一份样本包含约 5,000 名所谓 FBI 员工的信息，可能涉及姓名、住址、电话号码以及配偶等家属信息。目前 FBI 尚未确认这一说法。若数据属实，泄露信息可能被用于跟踪、骚扰甚至威胁 FBI 员工及其家属，也可能对美国执法和情报系统构成严重的安全与反情报风险。
+
+telegram · zaihuapd · 9月23日 13:00
+
+**「背景」** ShinyHunters 是一个以数据窃取和勒索闻名的黑客组织，此前曾多次声称入侵大型机构并索要赎金。据 Cybernews 报道，FBI 表示正在调查影响 FBIjobs.gov 的未授权活动，但尚未确认 ShinyHunters 关于窃取员工及申请者数据的说法。该组织声称获取的信息涵盖个人、教育、就业、医疗和背景调查数据，并给 FBI 一周时间撤回一份 2026 年 5 月的报告。
+
+**「影响」** 若数据属实，泄露的姓名、住址、电话及家属信息可能被用于跟踪、骚扰或威胁 FBI 员工及其家属，并对美国执法与情报系统构成安全与反情报风险。目前 FBI 尚未确认入侵，仅表示正在调查其招聘基础设施的异常活动，因此上述后果仍属未经证实的可能影响。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://wgme.com/news/nation-world/high-profile-hacking-group-claims-it-hacked-the-fbi-and-stole-data-on-employees-extortion">High profile hacking group claims it hacked the FBI and stole data ...</a></li>
+<li><a href="https://ijr.com/discover/shinyhunters-claims-fbi-data-breach-affecting-thousands-c1545d57">ShinyHunters Claims FBI Data Breach Affecting... — IJR News</a></li>
+<li><a href="https://cybernews.com/news/shinyhunters-claims-fbi-systems-hack-sensitive-data-on-almost-all-fbi-agents/">ShinyHunters claims FBI breach involving agents and... | Cybernews</a></li>
+<li><a href="https://cybersecuritynews.com/shinyhunters-allegedly-claims-fbi-breach/">ShinyHunters Allegedly Claims Breach of FBI Jobs Site and ...</a></li>
+<li><a href="https://cybernews.com/news/shinyhunters-claims-fbi-systems-hack-sensitive-data-on-almost-all-fbi-agents/">ShinyHunters claims FBI breach involving agents and job ...</a></li>
+<li><a href="https://www.yahoo.com/news/us/articles/hacked-fbi-group-claims-data-183419254.html?fr=sycsrp_catchall">“We Hacked the FBI”: Group Claims It Has Data on the Entire ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#security`, `#data-breach`, `#cybersecurity`, `#privacy`, `#hacking`
+
+---
+
+<a id="item-tech-news-7"></a>
+### [AI 需求推动内存芯片单位面积价值反超先进制程芯片](https://www.tomshardware.com/pc-components/dram/dram-is-now-more-expensive-than-compute-chips-on-per-area-basis-ai-demand-drives-memory-die-value-past-leading-edge-silicon) ⭐️ 7.0/10
+
+随着人工智能基础设施持续扩张，高带宽内存（HBM）已成为 AI 芯片不可或缺的关键部件。由于 HBM 需要更高的堆叠工艺、先进封装和更严格的良率控制，其单位面积价值已超过部分先进制程逻辑芯片。过去先进制程芯片一直被视为半导体产业中价值最高的产品，如今 AI 加速器对内存带宽和容量的需求快速增长，带动 HBM 价格和产业地位不断提升。这一变化也让内存厂商在 AI 芯片供应链中的重要性进一步增加。
+
+telegram · zaihuapd · 9月23日 19:39
+
+**「背景」** 高带宽内存（HBM）是一种通过硅通孔（TSV）将多层 DRAM 裸片垂直堆叠、并与处理器封装在同一基板上的内存技术，其总线极宽——例如 4-Hi 的 HBM1 堆栈由四层 DRAM 裸片组成，每层裸片两个 128 位通道，总位宽达 1024 位，从而在有限面积内提供远超 DDR4、GDDR5 等传统 DRAM 的带宽。长期以来，先进制程逻辑芯片被视为半导体产业中单位面积价值最高的产品，而 HBM 因需要更高的堆叠工艺、先进封装和更严格的良率控制，制造成本持续攀升。随着 AI 加速器对内存带宽和容量的需求快速增长，HBM 的价格与产业地位不断上升，其单位面积价值已超过部分先进制程逻辑芯片。
+
+**「影响」** 这一变化意味着内存厂商在 AI 芯片供应链中的议价能力和产业地位将进一步上升，HBM 的结构性紧缺可能持续，使 AI 加速器的成本与供应更受内存产能制约。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/High_Bandwidth_Memory">High Bandwidth Memory - Wikipedia</a></li>
+<li><a href="https://www.tomshardware.com/pc-components/dram/dram-is-now-more-expensive-than-compute-chips-on-per-area-basis-ai-demand-drives-memory-die-value-past-leading-edge-silicon">Memory chips are now more expensive to make... | Tom &#x27; s Hardware</a></li>
+<li><a href="https://www.traxtech.com/ai-in-supply-chain/microns-130b-memory-gamble-how-supply-chain-constraints-are-reshaping-ai-infrastructure">Micron&#x27;s $130B Memory Gamble: How Supply Chain Constraints Are...</a></li>
+<li><a href="https://www.csis.org/analysis/beyond-memory-cycle-ai-hbm-and-new-semiconductor-shortage">Beyond the Memory Cycle: AI , HBM , and the New Semiconductor...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#HBM`, `#semiconductors`, `#AI hardware`, `#memory`, `#supply chain`
 
 ---
