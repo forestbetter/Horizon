@@ -5,7 +5,7 @@ date: 2026-10-05
 lang: zh
 ---
 
-> 从 15 条内容中筛选出 4 条重要资讯。
+> 从 17 条内容中筛选出 5 条重要资讯。
 
 ---
 
@@ -13,9 +13,10 @@ lang: zh
 1. [华为与高通达成多年专利交叉许可协议](#item-finance-news-1) ⭐️ 7.0/10
 
 **科技新闻**
-1. [彭博行业研究：美国对华 AI 性能优势缩至 3%](#item-tech-news-1) ⭐️ 8.0/10
-2. [美海军用 Xbox 手柄操控舰载反无人机激光](#item-tech-news-2) ⭐️ 7.0/10
-3. [Google 发布 VeriHarness 长程任务验证框架](#item-tech-news-3) ⭐️ 7.0/10
+1. [Google 发布 VeriHarness 长程任务验证框架](#item-tech-news-1) ⭐️ 7.0/10
+2. [彭博行业研究：美国对华 AI 性能优势缩至 3%](#item-tech-news-2) ⭐️ 7.0/10
+3. [Quad9 拒绝法国盗版封锁令，面临每日 58 万欧元罚款](#item-tech-news-3) ⭐️ 7.0/10
+4. [OpenAI 将在 ChatGPT 生成图片时展示视觉广告](#item-tech-news-4) ⭐️ 7.0/10
 
 ---
 
@@ -24,18 +25,20 @@ lang: zh
 <a id="item-finance-news-1"></a>
 ### [华为与高通达成多年专利交叉许可协议](https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement) ⭐️ 7.0/10
 
-华为宣布与高通达成一项为期多年、范围广泛的专利交叉许可协议，涵盖 5G、计算、人工智能和网络等领域，高通还将购买华为部分美国专利。华为称交易完成后其专利许可协议累计预期合同价值预计超过 69 亿美元（约合 463.02 亿元），该交易尚待监管批准。
+华为与高通宣布达成一项为期多年、范围广泛的专利交叉许可协议，涵盖 5G、计算、人工智能和网络等领域，高通还将购买华为部分美国专利并获授华为逻辑折叠芯片制造技术相关专利。华为称，交易完成后其专利许可协议累计预期合同价值预计超过 69 亿美元（约合 463.02 亿元人民币），该交易尚待必要监管批准。
 
 telegram · zaihuapd · 10月5日 14:45
 
-**「背景」** 华为自 2021 年起知识产权授权业务已实现正向收入，此次协议是在此基础上进一步扩大专利许可合作。协议仍需获得必要监管批准后方可完成。
+**「背景」** 华为与高通于 2026 年 10 月 5 日宣布这项多年期协议，双方将交叉许可 5G、计算、人工智能和网络等领域的专利组合，高通还将购买华为部分美国专利。该交易需获得监管批准后方能完成。
 
-**「影响」** 该协议尚待监管批准，若完成，将扩大华为在 5G、人工智能等领域的专利授权收入来源，并可能影响使用相关技术的电信和半导体企业的专利许可成本。
+**「影响」** 该协议仍需监管批准，若完成，将首次把华为与高通之间的专利许可范围扩展到 5G 技术，并涉及高通购买华为部分美国专利。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://ipfray.com/huawei-qualcomm-sign-broad-multi-year-cross-patent-licensing-agreement/">Huawei, Qualcomm sign broad, multi-year patent cross ...</a></li>
-<li><a href="https://tradersunion.com/news/financial-news/show/3656215-huawei-qualcomm-patent-licensing-deal/">Huawei signs multi-year Qualcomm patent licensing deal</a></li>
+<li><a href="https://www.qualcomm.com/news/releases/2026/10/huawei-and-qualcomm-announce-broad-patent-license-agreement">Huawei and Qualcomm Announce Broad Patent License Agreement</a></li>
+<li><a href="https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement">Huawei and Qualcomm Announce Broad Patent License Agreement</a></li>
+<li><a href="https://www.unite.ai/huawei-qualcomm-enter-multi-year-patent-license-deal-for-5g-ai/">Huawei, Qualcomm Enter Multi-Year Patent License Deal for 5G, AI</a></li>
+<li><a href="https://www.trendforce.com/news/2026/10/05/news-qualcomm-to-pay-huawei-for-first-time-under-cross-licensing-deal-covering-5g-ai-and-logicfolding-patents/">[News] Qualcomm to Pay Huawei for First Time Under...</a></li>
 
 </ul>
 </details>
@@ -47,81 +50,104 @@ telegram · zaihuapd · 10月5日 14:45
 ## 科技新闻
 
 <a id="item-tech-news-1"></a>
-### [彭博行业研究：美国对华 AI 性能优势缩至 3%](https://www.bloomberg.com/news/articles/2026-10-04/us-lead-in-ai-over-china-narrows-after-deepseek-gains-bi-says) ⭐️ 8.0/10
+### [Google 发布 VeriHarness 长程任务验证框架](https://arxiv.org/abs/2610.00972v1) ⭐️ 7.0/10
 
-彭博行业研究（Bloomberg Intelligence）报告称，美国 AI 公司对中国同行的模型性能优势已大幅缩小至约 3% 的历史低位。报告指出，DeepSeek 于 2026 年 9 月发布 V4.1 Flash 后，中国头部模型在基准测试中仅落后美国模型 3%，而 5 月这一差距约为 9%，年初约为 15%。报告认为，中国 AI 的进步源于技术积累以及对国产硬件的优化，这也令美国技术出口限制的实际效果受到质疑。不过报告同时提到，DeepSeek V4.1 Flash 今年 9 月在 LiveBench 全球排名第六，中国模型在前 15 名中仍仅占 3 席。
+Google 研究团队发布 VeriHarness，一个用生成候选结果的同一模型来执行验证的长程任务框架：对分歧主张核查环境证据，对共识主张主动挑战，并据此选择、修订或重建最终结果。该框架在 5 个长程任务基准、2 个模型上取得最高选择分；经证据驱动修订后，较单次生成平均提升 Gemini 3.5 Flash 6.2 分、Claude Opus 4.8 6.4 分。项目同时公开约 2.6 万条 rollouts。需要说明的是，上述信息来自一条简短的 Telegram 摘要，其中涉及的模型版本与 arXiv 编号等具体细节暂无法独立核实。
 
-telegram · zaihuapd · 10月5日 15:32
+telegram · zaihuapd · 10月4日 21:32
 
-**「背景」** 彭博行业研究（Bloomberg Intelligence）是彭博旗下的研究机构，其资深分析师 Robert Lea 在 2026 年 10 月 5 日的报告中给出了中美模型基准差距的具体数据。DeepSeek 于 2026 年 9 月发布 V4.1 Flash，该模型已上线 DeepSeek API，支持原生多模态，并取代了此前的 V4-Flash 与 V4-Flash-Vision-Exp。
+**「背景」** 随着 LLM 智能体承担越来越复杂的长程任务，验证其输出变得愈发困难。VeriHarness 研究的是在测试时无法获得参考答案或评分标准的情况下，如何用固定的基础模型增强验证能力。该工作还表明，验证技能可以从失败反馈中自我改进。
 
-**「影响」** 若该差距收窄趋势持续，美国现行对华 AI 芯片与技术出口限制的有效性将面临更直接的质疑，中国头部模型厂商则可能凭借对国产硬件的优化进一步缩小性能差距。不过报告同时指出，中国模型仍仅占 LiveBench 前 15 名中的 3 个，整体生态优势仍在美国一侧。
+**「影响」** VeriHarness 无需训练即可跨基准和模型即插即用，因此长程任务智能体的开发者可直接将其用于结果选择与修订，而无需重新训练模型；论文还显示验证技能可从失败反馈中自我改进。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.straitstimes.com/world/united-states/us-lead-in-ai-over-china-narrows-after-deepseek-gains-bloomberg-intelligence-says">US lead in AI narrows as Chinese models gain... | The Straits Times</a></li>
-<li><a href="https://startupfortune.com/deepseek-narrows-ai-gap-with-us-to-just-3-percent-bloomberg-says/">DeepSeek Narrows AI Gap With US to Just 3 Percent, Bloomberg ...</a></li>
-<li><a href="https://www.deepseek.com/en/news/deepseek-v4-1-flash/">Introducing DeepSeek - V 4 . 1 - Flash : smarter, faster, more efficient.</a></li>
-<li><a href="https://www.livemint.com/ai/deepseek-narrows-ai-gap-with-us-rivals-to-just-3-threatening-american-dominance-11791173222487.html">DeepSeek narrows AI gap with US rivals to just 3% ... - Mint</a></li>
-<li><a href="https://www.straitstimes.com/world/united-states/us-lead-in-ai-over-china-narrows-after-deepseek-gains-bloomberg-intelligence-says">US lead in AI over China narrows after DeepSeek gains ...</a></li>
-<li><a href="https://finance.yahoo.com/technology/ai/articles/us-lead-ai-over-china-210300658.html?fr=sycsrp_catchall">US Lead in AI Over China Narrows After DeepSeek Gains, BI Says</a></li>
+<li><a href="https://arxiv.org/abs/2610.00972">[2610.00972] VeriHarness: Scaling Agentic Verification for ...</a></li>
+<li><a href="https://arxiv.org/html/2610.00972v1">VeriHarness: Scaling Agentic Verification for Long-Horizon Tasks</a></li>
+<li><a href="https://arxivsignals.io/papers/2610.00972">VeriHarness: Scaling Agentic Verification for Long-Horizon Tasks</a></li>
+<li><a href="https://arxiv.org/abs/2610.00972">[2610.00972] VeriHarness: Scaling Agentic Verification for ...</a></li>
+<li><a href="https://arxiv.org/html/2610.00972v1">VeriHarness: Scaling Agentic Verification for Long-Horizon Tasks</a></li>
+<li><a href="https://academy.dair.ai/papers/veriharness-scaling-agentic-verification-for-long-horizon-tasks-2610.00972">VeriHarness: Scaling Agentic Verification for Long-Horizon Tasks</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI industry`, `#US-China tech`, `#DeepSeek`, `#AI benchmarks`, `#export controls`
+**标签**: `#AI verification`, `#long-horizon tasks`, `#LLM agents`, `#research release`, `#benchmarks`
 
 ---
 
 <a id="item-tech-news-2"></a>
-### [美海军用 Xbox 手柄操控舰载反无人机激光](https://www.tomshardware.com/peripherals/controllers-gamepads/us-navy-uses-xbox-style-controllers-to-fire-anti-drone-lasers-deployed-on-ships-usd13-per-shot-laser-weapon-deployed-in-the-strait-of-hormuz-uses-a-familiar-interface-instead-of-a-custom-control-system) ⭐️ 7.0/10
+### [彭博行业研究：美国对华 AI 性能优势缩至 3%](https://www.bloomberg.com/news/articles/2026-10-04/us-lead-in-ai-over-china-narrows-after-deepseek-gains-bi-says) ⭐️ 7.0/10
 
-美国海军开始在军舰上部署反无人机激光系统，并使用 Xbox 风格手柄进行操控。据 Tom&\#x27;s Hardware 报道，海军方面称这类手柄能提供瞄准精度和快速输入，且许多水兵已熟悉其按键布局。该系统据报已在霍尔木兹海峡用于应对无人机等威胁，单次激光拦截的电力成本约为 13 美元，远低于可能高达数千乃至数百万美元的传统防空导弹。此前类似系统曾在布什号航母上测试，英国皇家海军也在为驱逐舰安装同类系统。
+彭博行业研究称，美国 AI 公司对中国同行的性能优势近几个月大幅缩小至历史低位。DeepSeek 于 2026 年 9 月发布 V4.1 Flash 后，中国头部模型在基准测试中仅落后美国模型 3%，低于 5 月约 9% 和年初的 15%。报告认为，中国 AI 的进步源于技术积累及对国产硬件的优化，这也令美国技术出口限制的效果受到质疑。DeepSeek V4.1 Flash 今年 9 月在 LiveBench 全球排名第六，但中国模型仍仅占前 15 名中的 3 个。
 
-telegram · zaihuapd · 10月4日 20:48
+telegram · zaihuapd · 10月5日 15:32
 
-**「背景」** 美国海军此前已在“布什”号航母上测试过类似的激光反无人机系统，英国皇家海军也在为驱逐舰安装同类装备，说明以激光拦截低成本无人机正成为多国海军的探索方向。这类高能激光武器依靠电力驱动，单次发射成本远低于传统防空导弹，但受功率、天气和射程等条件限制。使用 Xbox 风格手柄而非定制控制台，主要是利用水兵对消费级手柄布局的熟悉度来缩短训练时间。
+**「背景」** DeepSeek 是一家总部位于杭州的中国人工智能公司，以开发开放权重的大语言模型而闻名。彭博行业研究（Bloomberg Intelligence）此前已指出，美国 AI 公司对中国的性能领先优势在近几个月大幅收窄至历史低位。DeepSeek 于 2026 年 9 月发布 V4.1 Flash，该模型已上线 DeepSeek API 并原生支持多模态，取代了此前的 V4-Flash 与 V4-Flash-Vision-Exp。
 
-**「影响」** 若该系统的部署与约 13 美元单次拦截成本得到证实，将直接改变美海军舰艇应对无人机蜂群的成本结构，使防御方不再被廉价无人机拖入消耗战。不过，此类激光武器仍受高额前期研发与测试投入制约，其实际作战效能和部署规模尚待更多证据确认。
+**「影响」** 若该 3% 差距的判断成立，美国出口管制对中国 AI 进步的遏制效果将受到更多质疑，而中国开发者与企业可能更倾向于采用 DeepSeek V4.1 Flash 等国产模型。不过该结论来自单一行业研究，其基准测试方法尚未公开，实际影响仍待更多独立评测验证。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://cybernews.com/tech/xbox-controller-lasers-fight-iranian-drones/">US laser weapons target drones with Xbox controllers</a></li>
-<li><a href="https://www.gate.com/news/detail/us-navy-uses-xbox-controllers-for-anti-drone-lasers-in-strait-of-hormuz-24741770">US Navy Uses Xbox Controllers for Anti-Drone Lasers in Strait ...</a></li>
-<li><a href="https://www.ndtv.com/world-news/us-iran-war-weapons-news-us-deploying-laser-weapons-in-hormuz-that-can-be-operated-with-xbox-console-12093870">us iran war weapons news US Deploying Laser Weapons In Hormuz ...</a></li>
-<li><a href="https://www.tiktok.com/discover/helios-laser-navy-vs-drone">Helios Laser Navy Vs Drone | TikTok</a></li>
-<li><a href="https://www.youtube.com/watch?v=wkmke4R58hk">US Navy Laser VS Iran Drones : Game Changer? - YouTube</a></li>
-<li><a href="https://www.intelmarketresearch.com/naval-laser-weapon-system-market-44920">Naval Laser Weapon System LaWS HELIOS Market 2026-2034</a></li>
+<li><a href="https://en.wikipedia.org/wiki/DeepSeek">DeepSeek - Wikipedia</a></li>
+<li><a href="https://www.bloomberg.com/news/articles/2026-10-04/us-lead-in-ai-over-china-narrows-after-deepseek-gains-bi-says">DeepSeek Narrowing US - China AI Gap Raises... - Bloomberg</a></li>
+<li><a href="https://www.deepseek.com/en/news/deepseek-v4-1-flash/">Introducing DeepSeek - V 4 . 1 - Flash : smarter, faster, more efficient.</a></li>
+<li><a href="https://www.benchleader.com/benchmarks/livebench_agentic_coding">LiveBench Agentic Coding leaderboard: 55 AI models ranked</a></li>
+<li><a href="https://www.deepseek.com/en/news/deepseek-v4-1-flash/">Introducing DeepSeek - V 4 . 1 - Flash : smarter, faster, more efficient.</a></li>
+<li><a href="https://openrouter.ai/deepseek/deepseek-v4.1-flash">DeepSeek V 4 . 1 Flash - API Pricing &amp; Benchmarks | OpenRouter</a></li>
 
 </ul>
 </details>
 
-**标签**: `#defense technology`, `#laser weapons`, `#hardware`, `#human-computer interaction`, `#drones`
+**标签**: `#AI competition`, `#DeepSeek`, `#benchmarks`, `#export controls`, `#China AI`
 
 ---
 
 <a id="item-tech-news-3"></a>
-### [Google 发布 VeriHarness 长程任务验证框架](https://arxiv.org/abs/2610.00972v1) ⭐️ 7.0/10
+### [Quad9 拒绝法国盗版封锁令，面临每日 58 万欧元罚款](https://torrentfreak.com/dns-resolver-quad9-rejects-french-piracy-blocks-weighs-exit-as-bein-seeks-up-to-e580k-a-day/) ⭐️ 7.0/10
 
-Google 研究团队发布 VeriHarness，一个用于长程任务输出验证的框架，其核心做法是用生成候选结果的同一模型来执行验证：对存在分歧的主张核查环境证据，对已达成共识的主张主动提出挑战，并据此选择、修订或重建最终结果。该框架在 5 个长程任务基准和 2 个模型上取得最高选择分；在证据驱动修订后，相较单次生成平均提升 Gemini 3.5 Flash 6.2 分、Claude Opus 4.8 6.4 分。项目同时公开了约 2.6 万条 rollouts。上述模型名称、版本与 arXiv 编号均来自该 Telegram 摘要，尚无法从所提供内容中独立核实。
+瑞士非营利 DNS 服务商 Quad9 拒绝执行法国法院针对盗版体育直播的域名封锁令。beIN Sports 要求法院按每个域名每日 1 万欧元罚款，涉及 58 个域名，合计每日最高 58 万欧元；巴黎法院上周四开庭，预计三周内作出裁决。Quad9 表示从未封锁任何域名，并称由于其不收集用户数据，无法只针对法国用户执行封锁，只能选择全球封锁或退出法国市场。Quad9 还批评法国 7 月通过的可实时自动加黑域名的法律「鲁莽且危险」。
 
-telegram · zaihuapd · 10月4日 21:32
+telegram · zaihuapd · 10月5日 16:05
 
-**「背景」** 长程任务指 LLM 智能体需在多个步骤中持续推理、调用工具并最终产出结果的任务，随着任务复杂度上升，验证其输出是否正确变得愈发困难。VeriHarness 的定位是首个面向长程任务的智能体验证框架，其特点是不依赖训练、可即插即用地跨基准与跨模型使用，并在测试时不访问参考答案或评分标准。该框架研究如何在固定基础模型的前提下增强验证能力，通过让同一模型核查分歧主张的环境证据、主动挑战共识主张，从而对候选结果进行选择、修订或重建。
+**「背景」** Quad9 是由瑞士公益非营利基金会 Quad9 Foundation 运营的公共 DNS 解析器，总部位于苏黎世，宗旨是提升互联网用户的隐私与网络安全。自 2024 年起，法国法院已多次命令公共 DNS 解析器封锁盗版体育直播网站，巴黎法院还曾在一起裁决中要求法国互联网服务提供商、VPN 服务与 DNS 解析器封锁 35 个盗版体育直播网站。
 
-**「影响」** 对长程智能体开发者而言，VeriHarness 提供了一种无需外部真值即可用同一模型筛选和修订输出的验证路径，在五个基准和两个前沿模型上取得最高选择分，证据驱动修订较单次生成平均提升 Gemini 3.5 Flash 6.2 分、Claude Opus 4.8 6.4 分。不过这些增益来自 Google 自身评测，且模型名称与 arXiv 编号尚未经独立验证，实际迁移效果仍需外部复现。
+**「影响」** 若巴黎法院在约三周内作出不利裁决，Quad9 可能被迫退出法国市场，法国用户将失去这一全球公共递归 DNS 解析器；同时，Quad9 拒绝封锁的立场可能推动其他不记录用户数据的解析器重新评估在法国及类似司法管辖区的合规风险。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://arxiv.org/html/2610.00972">VeriHarness : Scaling Agentic Verification for Long - Horizon Tasks</a></li>
-<li><a href="https://arxiv.org/abs/2610.00972">VeriHarness : Scaling Agentic Verification for Long - Horizon Tasks</a></li>
-<li><a href="https://arxiv.org/abs/2610.00972">[2610.00972] VeriHarness: Scaling Agentic Verification for ...</a></li>
-<li><a href="https://github.com/google-research/veriharness">GitHub - google-research/veriharness</a></li>
-<li><a href="https://arxiv.deeppaper.ai/papers/2610.00972v1">VeriHarness: Scaling Agentic Verification for Long-Horizon ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Quad9">Quad9 - Wikipedia</a></li>
+<li><a href="https://torrentfreak.com/dns-resolver-quad9-rejects-french-piracy-blocks-weighs-exit-as-bein-seeks-up-to-e580k-a-day/">DNS Resolver Quad9 Rejects French Piracy Blocks... * TorrentFreak</a></li>
+<li><a href="https://asmo360.com/news/france-blocks-vpn-and-dns-services-in-landmark-anti-piracy-court-ruling">France Orders VPN and DNS Providers to Block 35 Piracy Sites...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Quad9">Quad 9 - Wikipedia</a></li>
+<li><a href="https://www.privacyguides.org/en/dns/">DNS Resolvers - Privacy Guides</a></li>
 
 </ul>
 </details>
 
-**标签**: `#LLM verification`, `#long-horizon agents`, `#AI research`, `#benchmarks`, `#open source`
+**标签**: `#DNS`, `#internet governance`, `#privacy`, `#censorship`, `#open source`
+
+---
+
+<a id="item-tech-news-4"></a>
+### [OpenAI 将在 ChatGPT 生成图片时展示视觉广告](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-will-show-visual-ads-in-chatgpt-while-you-generate-images/) ⭐️ 7.0/10
+
+OpenAI 宣布将在 ChatGPT 用户生成图片时展示视觉广告，本月起在美国面向首批广告主启动测试。公司表示广告会明确标注，并与生成的图片分开，且不会影响 ChatGPT 的回答。目前 ChatGPT 每周用户达 12 亿，广告正成为向非订阅用户变现的新渠道。OpenAI 同时新增转化衡量与品牌安全工具。
+
+telegram · zaihuapd · 10月5日 18:53
+
+**「背景」** ChatGPT 自 2022 年底发布以来主要依靠订阅和 API 调用变现，免费用户规模庞大但未直接贡献广告收入。OpenAI 此前已探索在 ChatGPT 中引入广告，据外部报道，其在 2026 年初开始测试 ChatGPT 内的广告。此次在图片生成环节展示视觉广告，是这一变现路径的进一步扩展。
+
+**「影响」** 对非订阅用户而言，ChatGPT 的免费使用将开始伴随明确标注、与生成图片分离的视觉广告，这可能改变其使用体验；对广告主而言，OpenAI 新增的转化衡量与品牌安全工具提供了新的投放与效果评估渠道。
+
+<details><summary>参考链接</summary>
+<ul>
+<li>Building advertising for the way people use AI - OpenAI</li>
+<li>At the start of 2026, OpenAI began testing advertising inside ChatGPT. DETAILS --&gt; https://www.wsaw ... - Facebook</li>
+
+</ul>
+</details>
+
+**标签**: `#OpenAI`, `#ChatGPT`, `#AI monetization`, `#advertising`, `#AI industry`
 
 ---
