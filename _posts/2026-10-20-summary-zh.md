@@ -5,217 +5,178 @@ date: 2026-10-20
 lang: zh
 ---
 
-> 从 23 条内容中筛选出 8 条重要资讯。
+> 从 23 条内容中筛选出 7 条重要资讯。
 
 ---
 
 **科技财经**
-1. [Mercury 年化营收突破 10 亿美元，CEO 做客播客](#item-tech-finance-1) ⭐️ 5.0/10
+1. [Meta 发布新开源模型，据称与苹果合作支持本地运行](#item-tech-finance-1) ⭐️ 5.0/10
 
 **财经新闻**
-1. [OpenAI 据报加速约 300 亿美元融资，抢在 Anthropic 上市前锁定投资者](#item-finance-news-1) ⭐️ 8.0/10
-2. [Anthropic 或成今年唯一大型 AI 公司 IPO 希望](#item-finance-news-2) ⭐️ 7.0/10
-3. [摩根大通首年向国防与制造初创企业投资 50 亿美元](#item-finance-news-3) ⭐️ 7.0/10
+1. [OpenAI 据报加速约 300 亿美元融资，抢在 Anthropic 上市前](#item-finance-news-1) ⭐️ 8.0/10
+2. [汇丰 CEO：AI 热潮下并非所有数据中心都值得投资](#item-finance-news-2) ⭐️ 7.0/10
+3. [IMF 与世界银行曼谷会议：债务、AI 与贸易失衡成主要风险](#item-finance-news-3) ⭐️ 7.0/10
+4. [摩根大通首年向国防与供应链初创企业投资 50 亿美元](#item-finance-news-4) ⭐️ 7.0/10
 
 **科技新闻**
-1. [美 DHS 下令联邦文职部门排除并清除 DeepSeek 产品](#item-tech-news-1) ⭐️ 8.0/10
-2. [Inception 发布扩散式大模型 Mercury 3](#item-tech-news-2) ⭐️ 8.0/10
-3. [OpenAI 演示 Codex 云环境与 CLI 新功能](#item-tech-news-3) ⭐️ 7.0/10
-4. [DeepSeek 参与华为未来 AI 芯片设计](#item-tech-news-4) ⭐️ 7.0/10
+1. [DeepSeek 据报深度参与华为未来 AI 芯片设计](#item-tech-news-1) ⭐️ 8.0/10
+2. [DeepSeek 开源大规模推理框架 DeepInfer](#item-tech-news-2) ⭐️ 8.0/10
 
 ---
 
 ## 科技财经
 
 <a id="item-tech-finance-1"></a>
-### [Mercury 年化营收突破 10 亿美元，CEO 做客播客](https://www.newcomer.co/p/mercury-crosses-1-billion-annualized) ⭐️ 5.0/10
+### [Meta 发布新开源模型，据称与苹果合作支持本地运行](https://stratechery.com/2026/muse-spark-open-meta-apple-thin-and-thick/) ⭐️ 5.0/10
 
-金融科技公司 Mercury 的首席执行官 Immad Akhund 在 Newcomer 播客中表示，公司年化营收已突破 10 亿美元。该数字由公司方面在播客中披露，属于公司自述口径。
+据 Ben Thompson 报道，Meta 发布了一款新的开源 AI 模型，并据称正与苹果合作，让用户能在本地设备上运行该模型。报道未披露模型的具体能力、合作条款或财务数据。
 
-rss · Newcomer · 10月19日 23:33
+rss · Stratechery · 10月20日 18:00
 
-**「背景」** Mercury 成立于 2017 年，主要为初创企业和中小企业提供全数字化的企业银行账户服务，其核心产品是受 FDIC 保险保障的企业支票与储蓄账户，定位是传统银行的现代替代方案。
+**「背景」** Meta 此前已发布开源大模型 Llama 2，该模型免费开放，有报道称其可能对标 OpenAI 的 GPT-4；苹果也在研发自己的对话式 AI 产品。开源模型指代码和权重公开、可免费获取和本地运行的模型。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.youtube.com/watch?v=FjwQh_nSw48">Building Mercury with Immad Akhund , Founder &amp; CEO - YouTube</a></li>
-<li><a href="https://contrary-research.vercel.app/reports/mercury">Report: Mercury Business Breakdown &amp; Founding Story.</a></li>
+<li><a href="https://www.fastcompany.com/90925844/apple-meta-google-xai-openai-arms-race">Apple , Meta , and Google are hot on OpenAI&#x27;s trail</a></li>
 
 </ul>
 </details>
 
-**标签**: `#fintech`, `#company revenue`, `#startups`, `#podcast`
+**标签**: `#AI models`, `#open source`, `#Meta`, `#Apple`, `#tech partnerships`
 
 ---
 
 ## 财经新闻
 
 <a id="item-finance-news-1"></a>
-### [OpenAI 据报加速约 300 亿美元融资，抢在 Anthropic 上市前锁定投资者](https://www.reuters.com/world/openai-seeks-accelerate-fundraising-ahead-anthropic-ipo-sources-say-2026-10-19/) ⭐️ 8.0/10
+### [OpenAI 据报加速约 300 亿美元融资，抢在 Anthropic 上市前](https://www.reuters.com/world/openai-seeks-accelerate-fundraising-ahead-anthropic-ipo-sources-say-2026-10-19/) ⭐️ 8.0/10
 
-据路透社援引消息人士报道，OpenAI 正加速推进约 300 亿美元的融资，估值可能超过 1.4 万亿美元，以抢在竞争对手 Anthropic 于 11 月中旬上市前锁定投资者；软银、阿布扎比 MGX 等现有投资者正在洽谈参与。OpenAI 称，GPT-6 Astra 发布后增长加快，年化收入已达 500 亿美元，并预计年底升至 700 亿美元。
+据路透社援引消息人士报道，OpenAI 正加速推进约 300 亿美元融资，估值可能超过 1.4 万亿美元，意在抢在竞争对手 Anthropic 于 11 月中旬上市前锁定投资者；软银和阿布扎比 MGX 等现有投资者正在洽谈参与。OpenAI 称，GPT-6 Astra 发布后增长加快，年化收入已达 500 亿美元，并预计年底升至 700 亿美元。
 
 telegram · zaihuapd · 10月20日 11:50
 
-**「背景」** 据路透社报道，OpenAI 正争取在竞争对手 Anthropic 预计于 11 月中旬公开上市前获得投资者认购承诺。Anthropic 已于 2026 年 6 月 1 日向美国证券交易委员会（SEC）秘密提交上市申请草稿，并在 5 月的一轮融资中募资 650 亿美元、估值达 9650 亿美元。
+**「背景」** 据彭博此前报道，OpenAI 这轮至少 300 亿美元的融资是在其推迟上市计划后安排的“过桥”融资，谈判尚处早期、条款可能变化。竞争对手 Anthropic 原定 10 月上市，后推迟至 11 月，据报已秘密提交 IPO 申请。
 
-**「影响」** 若融资按报道规模完成，软银、MGX 等现有投资者将追加对 OpenAI 的敞口；同时，OpenAI 披露的约 500 亿美元年化收入低于此前广泛报道的 680 亿美元，这一差距曾令英伟达、甲骨文等 AI 相关股票承压。
+**「影响」** 若融资按报道规模完成，OpenAI 的估值将从今年 3 月融资时的 8520 亿美元升至逾 1.4 万亿美元，参与洽谈的软银、MGX 等现有投资者将面临更大敞口；其年底 700 亿美元年化收入目前是公司向投资者给出的预期，并非已实现业绩。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.reuters.com/world/openai-seeks-accelerate-fundraising-ahead-anthropic-ipo-sources-say-2026-10-19/">EXCLUSIVE: OpenAI seeks to accelerate fundraising ahead of ...</a></li>
-<li><a href="https://money.usnews.com/investing/news/articles/2026-10-19/exclusive-openai-seeks-to-accelerate-fundraising-ahead-of-anthropic-ipo-sources-say">Exclusive-OpenAI Seeks to Accelerate Fundraising Ahead of ...</a></li>
-<li><a href="https://www.useluminix.com/reports/company-overviews/what-do-we-know-about-the-anthropic-ipo">Anthropic IPO 2026: S-1, $2T Valuation &amp; November Listing</a></li>
-<li><a href="https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html">Nvidia, Oracle, other AI stocks sink on OpenAI revenue report</a></li>
+<li><a href="https://www.blockhead.co/2026/09/30/openai-seeks-at-least-30-billion-at-1-4-trillion-valuation-as-bridge-to-delayed-ipo/">OpenAI Seeks at Least $ 30 Billion at $ 1 . 4 Trillion Valuation as...</a></li>
+<li><a href="https://www.zacks.com/featured-articles/761/anthropic-ipo">Anthropic IPO 2026 Guide: Price Predictions, Dates, and ...</a></li>
+<li><a href="https://www.cryptotimes.io/2026/09/19/anthropic-plans-november-ipo-after-october-target-slips/">Anthropic Plans November IPO After October Target Slips</a></li>
+<li><a href="https://explodingtopics.com/blog/openai-revenue">OpenAI Revenue and Valuation Statistics (October 2026)</a></li>
+<li><a href="https://finance.yahoo.com/technology/ai/articles/openai-projects-70-billion-annualized-113114847.html?fr=sycsrp_catchall">OpenAI projects $70 billion annualized revenue by end of 2026</a></li>
+<li><a href="https://www.bloomberg.com/news/articles/2026-10-09/openai-expects-70-billion-in-annualized-revenue-by-end-of-2026">OpenAI Expects $70 Billion in Annualized Revenue by End of 2026</a></li>
 
 </ul>
 </details>
 
-**标签**: `#OpenAI`, `#Anthropic`, `#AI financing`, `#IPO`, `#valuation`
+**标签**: `#OpenAI`, `#AI financing`, `#Anthropic IPO`, `#valuation`, `#revenue growth`
 
 ---
 
 <a id="item-finance-news-2"></a>
-### [Anthropic 或成今年唯一大型 AI 公司 IPO 希望](https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html) ⭐️ 7.0/10
+### [汇丰 CEO：AI 热潮下并非所有数据中心都值得投资](https://www.cnbc.com/2026/10/20/data-center-financing-ai-debt-hsbc.html) ⭐️ 7.0/10
 
-据 CNBC 报道，在 OpenAI 排除 2026 年上市、多家公司推迟发行后，Anthropic 成为预测市场 Kalshi 上唯一被交易者认为今年正式宣布 IPO 概率超过 50% 的大型公司，周一早间为 75%。Anthropic 已于 6 月初向美国证券交易委员会（SEC）秘密提交招股书。
+汇丰首席执行官艾桥智（Georges Elhedery）表示，人工智能具有变革性，但投资数据中心必须有所选择，要考察租约质量和合同定价，并非所有项目都值得大力支持。
 
-rss · CNBC Finance · 10月20日 00:42
+rss · CNBC Finance · 10月20日 18:39
 
-**「背景」** Kalshi 的合约以 SEC 宣布 S-1 生效、IPO 定价或交易所分配股票代码作为“正式宣布”的标准；据 Renaissance Capital，今年美国已定价 IPO 数量较 2025 年下降 33%，尽管 SpaceX 6 月的大型上市推高了融资总额。
+**「背景」** 数据中心是支撑 AI 和云计算的服务器设施，麦肯锡估计到 2030 年全球数据中心支出可能达 7 万亿美元，而摩根大通预计到本十年末 AI 相关债务发行将达 4.1 万亿美元，融资压力正成为债券市场的关注点。
 
-**「影响」** Anthropic 第三季度营收为 168 亿美元，环比增速较此前放缓；22V Research 分析师指出，其 IPO 估值区间从原先预期的至少 2 万亿美元下调至 1.5 万亿美元起，被视为令人失望，并加剧了本已承压的 AI 相关股票压力。
+**「影响」** 对向数据中心项目提供贷款或购买相关债券的银行和投资者而言，这一表态提示需要区分项目质量，因为租约和定价较弱的项目可能面临更高的信用风险。
 
-**标签**: `#IPO market`, `#AI companies`, `#Anthropic`, `#prediction markets`, `#equity markets`
+**标签**: `#AI infrastructure`, `#data centers`, `#bank lending`, `#corporate debt`, `#bond markets`
 
 ---
 
 <a id="item-finance-news-3"></a>
-### [摩根大通首年向国防与制造初创企业投资 50 亿美元](https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html) ⭐️ 7.0/10
+### [IMF 与世界银行曼谷会议：债务、AI 与贸易失衡成主要风险](https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html) ⭐️ 7.0/10
 
-摩根大通 10 月 19 日表示，其“安全与韧性”计划启动第一年已向初创企业投资 50 亿美元，快于原定十年投入 100 亿美元的目标；该行联席总裁佩特诺称可能扩大这一规模。
+在曼谷举行的 IMF 与世界银行会议期间，各国财政官员将债务、人工智能相关借贷和贸易失衡列为全球经济的主要风险，而中国作为风险议题的关注度明显下降。IMF 总裁格奥尔基耶娃表示，仅靠强劲增长无法让美国走上可持续财政路径，美国联邦债务已超过 40 万亿美元；美国财政部顾问泽尔沃斯则质疑 IMF 的预测记录。
+
+rss · CNBC Finance · 10月20日 13:27
+
+**「背景」** 这是该会议自 2018 年巴厘岛会议以来首次在亚洲举行，当年正值美中贸易战开启，中国是核心议题；IMF 还警告，若 AI 未能兑现所承诺的生产率提升，可能带来严重全球经济后果。
+
+**「影响」** 七国集团宣布为乌克兰切尔诺贝利核电站基础设施修复提供 2.6 亿欧元（约 3 亿美元），并计划下月在巴黎捐助会议上将总额提高到 5 亿欧元以覆盖整个项目。
+
+**标签**: `#IMF/World Bank`, `#global debt`, `#AI investment risks`, `#G7 Ukraine funding`, `#fiscal policy`
+
+---
+
+<a id="item-finance-news-4"></a>
+### [摩根大通首年向国防与供应链初创企业投资 50 亿美元](https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html) ⭐️ 7.0/10
+
+摩根大通表示，在其美国安全与韧性计划启动的第一年，已向国防、制造和供应链领域的初创企业投资 50 亿美元，速度快于原计划；该行去年曾宣布将在十年内投入 100 亿美元，联席总裁 Doug Petno 称可能扩大这一规模。
 
 rss · CNBC Finance · 10月19日 20:34
 
-**「背景」** 摩根大通去年宣布启动“安全与韧性倡议”，计划在十年内投入 1 万亿美元融资，并另设 100 亿美元用于初创企业股权投资；如今首年已投出 50 亿美元，达到初始股权投资目标的一半。
+**「背景」** 摩根大通去年宣布，计划在十年内向美国国家安全相关产业投入 1.5 万亿美元，其中包含一项规模 100 亿美元的初创企业投资计划；如今首年已投出 50 亿美元，达到该初创投资目标的一半。
 
-**「影响」** 这一投资节奏意味着美国国防、先进制造和供应链领域的早期企业可能获得更多来自大型银行的长期资金，而摩根大通也从传统的贷款和顾问角色转向直接持股。
+**「影响」** 这标志着美国资产规模最大的银行从传统的贷款和顾问角色，转向直接持有早期国防科技公司的股权；已知投资对象包括自动化工厂企业 Hadrian 和超音速导弹初创公司 Castelion，后者参与了 10 亿美元融资轮，Hadrian 则参与了 14 亿美元融资轮。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.jpmorgan.com/about-us/security-and-resiliency">Security and Resiliency Initiative: Boosting Critical Industries</a></li>
-<li><a href="https://www.jpmorganchase.com/newsroom/press-releases/2026/one-year-security-resiliency-initiative-helping-strengthen-industries">One year in, JPMorganChase&#x27;s Security and Resiliency ...</a></li>
-<li><a href="https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html">JPMorgan&#x27;s $5 billion bet on U.S. security; startups ... - CNBC</a></li>
+<li><a href="https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html">JPMorgan &#x27;s $5 billion bet on U.S. security ; startups Castelion, Hadrian</a></li>
+<li><a href="https://www.linkedin.com/posts/williamgilroyseattle_jpmorgan-to-invest-up-to-10-billion-in-us-activity-7383696236475944960-Le7B">JPMorgan launches initiative for US national security | LinkedIn</a></li>
+<li><a href="https://www.aol.com/articles/jpmorganchase-invest-10b-u-firms-163400471.html">JPMorganChase to invest $ 10 B in U.S. firms key to national security</a></li>
 
 </ul>
 </details>
 
-**标签**: `#defense industry`, `#venture capital`, `#banking`, `#supply chains`, `#JPMorgan Chase`
+**标签**: `#defense investment`, `#banking strategy`, `#venture capital`, `#supply chain`, `#hypersonics`
 
 ---
 
 ## 科技新闻
 
 <a id="item-tech-news-1"></a>
-### [美 DHS 下令联邦文职部门排除并清除 DeepSeek 产品](https://www.federalregister.gov/public-inspection/2026-21447/order-exclusion-and-removal-of-deepseek-products-from-federal-civilian-executive-branch-information) ⭐️ 8.0/10
+### [DeepSeek 据报深度参与华为未来 AI 芯片设计](https://www.theinformation.com/articles/deepseek-shaping-huaweis-ai-chips-growing-challenge-nvidia) ⭐️ 8.0/10
 
-美国国土安全部发布命令通知，依据《联邦采购供应链安全法》，将杭州深度求索人工智能基础技术研究有限公司（DeepSeek）及其关联实体开发的信息技术产品与服务排除出联邦文职行政部门的采购范围。命令同时要求从文职机构信息系统中移除所有 DeepSeek 及相关实体产品，以及使用 DeepSeek 实现的第三方产品与服务。适用范围涵盖 DeepSeek 及其关联方，并延伸至基于其技术构建的第三方产品。此前，美国国防部与情报界已对 DeepSeek 实施类似使用限制。
+据 The Information 援引知情人士报道，DeepSeek 正与华为紧密合作，参与华为未来 AI 芯片的设计。华为工程师已长期驻场 DeepSeek 办公室，将 DeepSeek 在模型计算、处理器间数据传输等方面的反馈纳入芯片设计，涉及明年（2027 年）及以后推出的产品。这种超出常规供应商沟通的合作模式，可能帮助中国在构建前沿 AI 模型时降低对英伟达技术的依赖。不过报道同时指出，DeepSeek 并未放弃英伟达，仍在寻求获取其先进处理器。该消息来自对一篇付费报道的简短二手转述，缺少具体技术细节，且“2027 年”这一时间表述在原文中含义不够明确。
 
-telegram · zaihuapd · 10月19日 21:32
+telegram · zaihuapd · 10月20日 13:10
 
-**「背景」** 美国国土安全部此次命令的法律依据是 2018 年《联邦采购供应链安全法》（41 U.S.C. §§ 1321-1328）及其实施条例 41 C.F.R. part 201-1，该法授权国土安全部长为保护联邦文职信息系统发布排除或移除令。命令是在审查联邦采购安全委员会（Federal Acquisition Security Council）的建议及相关证据后作出的，联邦公报于 2026 年 10 月 20 日刊出该通知。此前，美国国防部与情报界已对 DeepSeek 实施过类似的使用限制。
+**「背景」** 华为的升腾（Ascend）系列是其面向 AI 训练的自主硬件平台，也是中国厂商替代英伟达 GPU 的主要选项之一。DeepSeek 则是以模型与软件能力见长的中国 AI 公司，此前主要依赖英伟达处理器开展训练与推理。芯片设计通常由硬件厂商主导、下游客户以供应商沟通方式反馈需求，而此次报道描述的驻场协作属于更早期的深度介入。
 
-**「影响」** 联邦文职机构需排查并移除现有系统中的 DeepSeek 产品及基于其构建的第三方服务，采购渠道同时被切断；依赖 DeepSeek 模型提供政府解决方案的供应商将面临合规替换压力。
+**「影响」** 若合作落地，DeepSeek 有望获得更贴合自身模型计算与处理器间数据传输需求的华为芯片，从而在训练前沿模型时降低对英伟达的依赖；但报道同时指出 DeepSeek 仍在寻求英伟达先进处理器，短期内难以完全替代。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://public-inspection.federalregister.gov/2026-21447.pdf">DEPARTMENT OF HOMELAND SECURITY Procurements Notice of Order ...</a></li>
-<li><a href="https://www.federalregister.gov/documents/2026/10/20/2026-21447/notice-of-order-regarding-exclusion-and-removal-of-deepseek-products-from-federal-civilian-executive">Federal Register :: Notice of Order Regarding Exclusion and ...</a></li>
-<li><a href="https://tech-insider.org/dhs-deepseek-federal-it-ban-fascsa-2026/">DHS Bans DeepSeek From Federal IT Systems [2026]</a></li>
-<li><a href="https://cyberscoop.com/dhs-bans-deepseek-federal-agencies/">DHS to ban DeepSeek from federal civilian agencies</a></li>
-<li><a href="https://www.explainx.ai/blog/dhs-orders-deepseek-removed-federal-civilian-agencies-procurement-ban-2026">DHS DeepSeek Ban: What Federal Agencies Must Remove ...</a></li>
-<li><a href="https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/">US banning Chinese AI DeepSeek from government agency IT ...</a></li>
+<li><a href="https://www.zerohedge.com/technology/deepseek-now-designing-huaweis-ai-chips-just-dhs-orders-it-ripped-out-federal-systems">DeepSeek Is Now Designing Huawei &#x27;s AI Chips ... | ZeroHedge</a></li>
+<li><a href="https://www.allaroundworlds.com/deepseek-huawei-ai-chip-software-ascend/">DeepSeek &amp; Huawei Challenge Nvidia’s AI Ecosystem</a></li>
+<li><a href="https://nuvwire.com/deepseek-huawei-ai-chip-race/">DeepSeek Huawei AI Chip Race: What the New Partnership Means</a></li>
+<li><a href="https://finance.yahoo.com/technology/ai/articles/deepseek-teams-huawei-challenge-nvidia-183703468.html?fr=sycsrp_catchall">DeepSeek teams up with Huawei to challenge Nvidia</a></li>
+<li><a href="https://www.theinformation.com/articles/deepseek-shaping-huaweis-ai-chips-growing-challenge-nvidia">How DeepSeek Is Shaping Huawei’s AI Chips in a Growing ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI policy`, `#DeepSeek`, `#supply chain security`, `#government regulation`, `#open source AI`
+**标签**: `#AI chips`, `#Huawei`, `#DeepSeek`, `#hardware`, `#industry news`
 
 ---
 
 <a id="item-tech-news-2"></a>
-### [Inception 发布扩散式大模型 Mercury 3](https://www.inceptionlabs.ai/blog/introducing-mercury-3) ⭐️ 8.0/10
+### [DeepSeek 开源大规模推理框架 DeepInfer](https://github.com/deepseek-ai/DeepInfer) ⭐️ 8.0/10
 
-Inception 发布了扩散式大语言模型 Mercury 3，宣称生成速度超过每秒 1000 tokens，上下文长度达 100 万 tokens，参数量约为 Mercury 1 的 40 倍。该模型已上线 Inception API 及 OpenRouter 等平台，输入定价为每百万 tokens 0.2 美元。官方称其在多项基准测试中表现超越 GPT-6 Luna 与 Claude Haiku 5.5。上述性能与对比数据均来自厂商声明，目前尚无独立基准测试或详细技术资料佐证。
+10 月 20 日，DeepSeek 在 GitHub 开源其内部大规模推理框架 DeepInfer，并同步开源 Token 编解码组件 deepseek-recipe。官方称基于该框架，V4.1 Flash 在单一集群上的吞吐达到 155 万亿 Tokens/天，但该数字目前属于未经第三方验证的厂商声明。框架支持分布式推理、推测解码与结构化输出，可运行在英伟达和华为升腾平台上，KVCache 可保留 72 小时以上。对 AI 系统从业者而言，这次开源提供了来自知名 AI 实验室的推理栈实现，涵盖跨厂商硬件适配与长时缓存等具体能力。
 
-telegram · zaihuapd · 10月20日 08:29
+telegram · zaihuapd · 10月20日 17:11
 
-**「背景」** 扩散式大语言模型（dLLM）采用与 GPT、Claude、Gemini 等主流模型所依赖的自回归 Transformer 不同的架构，Inception 是首批将其商业化的公司之一。Mercury 3 于 2026 年 10 月 19 日发布，被 Inception 称为迄今能力最强的扩散式大语言模型，也是 Mercury 系列在参数规模上的一次大幅跃升。
+**「背景」** DeepSeek 是一家以开源大模型著称的 AI 实验室，其模型因采用 MoE（混合专家）架构而在开源社区受到关注。推理框架是承载大模型在线服务的底层系统，负责调度计算资源、管理 KVCache 并支撑分布式部署，通常由各家厂商内部自研、较少对外公开。DeepSeek 此次将内部推理框架开源，属于把模型之外的工程基础设施也对外开放。
 
-**「影响」** 对需要高吞吐、低延迟推理的开发者而言，Mercury 3 提供了可经 Inception API 和 OpenRouter 接入的扩散式模型选项，输入定价为每百万 tokens 0.2 美元，并支持 100 万 tokens 上下文。不过，其性能与基准优势目前均来自厂商自述，尚无独立评测验证。
+**「影响」** 对需要自建大规模推理服务的团队而言，DeepInfer 提供了 DeepSeek 生产环境所用的框架，并支持在英伟达与华为升腾平台上进行分布式推理，因此可降低跨硬件部署的适配成本；但开源版本定位为离线推理，仅包含规模化服务所需的核心功能，155 万亿 Tokens/天的吞吐数据仍属厂商单方面声明，实际表现有待验证。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.inceptionlabs.ai/blog/introducing-mercury-3">Diffusion at Scale: Introducing Mercury 3 – Inception</a></li>
-<li><a href="https://shattered.io/inception-mercury-3-diffusion-llm-2026/">Inception’s Mercury 3: 40x Bigger, 8x Faster [2026]</a></li>
-<li><a href="https://finance.yahoo.com/technology/ai/articles/inception-launches-mercury-3-setting-164800350.html?fr=sycsrp_catchall">Inception Launches Mercury 3, Setting a New Pareto Frontier ...</a></li>
-<li><a href="https://www.inceptionlabs.ai/blog/introducing-mercury-3">Diffusion at Scale: Introducing Mercury 3 – Inception</a></li>
+<li><a href="https://datafibers-community.github.io/tags/deepseek/">Deepseek</a></li>
+<li><a href="https://github.com/deepseek-ai/DeepInfer">GitHub - deepseek -ai/ DeepInfer : DeepInfer : High-performance...</a></li>
+<li><a href="https://deepinfra.com/deepseek-ai/DeepSeek-V3">DeepSeek V3 API - Demo - DeepInfra</a></li>
 
 </ul>
 </details>
 
-**标签**: `#diffusion-llm`, `#large-language-models`, `#inference-speed`, `#model-release`, `#api-pricing`
-
----
-
-<a id="item-tech-news-3"></a>
-### [OpenAI 演示 Codex 云环境与 CLI 新功能](https://x.com/OpenAIDevs/status/2112242741555941550) ⭐️ 7.0/10
-
-OpenAI 在“连续 28 天更新”的第 15 天演示了 Codex 的两项新能力：一是 Codex 云环境，关闭笔记本后任务仍可继续运行；二是 Codex CLI 新增功能，支持在终端与 Codex 对话、追踪 agent，并把对话 fork 到独立 worktree。该消息来自 OpenAI Developers 账号的演示内容，经 Telegram 频道二次转述，技术细节有限。同一场演示还展示了 dot 协助准备食谱并保留在 ChatGPT Space、GPT-Live-1 讲解制作拉面，以及嘉宾用 Ultrafast 搭建 8-bit 拉面游戏并在 modretro 掌机上试玩，这些内容与 Codex 更新无直接关系。
-
-telegram · zaihuapd · 10月20日 10:05
-
-**「背景」** Codex 是 OpenAI 推出的 AI 编程工具，提供 IDE 扩展和命令行界面（CLI），让开发者能在终端中检查、编辑并运行代码。其云环境功能允许任务在关闭笔记本后继续运行，并可从其他设备跟进进度、接着处理。CLI 侧的对话、agent 追踪与 worktree 分叉属于较新的交互方式，相关实现仍在迭代中，例如有用户报告移动端远程创建的 worktree 线程未能正确关联回原项目。
-
-**「影响」** 对使用 Codex 的开发者而言，云环境在关闭笔记本后仍持续运行，意味着长任务不再依赖本地机器在线；CLI 的对话、agent 追踪与 fork 到独立 worktree 则便于并行管理多条任务线。不过现有信息仅为演示层面的简要转述，具体可用范围与限制尚未明确。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://openai.com/codex/">Codex | AI Coding Partner from OpenAI | OpenAI</a></li>
-<li><a href="https://learn.chatgpt.com/docs/codex/cli">Codex CLI | ChatGPT Learn</a></li>
-<li><a href="https://github.com/openai/codex/issues/23418">Mobile remote-created worktree thread is not associated with project in...</a></li>
-<li><a href="https://opentools.ai/news/codex-cli-voice-agents-view-worktrees-update">OpenAI refreshes Codex CLI for voice and agent oversight; the ...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#openai-codex`, `#ai-coding-agents`, `#developer-tools`, `#cli`, `#cloud-development-environments`
-
----
-
-<a id="item-tech-news-4"></a>
-### [DeepSeek 参与华为未来 AI 芯片设计](https://www.theinformation.com/articles/deepseek-shaping-huaweis-ai-chips-growing-challenge-nvidia) ⭐️ 7.0/10
-
-据知情人士透露，DeepSeek 正与华为紧密合作，参与华为未来 AI 芯片的设计。华为工程师已长期驻场 DeepSeek 办公室，将 DeepSeek 在模型计算、处理器间数据传输等方面的建议纳入芯片设计，相关芯片计划于 2027 年及以后推出。这种超出常规供应商沟通的合作，可能帮助中国在构建前沿 AI 模型时降低对英伟达技术的依赖。但报道同时指出，DeepSeek 并未放弃英伟达，仍在寻求获取其先进处理器。该消息源自 The Information 的付费报道，经二手渠道简要转述，涉及匿名信源，具体技术细节与合作范围尚不明确。
-
-telegram · zaihuapd · 10月20日 13:10
-
-**「背景」** 华为的 AI 芯片产品线以升腾（Ascend）系列为核心，并配套自研的软件栈，试图构建从硬件到软件的完整 AI 计算生态。DeepSeek 此前已与华为在软件层面展开合作，例如为升腾芯片发布内核库并进行底层优化，这为双方进一步在芯片设计阶段协作提供了基础。英伟达的长期优势不仅在于处理器硬件，也在于其 CUDA 软件生态，因此中国厂商推动软硬件协同被视为降低对英伟达依赖的路径之一。
-
-**「影响」** 若合作属实，DeepSeek 的模型侧需求将直接进入华为 2027 年及以后芯片的设计环节，可能提升华为升腾系列对前沿大模型的适配度；但 DeepSeek 仍在寻求英伟达先进处理器，短期内难以完全摆脱对英伟达的依赖。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.allaroundworlds.com/deepseek-huawei-ai-chip-software-ascend/">DeepSeek &amp; Huawei Challenge Nvidia’s AI Ecosystem</a></li>
-<li><a href="https://www.youtube.com/watch?v=uJcPjrEgppk">Deepseek &amp; Huawei Made Local AI Run Without... - YouTube</a></li>
-<li><a href="https://nuvwire.com/deepseek-huawei-ai-chip-race/">DeepSeek Huawei AI Chip Race: What the New Partnership Means</a></li>
-<li><a href="https://www.forbes.com/sites/jonmarkman/2026/09/22/huawei-pulls-ascend-960-ai-chip-forward-to-q1-2027-to-take-on-nvidia/">Huawei Pulls Ascend 960 AI Chip Forward To Q1 2027 ... - Forbes</a></li>
-<li><a href="https://www.usnews.com/news/top-news/articles/2026-09-16/chinas-huawei-sets-2027-launch-for-new-ai-chips-as-it-targets-nvidia">China&#x27;s Huawei Sets 2027 Launch for New AI Chips as It ...</a></li>
-<li><a href="https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/">Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI chips`, `#Huawei`, `#DeepSeek`, `#Nvidia`, `#hardware`
+**标签**: `#inference-framework`, `#open-source`, `#llm-serving`, `#distributed-systems`, `#deepseek`
 
 ---
