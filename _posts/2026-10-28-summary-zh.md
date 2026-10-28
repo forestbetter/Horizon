@@ -10,45 +10,46 @@ lang: zh
 ---
 
 **科技财经**
-1. [Anthropic 提交 IPO 文件：核心业务盈利，但竞争与稀释风险受关注](#item-tech-finance-1) ⭐️ 7.0/10
+1. [Meta 财报与“Muse”计划：投资者面临算力支出考验](#item-tech-finance-1) ⭐️ 6.0/10
 
 **财经新闻**
 1. [泡泡玛特三季度营收同比下滑 45%至 50%，Labubu 热度消退](#item-finance-news-1) ⭐️ 7.0/10
+2. [长鑫科技纳入上证指数，成为第一大权重股](#item-finance-news-2) ⭐️ 7.0/10
 
 **科技新闻**
-1. [OpenAI 公布模型产出的三项数学结果](#item-tech-news-1) ⭐️ 9.0/10
-2. [Google DeepMind 发布世界模型 Genie 4](#item-tech-news-2) ⭐️ 9.0/10
-3. [Anthropic 确认内部系统遭安全研究人员访问](#item-tech-news-3) ⭐️ 8.0/10
-4. [Google 提出睡眠框架，助大模型持续学习不遗忘](#item-tech-news-4) ⭐️ 8.0/10
-5. [长鑫存储拟量产 HBM3E，良率仅两三成](#item-tech-news-5) ⭐️ 8.0/10
-6. [微软修复安卓版 Authenticator 高危令牌窃取漏洞](#item-tech-news-6) ⭐️ 7.0/10
-7. [苹果入门款 MacBook Pro 升级 M6 芯片，10 月 28 日预售](#item-tech-news-7) ⭐️ 7.0/10
+1. [OpenAI 公布模型产出的三项科研结果](#item-tech-news-1) ⭐️ 9.0/10
+2. [Google DeepMind 发布世界模型 Genie 4](#item-tech-news-2) ⭐️ 8.0/10
+3. [Google 提出睡眠框架助大模型持续学习](#item-tech-news-3) ⭐️ 8.0/10
+4. [Anthropic 招聘经理停用编程面试](#item-tech-news-4) ⭐️ 7.0/10
+5. [调研：近八成企业 GPU 半数时间闲置，九成 AI 投入未过 ROI 审计](#item-tech-news-5) ⭐️ 7.0/10
+6. [长鑫存储拟量产 HBM3E，良率仅两三成](#item-tech-news-6) ⭐️ 7.0/10
 
 ---
 
 ## 科技财经
 
 <a id="item-tech-finance-1"></a>
-### [Anthropic 提交 IPO 文件：核心业务盈利，但竞争与稀释风险受关注](https://stratechery.com/2026/anthropic-s-1-the-cost-of-compute-who-is-paying/) ⭐️ 7.0/10
+### [Meta 财报与“Muse”计划：投资者面临算力支出考验](https://stratechery.com/2026/meta-earnings-muse-and-the-frontier-musebook/) ⭐️ 6.0/10
 
-Anthropic 已提交 IPO（首次公开募股）文件。科技评论作者 Ben Thompson 指出，其核心业务“非常盈利”，但警告竞争可能侵蚀利润，且投资者面临持续股权稀释的风险。
+Stratechery 评论指出，Meta 的财报发布正值扎克伯格兑现其承诺之际；评论认为，如果投资者相信“Muse”计划，就必须支持 Meta 在算力上的支出。该评论未提供具体财务数据、同比基数或业绩指引。
 
-rss · Stratechery · 10月27日 18:32
+rss · Stratechery · 10月28日 18:06
 
-**「背景」** Anthropic 已向美国证券交易委员会（SEC）提交 S-1 注册声明，计划在纳斯达克全球精选市场上市其 A 类普通股，股票代码尚未在现有材料中披露。S-1 是公司申请首次公开募股（IPO）时必须提交的详细披露文件。
+**「背景」** Meta 于 2026 年 10 月发布第三季度财报，CEO 扎克伯格称本季度推出首个前沿模型 Muse 和 Muse Wonder，并称投资正在见效、核心业务强劲。据 Business Insider 报道，扎克伯格同时表示 Muse 的算力成本“非常高”，其硬件部门 Reality Labs 仍严重亏损。
 
-**「潜在影响」** 若 Anthropic 按报道中的规模上市，其估值与盈利口径将直接影响参与认购的投资者：有报道称其目标估值接近 2 万亿美元，而《金融时报》指出其盈利为调整后口径，剔除了标准会计下应确认的部分费用。
+**「影响」** 分析师对 Meta 的 Muse AI 产品看法不一：瑞银、花旗和巴克莱认为相关产品有上行空间，而富国银行、Piper Sandler 和 TD Cowen 则提示投资成本上升和融资不确定性。据路透社报道，投资者关注 Meta 第三季度业绩中的 AI 支出和 Muse 个人助手的采用情况。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.anthropic.com/news/s1-sec">Anthropic files S-1 with the SEC for proposed initial public ...</a></li>
-<li><a href="https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-26-2026/card/read-the-full-anthropic-s-1-filing-1Sp1ib6qlFieTq1U5Bxd">Read the Full Anthropic S-1 Filing - The Wall Street Journal</a></li>
-<li><a href="https://www.remio.ai/post/anthropic-nasdaq-ipo-targets-2-trillion-but-its-profit-test-is-just-beginning">Anthropic Nasdaq IPO Targets $2 Trillion, but Its Profit Test Is Just...</a></li>
+<li><a href="https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Third-Quarter-2026-Results/default.aspx">Meta - Meta Reports Third Quarter 2026 Results</a></li>
+<li><a href="https://www.businessinsider.com/meta-q3-2026-earnings-muse-reality-labs-face-losses-profitable-2026-10">Meta Earnings: Muse, Reality Labs Face Losses, Are Not yet ...</a></li>
+<li><a href="https://finance.yahoo.com/technology/ai/articles/metas-muse-ai-momentum-wins-115521670.html?fr=sycsrp_catchall">Meta&#x27;s Muse AI Momentum Wins Over Analysts — But $140B ...</a></li>
+<li><a href="https://money.usnews.com/investing/news/articles/2026-10-20/metas-ai-spending-muse-assistant-adoption-in-focus-for-quarterly-results">Meta&#x27;s AI Spending, Muse Assistant Adoption in Focus for ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#IPO`, `#AI`, `#capital markets`, `#tech companies`, `#profitability`
+**标签**: `#Meta`, `#earnings`, `#AI compute`, `#big tech`, `#investor sentiment`
 
 ---
 
@@ -57,183 +58,195 @@ rss · Stratechery · 10月27日 18:32
 <a id="item-finance-news-1"></a>
 ### [泡泡玛特三季度营收同比下滑 45%至 50%，Labubu 热度消退](https://asia.nikkei.com/business/consumer/pop-mart-s-revenue-halves-in-q3-as-labubu-craze-cools) ⭐️ 7.0/10
 
-泡泡玛特 10 月 27 日向港交所提交文件称，三季度营收同比下滑 45%至 50%，其中美国销售下降 70%至 75%，中国以外亚太地区下降 65%至 70%。公司同时预计，下半年毛利率将较上半年收窄至多 2 个百分点。
+泡泡玛特 10 月 27 日向港交所提交文件称，三季度营收同比下滑 45%至 50%，主要因 Labubu 热度消退；其中美国销售下降 70%至 75%，中国以外亚太地区下降 65%至 70%。
 
 telegram · zaihuapd · 10月27日 22:30
 
-**「背景」** 泡泡玛特此前凭借 Labubu 等 IP 玩偶在海外快速走红，海外高毛利销售曾是增长主力；此次公司称 Labubu 热度消退，海外销售大幅回落。
+**「背景」** 泡泡玛特是港股上市的潮玩公司，Labubu 系列此前是其增长的主要动力；公司同时预计，由于海外高毛利销售占比下降，下半年毛利率将较上半年收窄至多 2 个百分点。
 
-**「影响」** 海外高毛利销售占比下降，将直接压低公司下半年整体毛利率，持有其港股的投资者需关注这一盈利质量变化。
+**「影响」** 海外销售大幅下滑会拉低高毛利收入占比，公司预计下半年毛利率因此收窄，这直接影响其盈利水平；公司称 10 月走势趋稳、全年中国区同比增长“应该不难”，但这属于公司预测，并非已公布的实际业绩。
 
-**标签**: `#Pop Mart`, `#earnings`, `#consumer discretionary`, `#Hong Kong stocks`, `#retail`
+**标签**: `#Pop Mart`, `#earnings`, `#consumer discretionary`, `#Hong Kong stocks`, `#retail sales`
+
+---
+
+<a id="item-finance-news-2"></a>
+### [长鑫科技纳入上证指数，成为第一大权重股](https://m.gelonghui.com/live/2733034) ⭐️ 7.0/10
+
+据中证指数公司披露，长鑫科技已被纳入上证综合指数，权重 4.67%，为第一大权重股；同日纳入上证科创板综合指数，权重 15.74%，同样居首，接近新规 15%的单只样本权重上限。
+
+telegram · zaihuapd · 10月28日 16:03
+
+**「背景」** 长鑫科技于 2026 年 7 月 27 日以每股 8.66 元的发行价在科创板上市，是一家国产存储芯片企业。按指数编制规则，新股上市满三个月且日均总市值排名沪市前 10 位后即可计入上证综合指数，因此到 10 月 27 日恰好满足条件。
+
+**「影响」** 跟踪上证综指和科创综指的被动指数基金需按新权重配置长鑫科技，其在上证综指占 4.67%、在科创综指占 15.74%，相关基金的持仓结构将随之调整。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://news.10jqka.com.cn/20260727/c678439547.shtml">“巨无霸”来了！ 长 鑫 科 技 今 日 登陆 科 创 板 | 同花顺财经</a></li>
+<li><a href="https://m.21jingji.com/article/20260723/herald/c3307b6d9453f8f6a27845f0fbf7bb05.html">长 鑫 科 技 7 月 27 日 在 科 创 板 上 市 - 21财经</a></li>
+
+</ul>
+</details>
+
+**标签**: `#index inclusion`, `#China A-shares`, `#semiconductors`, `#market structure`, `#STAR Market`
 
 ---
 
 ## 科技新闻
 
 <a id="item-tech-news-1"></a>
-### [OpenAI 公布模型产出的三项数学结果](https://openai.com/index/building-scientific-understanding-with-academic-communities/) ⭐️ 9.0/10
+### [OpenAI 公布模型产出的三项科研结果](https://openai.com/index/building-scientific-understanding-with-academic-communities/) ⭐️ 9.0/10
 
-OpenAI 公布其内部模型产出的三项数学结果：各维度的局部光滑化猜想证明、指数时间假设（ETH）不成立的反证，以及四维杨-米尔斯理论的存在性证明。OpenAI 将这些结果定位为更接近原始研究数据，并邀请外部专家分组承担解读与验证工作。三组发布策略不同：计算机科学组已即时公开证明及 Lean 形式化，物理组则暂缓发布。上述结果均尚待外部专家验证，若最终成立，将分别冲击复杂性理论的下界研究、调和分析中的 Kakeya 与 Stein 限制猜想，以及七大千禧年数学难题之一的杨-米尔斯存在性。
+OpenAI 公布其内部模型产出的三项研究结果：各维度的局部光滑化猜想证明、指数时间假设（ETH）不成立的反证，以及四维杨–米尔斯理论的存在性证明。OpenAI 将这些结果定位为更接近原始研究数据，并邀请外部专家分组承担解读与验证工作。三组发布策略不同：计算机科学组已即时公开证明及 Lean 形式化，物理组则暂缓发布。若三项证明最终成立，均将是相关领域的历史性突破——ETH 是仅次于 P vs NP 等核心问题的重大复杂性假设之一，其被推翻将动摇大量精确算法、参数化复杂性与细粒度复杂性研究所依赖的条件下界；全维局部光滑化证明还将一并解决 Kakeya、Stein 限制等调和分析核心猜想；四维杨–米尔斯存在性则直接指向七大千禧年数学难题之一。目前这些结果尚未经外部验证，物理组结果也未公开。
 
 telegram · zaihuapd · 10月27日 23:00
 
-**「背景」** 指数时间假设（ETH）是计算复杂性理论中的核心假设之一，它断言一般性的可满足性问题不存在指数级以下的精确算法，大量精确算法下界、参数化复杂性和细粒度复杂性研究都以其成立为前提。Kakeya 猜想与 Stein 限制猜想是调和分析中的经典问题，局部光滑化猜想与它们密切相关。杨-米尔斯存在性是克雷数学研究所七大千禧年数学难题之一，要求为四维量子场论给出严格的数学存在性构造。
+**「背景」** 指数时间假设（ETH）是复杂性理论中的核心假设，认为一般性的可满足性问题不存在指数级以下的精确算法，大量精确算法、参数化复杂性与细粒度复杂性研究的下界都以其成立为前提。局部光滑化猜想与 Kakeya 猜想、Stein 限制猜想同属调和分析的核心问题，而四维杨–米尔斯存在性则是七大千禧年数学难题之一。OpenAI 此次将模型产出定位为“原始研究数据”，并邀请学术界参与验证与解读。
 
-**「潜在影响」** 若外部专家验证通过，ETH 被推翻将动摇大量精确算法、参数化复杂性与细粒度复杂性研究所依赖的条件下界；全维局部光滑化证明还将连带解决 Kakeya 与 Stein 限制等调和分析核心猜想，四维杨–米尔斯存在性则直接指向千禧年难题之一。上述后果目前均取决于尚未完成的外部验证。
+**「潜在影响」** 若这些证明最终通过外部专家验证，将直接动摇精确算法、参数化复杂性与细粒度复杂性研究所依赖的条件下界，并可能一并解决 Kakeya、Stein 限制等调和分析核心猜想，四维杨–米尔斯存在性则指向千禧年数学难题之一。不过目前结果尚未验证，物理组已暂缓发布，实际影响取决于后续审查结论。
 
 <details><summary>参考链接</summary>
 <ul>
 <li><a href="https://openai.com/index/building-scientific-understanding-with-academic-communities/">Working with academic communities to build scientific ... | OpenAI</a></li>
-<li><a href="https://interestingengineering.com/ai-robotics/openai-proofs-math-computing-physics">OpenAI claims major proofs in math , computing and quantum physics</a></li>
-<li><a href="https://coldcasetech.com/posts/2026-10-27-openai-says-ai-disproved-exponential-time-hypothesis/">OpenAI says its AI disproved the Exponential Time Hypothesis</a></li>
-<li><a href="https://aiweekly.co/alerts/openai-hands-eth-kakeya-yang-mills-proofs-to-reviewers">OpenAI Hands ETH, Kakeya , Yang-Mills Proofs to... | AI Weekly</a></li>
-<li><a href="https://www.quantamagazine.org/a-tower-of-conjectures-that-rests-upon-a-needle-20230912/">A Tower of Conjectures That Rests Upon a Needle | Quanta Magazine</a></li>
+<li><a href="https://gizmodo.com/openai-trumpets-3-more-math-and-science-results-along-with-a-new-plan-for-publishing-them-2000830956">OpenAI Trumpets 3 More Math and Science Results , Along With...</a></li>
+<li><a href="https://polymarket.com/event/exponential-time-hypothesis-disproof-confirmed-by">Exponential Time Hypothesis disproof confirmed by...? | Polymarket</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_existence_and_smoothness">Navier–Stokes existence and smoothness - Wikipedia</a></li>
+<li><a href="https://aiweekly.co/alerts/openai-hands-eth-kakeya-yang-mills-proofs-to-reviewers">OpenAI Hands ETH, Kakeya , Yang - Mills Proofs to... | AI Weekly</a></li>
+<li><a href="https://interestingengineering.com/ai-robotics/openai-proofs-math-computing-physics">OpenAI claims major proofs in math, computing and quantum physics</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI for science`, `#complexity theory`, `#mathematical proofs`, `#Lean formalization`, `#OpenAI`
+**标签**: `#OpenAI`, `#AI for science`, `#complexity theory`, `#mathematical proofs`, `#Lean formalization`
 
 ---
 
 <a id="item-tech-news-2"></a>
-### [Google DeepMind 发布世界模型 Genie 4](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/) ⭐️ 9.0/10
+### [Google DeepMind 发布世界模型 Genie 4](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/) ⭐️ 8.0/10
 
-Google DeepMind 发布世界模型 Genie 4，可实时生成画面、环境音与可交互对话，并支持用自然语言随时改动场景。该模型由 Gemini 家族支撑，其中 Gemini 3.8 Flash 担任引导 agent，负责拆解多步任务。Genie 4 目前以研究预览形式向可信测试者开放，随后将面向 Project Genie 的 Ultra 订阅者以及 Gemini API、AI Studio 合作伙伴提供。生成内容带有 SynthID 水印。
+Google DeepMind 发布了世界模型 Genie 4，可实时生成画面、环境音与可交互对话，并支持用自然语言随时改动场景。该模型由 Gemini 家族支撑，其中 Gemini 3.8 Flash 担任引导 agent，负责拆解多步任务。Genie 4 目前向可信测试者开放研究预览，随后将面向 Project Genie 的 Ultra 订阅者以及 Gemini API、AI Studio 合作伙伴推出。生成内容会带有 SynthID 水印。
 
 telegram · zaihuapd · 10月28日 00:28
 
-**「背景」** 世界模型是一类能够根据输入实时生成并模拟可交互虚拟环境的生成式 AI 系统，用户可在其中移动、操作并观察环境变化。Google DeepMind 此前已推出 Genie 系列世界模型，逐步提升生成世界的真实感与交互性。Genie 4 在此基础上引入原生音频、更先进的物理效果与自然人体运动，并由 Gemini 模型驱动场景操控。
+**「背景」** 世界模型是一类能够根据文本或图像提示生成可交互虚拟环境、并实时模拟其动态变化的生成式 AI 系统。Google DeepMind 此前已推出 Genie 系列世界模型，逐步提升生成环境的真实感与可交互性。Genie 4 被官方描述为迄今最具交互性的世界模型，在实时交互模拟中引入原生音频与更强的物理表现，并由 Gemini 模型提供引导能力。
 
-**「影响」** Genie 4 目前仅向可信测试者开放研究预览，普通开发者与用户需等待其扩展至 Project Genie 的 Ultra 订阅者及 Gemini API、AI Studio 合作伙伴后才能使用。
+**「影响」** 对可信测试者及后续 Project Genie Ultra 订阅者、Gemini API 与 AI Studio 合作伙伴而言，Genie 4 将可交互世界模拟扩展到原生音频与自然语言实时操控，场景一致性最长维持两分钟，为构建实时交互式世界应用提供了新的能力边界。
 
 <details><summary>参考链接</summary>
 <ul>
 <li><a href="https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/">Genie 4: A new generation of world simulation — Google DeepMind</a></li>
 <li><a href="https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-genie-4/">We’re announcing Genie 4, our new world model for real-time ...</a></li>
-<li><a href="https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/">Google’s Genie 4 world model adds audio, more realistic ...</a></li>
-<li><a href="https://aicybr.com/blog/google-genie-4-world-model-gemini-agent-access-limitations">Google Genie 4 World Model: Real-Time Audio, Gemini Agents ...</a></li>
+<li><a href="https://deepmind.google/models/genie/">Genie 4 — Google DeepMind</a></li>
+<li><a href="https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/">Genie 4 : A new generation of world simulation — Google DeepMind</a></li>
+<li><a href="https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/">Google’s Genie 4 world model adds audio, more... | TechCrunch</a></li>
+<li><a href="https://www.youtube.com/watch?v=sFfPkUJd_Jk">Genie 4 : A new generation of world simulation - YouTube</a></li>
 
 </ul>
 </details>
 
-**标签**: `#world models`, `#Google DeepMind`, `#generative AI`, `#Gemini`, `#multimodal generation`
+**标签**: `#world-models`, `#generative-ai`, `#google-deepmind`, `#multimodal`, `#ai-research`
 
 ---
 
 <a id="item-tech-news-3"></a>
-### [Anthropic 确认内部系统遭安全研究人员访问](https://www.washingtonpost.com/technology/2026/10/26/researchers-cybersecurity-start-up-cathedral-got-inside-anthropic/) ⭐️ 8.0/10
+### [Google 提出睡眠框架助大模型持续学习](https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/) ⭐️ 8.0/10
 
-Anthropic 确认，网络安全初创公司 Cathedral 的研究人员利用第三方商业软件漏洞，访问了部分销售、人力和 IT 内部系统，触及会议记录、薪资与录用信息及 Slack 消息。据《华盛顿邮报》报道，Cathedral 的 AI 代理运行不足 12 小时便找到进入通路。Anthropic 表示，客户发给模型的消息、模型回复、AI 系统代码和模型权重均未被访问，监控系统在 Cathedral 报告前已发现部分活动并关闭了通路。Anthropic 认为 Cathedral 夸大了国家安全影响，且未完整披露其在系统内的活动；Cathedral 则称已遵循安全研究惯例，将数据访问限制在必要的最低程度。
-
-telegram · zaihuapd · 10月27日 20:43
-
-**「背景」** Anthropic 是开发 Claude 系列模型的主要 AI 实验室之一。此次事件涉及的安全初创公司 Cathedral 成立仅数月，其研究人员利用第三方商业软件漏洞进入 Anthropic 内部系统，AI 代理在不足 12 小时内便找到通路。事件发生之际，全球 AI 竞赛中的安全问题正受到越来越多的关注。
-
-**「影响」** 对使用第三方商业软件（尤其是行政与销售类工具）的企业而言，此次事件表明，AI 代理可在不足 12 小时内发现并利用其中的漏洞路径，因此第三方 SaaS 的权限边界与监控需要按更高对抗强度重新评估。Anthropic 称客户对话、AI 系统代码与模型权重未受影响，但销售、人力和 IT 系统及会议记录、薪资录用信息、Slack 消息被触及，相关内部数据的暴露范围仍取决于双方对访问程度的争议。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.washingtonpost.com/technology/2026/10/26/researchers-cybersecurity-start-up-cathedral-got-inside-anthropic/">Researchers at cybersecurity start-up Cathedral got inside ...</a></li>
-<li><a href="https://cybersecuritynews.com/anthropic-internal-system-breach/">Researchers Use AI Agents to Breach Anthropic’s Internal ...</a></li>
-<li><a href="https://www.aa.com.tr/en/world/months-old-us-startup-accessed-anthropic-s-sensitive-data-in-under-12-hours-report/4102515">Months-old US startup accessed Anthropic’s sensitive data in ...</a></li>
-<li><a href="https://decrypt.co/381860/ai-agents-hack-anthropic-business-systems-12-hours">AI Agents Found a Way Into Anthropic &#x27;s Business Systems ... - Decrypt</a></li>
-<li><a href="https://techstartups.com/2026/10/26/ex-doge-ai-cybersecurity-startup-cathedral-breaches-anthropics-internal-systems-in-under-12-hours-using-ai-agents-exposing-sensitive-employee-data/">Ex-DOGE AI cybersecurity startup Cathedral breaches... - Tech Startups</a></li>
-<li><a href="https://www.techjuice.pk/cathedral-ai-agents-breach-anthropic-internal-systems/">Cathedral AI Agents Breach Anthropic in Under 12 Hours</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI security`, `#Anthropic`, `#vulnerability disclosure`, `#AI agents`, `#cybersecurity`
-
----
-
-<a id="item-tech-news-4"></a>
-### [Google 提出睡眠框架，助大模型持续学习不遗忘](https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/) ⭐️ 8.0/10
-
-Google Research 提出“睡眠框架”，在持续学习中引入离线睡眠阶段，让大语言模型把短期上下文巩固为长期参数，以缓解灾难性遗忘。模型在主动交互与离线巩固之间周期切换。据该报道，在 1000 万 token 长上下文、持续翻译和数学推理等测试中，该框架超过 GPT-4、SFT 等基线。该消息来自 Telegram 的简要转述，缺少方法细节，相关基准结果尚未经独立验证。
+Google Research 提出一种“睡眠框架”，用于大语言模型的持续学习：模型在主动交互阶段与离线“睡眠”巩固阶段之间周期性切换，把短期上下文巩固为长期参数，以缓解灾难性遗忘。该框架在 1000 万 token 长上下文、持续翻译和数学推理等测试中，表现超过 GPT-4 与 SFT 等基线。目前公开信息仅为简短摘要，具体方法细节与评测数据尚待论文或技术报告进一步披露。
 
 telegram · zaihuapd · 10月28日 09:46
 
-**「背景」** 持续学习旨在让已部署的大模型不断吸收新事实并提升推理能力，但模型在更新参数时容易发生灾难性遗忘，即覆盖原有知识；若不更新参数，则受限于静态的知识截止时间。现代大模型主要依靠预训练和上下文学习（ICL）获得能力，而 ICL 带来的新信息只停留在短期上下文中，不会沉淀为长期参数。Google Research 提出的睡眠框架借鉴生物睡眠中的记忆巩固机制，在主动交互与离线巩固之间周期切换，尝试把短期上下文转化为长期参数。
+**「背景」** 持续学习指模型在部署后继续吸收新知识，而灾难性遗忘是其中的核心难题：模型学习新内容时容易覆盖旧知识。现有大语言模型主要依赖预训练和上下文学习（ICL）获取能力，但预训练带来静态的知识截止点，上下文学习又无法把新信息写入长期参数。Google Research 的睡眠框架借鉴生物睡眠中的记忆巩固机制，在主动交互之外加入离线“睡眠”阶段，将短期上下文转化为长期参数。
 
-**「影响」** 若该框架的离线巩固机制在后续研究中得到复现，持续学习场景下的大模型有望减少灾难性遗忘，从而降低频繁重训或全量微调的成本；但当前结果仅来自 Google Research 的初步测试，尚缺乏独立验证。
+**「影响」** 若该框架在更大规模模型和真实部署场景中复现，持续学习型应用将有望减少因反复微调或长上下文堆积导致的灾难性遗忘，把短期上下文知识更稳定地沉淀到模型参数中。不过目前结果来自 Google Research 的有限评测，实际收益与成本仍待独立验证。
 
 <details><summary>参考链接</summary>
 <ul>
 <li><a href="https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/">The sleep framework: A new way for LLMs to retain knowledge ...</a></li>
 <li><a href="https://todayforai.com/en/items/art-0a606c06-47a">Google Research Introduces &#x27;Sleep Phase&#x27; Framework to Fix LLM ...</a></li>
-<li><a href="https://www.turingpost.com/p/continual-learning-llms-ai-models-sleep">Continual Learning in LLMs: Why AI Models Need Sleep</a></li>
+<li><a href="https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/">The sleep framework: A new way for LLMs to retain knowledge ...</a></li>
+<li><a href="https://arxiv.org/html/2606.03979v1">Language Models Need Sleep: Learning to Self-Modify and ...</a></li>
+<li><a href="https://explainx.ai/blog/google-research-sleep-framework-continual-learning-llm-memory-consolidation-dreaming-2026">Google Sleep Framework: LLMs That Learn Without Forgetting ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#continual learning`, `#LLM`, `#catastrophic forgetting`, `#Google Research`, `#long context`
+**标签**: `#continual-learning`, `#llm`, `#catastrophic-forgetting`, `#google-research`, `#long-context`
+
+---
+
+<a id="item-tech-news-4"></a>
+### [Anthropic 招聘经理停用编程面试](https://felixrieseberg.com/hunger-beats-tenure-advice-for-junior-engineers/) ⭐️ 7.0/10
+
+Anthropic 招聘经理 Felix Rieseberg 本月停止在面试中考核编程题，理由是 Claude 在这类题目上已比候选人表现更好，写代码不再是有效的筛选标准。他认为随着执行成本下降，资历不再决定影响力，并建议初级工程师瞄准业务目标、借助新人视角，用一个周末做出单一原型来争取支持。他举例称，Claude Code 的图形界面由两名新人利用周末做出原型，约八天后发布了首个公开版本。需要说明的是，这目前只是单个招聘经理的个人做法与观点，而非经过验证的行业普遍趋势。
+
+telegram · zaihuapd · 10月28日 09:46
+
+**「背景」** Claude Code 是 Anthropic 推出的编程智能体工具，最初以命令行形式提供，后续扩展出图形界面版本。Felix Rieseberg 是 Anthropic 的工程负责人，负责 Claude Cowork 与 Claude Code Desktop 相关工作，因此他关于编程面试与初级工程师培养的判断来自一线 AI 编程工具的开发实践。随着大模型在代码生成与调试上的能力提升，业界开始讨论传统白板编程题是否仍能有效区分候选人能力。
+
+**「影响」** 若更多 AI 实验室效仿这一做法，初级工程师的招聘筛选标准可能从算法题能力转向业务目标理解与快速原型交付能力。不过，这目前仅是一位招聘经理的个人做法，尚不足以证明整个行业已发生转变。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://claudeworld.news/">Claude World: Claude and Anthropic News, Every Day</a></li>
+<li><a href="https://techegic.com/p/anthropic-claude-cowork-engineer-uses-ai">How Anthropic &#x27;s Claude Cowork Engineer Actually Uses AI</a></li>
+<li><a href="https://www.lennysnewsletter.com/p/how-i-ai-how-the-engineer-behind">How I AI: How the engineer behind Claude Cowork actually uses...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI hiring`, `#coding interviews`, `#Anthropic`, `#Claude Code`, `#junior engineers`
 
 ---
 
 <a id="item-tech-news-5"></a>
-### [长鑫存储拟量产 HBM3E，良率仅两三成](https://www.reuters.com/world/china/chinas-cxmt-start-advanced-ai-memory-production-despite-poor-yields-sources-say-2026-10-28/) ⭐️ 8.0/10
+### [调研：近八成企业 GPU 半数时间闲置，九成 AI 投入未过 ROI 审计](https://venturebeat.com/infrastructure/ai-bubble-update-79-of-companies-say-their-gpus-sit-idle-at-least-half-the-time-yet-most-plan-new-ai-platforms) ⭐️ 7.0/10
 
-据路透社援引两名知情人士报道，长鑫存储（CXMT）已向多家国内 AI 芯片设计公司送样 HBM3E，并计划在未来两个月内启动限量生产。但其良率仅为 20%至 30%，远低于 SK 海力士约 70%的水平。测试中长鑫 HBM3E 的性能更接近 SK 海力士上一代 HBM3，且预计售价高于海外同类产品。在美国出口管制导致国内 AI 内存严重短缺的背景下，长鑫仍选择推进这一计划。
+科技媒体 VentureBeat 发布的一项企业调研显示，受访企业中 79%的 GPU 平均利用率不足 50%，91%的 AI 相关投资从未经过财务部门正式的 ROI 审计。尽管如此，在技术焦虑与军备竞赛推动下，70%处于低利用率状态的企业仍计划在未来 12 个月内继续采购并部署新的 AI 计算平台。该调研将企业 AI 基础设施投入概括为“重囤积、轻回报”，指出预算扩张与可衡量商业回报之间存在明显脱节。报道未披露样本规模、调研方法与行业分布等细节，相关数据来自 VentureBeat 的二手汇总。
 
-telegram · zaihuapd · 10月28日 14:19
+telegram · zaihuapd · 10月28日 10:37
 
-**「背景」** HBM（高带宽内存）通过将多层 DRAM 芯片垂直堆叠并与 GPU 等 AI 加速器紧邻封装，提供远超传统内存的带宽，是训练和推理大模型的关键部件。HBM3E 是 HBM3 的增强版本，SK 海力士、三星等厂商已实现量产，而长鑫存储此前主要产品为 DDR4、LPDDR 等通用内存。在美国出口管制限制先进 AI 内存对华供应的背景下，国产 HBM 的进展受到关注。
+**「背景」** GPU 是训练和运行大模型的核心算力资源，企业通常以整机或云实例形式采购，其利用率直接决定单位算力的实际成本。随着生成式 AI 热潮推高 GPU 采购需求，业界长期关注“算力是否被有效使用”这一问题。VentureBeat 的这项数据来自其研究部门 VB Pulse 的持续调研，覆盖 385 名企业技术决策者，统计口径为 2026 年第三季度连续三个月。
 
-**「影响」** 对国内 AI 芯片设计公司而言，长鑫存储的 HBM3E 虽在良率和性能上落后，但提供了出口管制下稀缺的国产高带宽内存选项，短期内可能以高于海外同类产品的价格获得有限供应。
+**「影响」** 对已部署自有 GPU 的企业而言，这意味着大量算力资本可能长期处于低效占用状态，而缺乏正式 ROI 审计使采购决策难以依据实际回报校准；在 70% 低利用率企业仍计划未来 12 个月采购新平台的背景下，预算浪费与商业闭环缺失的风险可能进一步累积。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.cxmt.com/en/">About cxmt - cxmt</a></li>
-<li><a href="https://post.smzdm.com/p/aomd6rl6/">三星砍掉8层 HBM 3 E 全 力 押注12...</a></li>
-<li><a href="https://www.techtimes.com/articles/326159/20260901/cxmt-ships-hbm3e-ai-memory-alibaba-cambricon-us-export-controls-failed-stop-it.htm">CXMT Ships HBM3E AI Memory to Alibaba and Cambricon: US ...</a></li>
-<li><a href="https://www.qishuai-cn.com/news/Integrated_Circuits/Logic_Memory_ICs_7nm_sub_7nm_/US_Tightens_HBM_Equipment_Controls_on_China.html">US Tightens HBM Equipment Controls on China - qishuai-cn.com</a></li>
+<li><a href="https://venturebeat.com/infrastructure/ai-bubble-update-79-of-companies-say-their-gpus-sit-idle-at-least-half-the-time-yet-most-plan-new-ai-platforms">AI bubble update: 79% of companies say their GPUs sit idle at ...</a></li>
+<li><a href="https://saassentinel.com/news/79-of-companies-report-gpus-idle-half-the-time-yet-most-plan-new-ai-platforms">79% of Companies Report GPUs Idle Half the Time, Yet Most ...</a></li>
+<li><a href="https://news.hamidun.com/en/news/14546/venturebeat-79-of-companies-leave-gpus-idle-at-least-half-th">VentureBeat: 79% of Companies Leave GPUs Idle at Least Half ...</a></li>
+<li><a href="https://newclawtimes.com/articles/enterprise-gpu-underutilization-86-percent-agentwashing-venturebeat-survey/">86% of Enterprise GPUs Run at Half Capacity or Less While AI Agent...</a></li>
+<li><a href="https://www.v2solutions.com/blogs/gpu-underutilization-enterprise-ai-cost/">GPU Underutilization : The Hidden Cost in Enterprise AI</a></li>
 
 </ul>
 </details>
 
-**标签**: `#HBM3E`, `#CXMT`, `#semiconductor manufacturing`, `#AI hardware`, `#export controls`
+**标签**: `#AI infrastructure`, `#GPU utilization`, `#enterprise AI`, `#ROI`, `#industry survey`
 
 ---
 
 <a id="item-tech-news-6"></a>
-### [微软修复安卓版 Authenticator 高危令牌窃取漏洞](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-80097) ⭐️ 7.0/10
+### [长鑫存储拟量产 HBM3E，良率仅两三成](https://www.reuters.com/world/china/chinas-cxmt-start-advanced-ai-memory-production-despite-poor-yields-sources-say-2026-10-28/) ⭐️ 7.0/10
 
-微软修复了 Android 版 Microsoft Authenticator 中的一个高危漏洞（CVE-2026-80097），修复版本为 6.2606.4246。该漏洞允许已安装并运行的恶意应用在无需申请安卓权限的情况下，获取用户已登录工作账户的令牌。研究人员称攻击无需用户进一步操作，而微软认为攻击者需诱使用户完成身份验证。微软在首次发布公告时表示，未发现该漏洞被实际利用。
+两名知情人士称，长鑫存储（CXMT）已向多家国内 AI 芯片设计公司送样 HBM3E，并计划在未来两个月内启动限量生产。但其良率仅 20%至 30%，远低于 SK 海力士约 70%的水平。由于美国出口管制下国内 AI 内存严重短缺，长鑫仍选择推进量产。测试中其 HBM3E 性能更接近 SK 海力士上一代 HBM3，且预计售价高于海外同类产品。
 
-telegram · zaihuapd · 10月27日 20:04
+telegram · zaihuapd · 10月28日 14:19
 
-**「背景」** Microsoft Authenticator 是微软提供的多因素身份验证应用，安卓版通过应用内的“broker”组件处理工作账户的登录与令牌管理。此次漏洞编号为 CVE-2026-80097，CVSS 评分为 8.6，属于高危级别，成因是该 broker 组件存在身份验证不当问题。截至 2026 年 10 月 26 日，该漏洞未被列入美国 CISA 的已知被利用漏洞目录。
+**「背景」** HBM（高带宽内存）通过堆叠多层 DRAM 裸片并与 AI 处理器紧邻封装，提供远高于常规内存的带宽，是训练和推理加速卡的关键配套器件。HBM3E 是 HBM3 的增强版本，目前主要由 SK 海力士等少数厂商量产供应。在美国出口管制限制先进 AI 内存对华供应的背景下，长鑫存储作为中国最大的 DRAM 制造商，推进 HBM3E 被视为填补国内供给缺口的关键一步。
 
-**「影响」** 使用 Android 版 Microsoft Authenticator 登录工作账户的企业用户面临令牌被本机恶意应用窃取的风险，应尽快升级至 6.2606.4246 版本。
+**「影响」** 对受美国出口管制影响的中国 AI 芯片设计公司而言，长鑫存储的低良率 HBM3E 即便性能仅接近上一代 HBM3 且售价更高，仍可能成为短期内可获得的国产高带宽内存选项。不过 20% 至 30% 的良率意味着初期供应规模有限，实际替代能力仍待观察。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html">Microsoft Authenticator Flaw Let Permissionless Android Apps Steal...</a></li>
-<li><a href="https://cybersecuritynews.com/microsoft-authenticator-flaw/">Microsoft Authenticator Flaw Lets Malicious Android Apps Steal...</a></li>
-<li><a href="https://cybersecuritynews.com/microsoft-authenticator-flaw/">Microsoft Authenticator Flaw Lets Malicious Android Apps ...</a></li>
-<li><a href="https://securityarsenal.com/blog/cve-2026-80097-microsoft-authenticator-for-android-malicious-apps-stealing-work-account-tokens">CVE-2026-80097: Microsoft Authenticator for Android ...</a></li>
+<li><a href="https://finance.yahoo.com/technology/ai/articles/china-cxmt-plans-advanced-ai-061655888.html?fr=sycsrp_catchall">China’s CXMT plans advanced AI memory production despite low ...</a></li>
+<li><a href="https://www.reuters.com/world/china/chinas-cxmt-start-advanced-ai-memory-production-despite-poor-yields-sources-say-2026-10-28/">EXCLUSIVE: China&#x27;s CXMT to start advanced AI memory ...</a></li>
+<li><a href="https://www.trendforce.com/news/2026/10/28/news-cxmt-reportedly-ships-hbm3e-samples-eyes-production-within-2-months-despite-20-30-yields/">[News] CXMT Reportedly Ships HBM3E Samples, Eyes Production ...</a></li>
+<li><a href="https://www.reuters.com/world/china/chinas-cxmt-start-advanced-ai-memory-production-despite-poor-yields-sources-say-2026-10-28/">EXCLUSIVE: China&#x27;s CXMT to start advanced AI memory ...</a></li>
+<li><a href="https://www.trendforce.com/news/2026/10/28/news-cxmt-reportedly-ships-hbm3e-samples-eyes-production-within-2-months-despite-20-30-yields/">[News] CXMT Reportedly Ships HBM3E Samples, Eyes Production ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#security`, `#vulnerability`, `#authentication`, `#android`, `#microsoft`
-
----
-
-<a id="item-tech-news-7"></a>
-### [苹果入门款 MacBook Pro 升级 M6 芯片，10 月 28 日预售](https://www.theverge.com/tech/1017664/apple-macbook-pro-m6-processor-upgrade) ⭐️ 7.0/10
-
-苹果更新了入门级 14 英寸 MacBook Pro，搭载其首款 2nm 制程的 M6 芯片，起售价 1999 美元、配备 16 GB 内存，与去年 M5 款持平。M6 的 CPU 从 10 核增至 12 核，苹果称多线程性能较前代最高提升 1.2 倍，并配备双 16 核神经网络引擎和 12 核 GPU，功耗也更低。该机型将于 10 月 28 日开启预售，预计 11 月 6 日开始发货。同时，苹果还推出了搭载 M6 芯片的新款 24 英寸 iMac，美国售价 1499 美元起，同样于 10 月 28 日开放预订、11 月 6 日上市。上述性能数据均来自苹果官方说法，尚无独立评测或基准测试佐证。
-
-telegram · zaihuapd · 10月27日 21:32
-
-**「背景」** 苹果自 2020 年起用自研 Apple Silicon 芯片替代英特尔处理器，此后按年迭代 M 系列芯片。制程从 5nm 推进到 3nm 后，M6 成为苹果首款采用 2nm 工艺的芯片，通常意味着在同等面积下可集成更多晶体管并改善能效。
-
-**「影响」** 对计划购买入门级 14 英寸 MacBook Pro 的用户而言，M6 款在价格不变的情况下获得了更多 CPU 核心和双神经网络引擎，可能提升多线程与本地 AI 任务的处理能力，但实际收益仍需等待独立评测验证。
-
-**标签**: `#apple-silicon`, `#hardware`, `#macbook-pro`, `#2nm-process`, `#consumer-tech`
+**标签**: `#HBM3E`, `#CXMT`, `#AI memory`, `#export controls`, `#semiconductor manufacturing`
 
 ---
