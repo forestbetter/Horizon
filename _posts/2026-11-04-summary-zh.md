@@ -5,198 +5,202 @@ date: 2026-11-04
 lang: zh
 ---
 
-> 从 24 条内容中筛选出 7 条重要资讯。
+> 从 25 条内容中筛选出 7 条重要资讯。
 
 ---
 
 **科技财经**
-1. [苹果财报：硬件业务表现强劲，内存挑战犹存](#item-tech-finance-1) ⭐️ 5.0/10
-2. [OpenAI 称 ChatGPT 搜索规模约为谷歌的 20%](#item-tech-finance-2) ⭐️ 5.0/10
+1. [OpenAI 称 ChatGPT 搜索规模约为谷歌两成，2.5 亿人用语音与 ChatGPT 对话](#item-tech-finance-1) ⭐️ 5.0/10
 
 **财经新闻**
-1. [韩国拟拨款 4.7 万亿韩元开发主权 AI 模型](#item-finance-news-1) ⭐️ 7.0/10
-2. [韩国消费者团体就特斯拉 FSD 宣传提起投诉](#item-finance-news-2) ⭐️ 7.0/10
+1. [民主党据报赢下 2026 年美国中期选举两院](#item-finance-news-1) ⭐️ 9.0/10
+2. [韩国拟拨款 4.7 万亿韩元开发主权 AI 模型](#item-finance-news-2) ⭐️ 7.0/10
+3. [甲骨文取消与腾讯约 70 亿美元 AI 芯片租赁协议](#item-finance-news-3) ⭐️ 7.0/10
 
 **科技新闻**
-1. [传英伟达限制数据中心中国企业业务占比至 49%](#item-tech-news-1) ⭐️ 7.0/10
-2. [NIKKE PC 启动器被指供应链投毒植入远控](#item-tech-news-2) ⭐️ 7.0/10
-3. [腾讯混元 Hy4 发布：首次引入视觉与电脑操作能力](#item-tech-news-3) ⭐️ 7.0/10
+1. [NIKKE PC 启动器被指遭供应链投毒植入远控](#item-tech-news-1) ⭐️ 7.0/10
+2. [腾讯混元 Hy4 发布：首次引入视觉能力](#item-tech-news-2) ⭐️ 7.0/10
+3. [Anthropic 开源 FlashProve 验证 AI 模型身份](#item-tech-news-3) ⭐️ 7.0/10
 
 ---
 
 ## 科技财经
 
 <a id="item-tech-finance-1"></a>
-### [苹果财报：硬件业务表现强劲，内存挑战犹存](https://stratechery.com/2026/apple-earnings-memory-problems-the-hardware-company-regression/) ⭐️ 5.0/10
+### [OpenAI 称 ChatGPT 搜索规模约为谷歌两成，2.5 亿人用语音与 ChatGPT 对话](https://www.bigtechnology.com/p/openai-chatgpt-search-is-about-20) ⭐️ 5.0/10
 
-Stratechery 评论文章指出，苹果最新财报显示其硬件业务表现好于以往，即便面临内存方面的挑战；文章同时提出疑问：软件业务的故事对苹果是助力还是拖累。
-
-rss · Stratechery · 11月3日 19:00
-
-**「背景」** 苹果于周一公布 2026 财年第四季度财报，营收 1144.8 亿美元、每股收益 2.10 美元，均高于彭博分析师共识预期的 1134.6 亿美元和 2 美元。这是约翰·特努斯出任 CEO 后的首个财季。与此同时，全球存储芯片短缺可能迫使苹果削减 2026 年硬件出货量，iPhone 18 系列或面临供应受限。
-
-**「影响」** 据 TechCrunch 报道，苹果表示内存芯片成本空前上涨且将继续攀升，其库存已升至 145 亿美元；若成本压力持续，未来设备定价可能受到影响。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.cnbc.com/2026/11/02/apple-aapl-q4-2026-earnings-live-updates.html">Apple Q4 2026 earnings live updates: Ternus&#x27; first call</a></li>
-<li><a href="https://www.ithinkdiff.com/apple-2026-hardware-shipments-memory-shortage/">iPhone 18 May Face Shortages Amid Apple Memory Crisis</a></li>
-<li><a href="https://finance.yahoo.com/markets/stocks/live/apple-earnings-live-apple-beats-q4-estimates-on-strong-iphone-sales-but-misses-on-china-revenue-221806957.html">Apple reported its Q4 earnings Monday.</a></li>
-<li><a href="https://techcrunch.com/2026/11/02/apples-inventory-surges-154-as-memory-chip-costs-climb/">Apple’s inventory surges 154% as memory chip costs climb</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Apple`, `#earnings`, `#hardware`, `#memory`, `#technology`
-
----
-
-<a id="item-tech-finance-2"></a>
-### [OpenAI 称 ChatGPT 搜索规模约为谷歌的 20%](https://www.bigtechnology.com/p/openai-chatgpt-search-is-about-20) ⭐️ 5.0/10
-
-OpenAI ChatGPT 消费者产品负责人亚当·弗莱表示，ChatGPT 搜索的规模约为谷歌搜索的 20%，并有约 2.5 亿人通过语音与 ChatGPT 对话。他还提到公司计划将 Chat 与 Work 两款产品合并。
+OpenAI 的 ChatGPT 消费产品负责人 Adam Fry 在采访中表示，ChatGPT 搜索的规模约为谷歌搜索的 20%，并有约 2.5 亿人通过语音与 ChatGPT 对话。他还提到公司计划将 Chat 与 Work 两款产品合并。
 
 rss · Big Technology · 11月3日 23:00
 
-**「背景」** OpenAI 的 ChatGPT 消费产品负责人 Adam Fry 在发布会上表示，ChatGPT 处理的搜索查询量约为谷歌的五分之一；其语音模式（含听写和与 ChatGPT 对话）合计周活跃用户达 2.5 亿。
+**「背景」** 这些数字来自 OpenAI 的 ChatGPT 消费产品负责人 Adam Fry，他在纽约一场由 OpenAI 主办的活动上接受 Big Technology 采访时作出上述表示，相关报道于 2026 年 11 月 3 日发布。
+
+**「影响」** 若 Chat 与 Work 合并，使用 ChatGPT 的企业员工将在一个产品内同时处理个人对话与工作内容，可能改变企业采购和内部数据管理方式；目前这仍是 OpenAI 公布的计划，尚未落地。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.bigtechnology.com/p/openai-chatgpt-search-is-about-20">OpenAI : ChatGPT Search Is About 20 % of Google ’s, 250 Million ...</a></li>
-<li><a href="https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search">OpenAI says ChatGPT is catching up to Google in search | The Verge</a></li>
+<li><a href="https://explainx.ai/blog/chatgpt-1-2-billion-weekly-users-search-20-percent-of-google-adam-fry-voice-250-million-claimed-vs-verified-2026">ChatGPT 1.2B Weekly Users: Search at 20% of Google ...</a></li>
+<li><a href="https://www.bigtechnology.com/p/openai-chatgpt-search-is-about-20">OpenAI: ChatGPT Search Is About 20% of Google’s, 250 Million ...</a></li>
+<li><a href="https://www.bigtechnology.com/p/openai-chatgpt-search-is-about-20">OpenAI: ChatGPT Search Is About 20% of Google’s, 250 Million ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#OpenAI`, `#ChatGPT`, `#AI products`, `#search`, `#technology`
+**标签**: `#OpenAI`, `#ChatGPT`, `#search competition`, `#AI products`, `#Google`
 
 ---
 
 ## 财经新闻
 
 <a id="item-finance-news-1"></a>
+### [民主党据报赢下 2026 年美国中期选举两院](https://apnews.com/live/midterm-election-2026) ⭐️ 9.0/10
+
+据美联社和 CBS 新闻报道，美国民主党在 2026 年中期选举中赢下众议院并夺回参议院，在堪萨斯、艾奥瓦、得州、俄亥俄、缅因、北卡、南卡等至少 7 个参议院席位获胜。特朗普在采访中表示祝贺民主党获胜，并称期待合作。
+
+telegram · zaihuapd · 11月4日 16:00
+
+**「背景」** 美国中期选举在总统四年任期的第二年举行，国会全部众议院席位和约三分之一参议院席位改选，因此常被视为对在任总统的民意检验。此次民主党同时拿下参众两院，意味着特朗普后两年施政将面对一个能阻挡立法、否决人事任命并调查其政府的国会。
+
+**「影响」** 民主党同时掌控参众两院后，将能够阻挡特朗普政府的立法议程、否决其人事任命，并对行政部门展开调查；据 CNBC 报道，专家认为民主党多数还可能加强对特朗普外交政策的审视。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/2026_United_States_elections">2026 United States elections - Wikipedia</a></li>
+<li><a href="https://www.theguardian.com/us-news/ng-interactive/2026/nov/03/midterm-elections-full-results-senate-house-governor-races">US midterm elections 2026 : live results from Senate , House and...</a></li>
+<li><a href="https://www.cnbc.com/2026/11/04/democrats-congress-trump-foreign-policy.html">Democrats win Congress , challenging Trump foreign policy</a></li>
+<li><a href="https://www.nbcnews.com/politics/2026-election/live-blog/midterm-election-results-2026-news-trump-live-updates-rcna605763">Midterms 2026 highlights: Blue wave sweeps over Congress</a></li>
+
+</ul>
+</details>
+
+**标签**: `#US midterm elections`, `#Congress control`, `#Trump administration`, `#fiscal policy outlook`, `#US politics`
+
+---
+
+<a id="item-finance-news-2"></a>
 ### [韩国拟拨款 4.7 万亿韩元开发主权 AI 模型](https://mp.weixin.qq.com/s/EldaEmYwi1eXuqkR2il-2A) ⭐️ 7.0/10
 
 韩国总统李在明宣布拨款 4.7 万亿韩元，用于开发力争达到全球最高性能的主权 AI 模型，该计划被纳入韩国史上规模最大的政府预算案。
 
 telegram · zaihuapd · 11月4日 11:07
 
-**「背景」** 韩国总统李在明于 2026 年 11 月 2 日在国会发表 2027 年预算演说，提出将政府总支出提高 12.8%至 820.9 万亿韩元，其中半导体、物理 AI（指与机器人等实体设备结合的 AI）和 AI 数据中心投资达 21.3 万亿韩元，接近 2026 年水平的两倍。
+**「背景」** 韩国总统李在明宣布的这项拨款被纳入 2027 年政府预算案，该预算案总支出拟提高 12.8%至 820.9 万亿韩元，是韩国有史以来规模最大的政府预算案。
 
-**「影响」** 若该预算案获国会通过，韩国半导体、物理 AI 与 AI 数据中心相关企业将成为这 21.3 万亿韩元投资的主要承接方；其中物理 AI 支出拟从今年的 9000 亿韩元增至明年的 3.1 万亿韩元。
+**「影响」** 若该预算案获国会通过，韩国半导体、物理 AI 与 AI 数据中心相关企业将成为 2027 年约 21.3 万亿韩元（约合 160 亿美元）政府投资的直接受益方；该数字接近今年水平的两倍。
 
 <details><summary>参考链接</summary>
 <ul>
 <li><a href="https://www.cnbc.com/2026/11/02/south-korea-ai-spending-budget.html">South Korea targets world-leading sovereign AI model - CNBC</a></li>
-<li><a href="https://www.reuters.com/world/asia-pacific/south-koreas-lee-vows-make-bold-ai-investment-record-budget-push-2026-11-02/">South Korea&#x27;s Lee vows to make bold AI investment in record ...</a></li>
-<li><a href="https://aistockwire.com/blog/korea-2027-ai-budget-21-3-trillion-won-lee-jae-myung-november-2026">Korea&#x27;s 2027 AI budget: 21.3 trillion won, nearly double</a></li>
-<li><a href="https://www.ajupress.com/view/20260916101908823">Korean robots may lag, but stocks are flying | Aju Press</a></li>
+<li><a href="https://tech-insider.org/south-korea-2027-budget-ai-chips-21-3-trillion-won-2026/">South Korea 2027 Budget: AI, Chips Get 21.3T Won [2026]</a></li>
+<li><a href="https://www.straitstimes.com/asia/east-asia/south-korea-to-double-spending-on-ai-and-chips-in-2027">South Korea to double spending on AI and chips in 2027</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI policy`, `#South Korea`, `#government budget`, `#semiconductors`, `#industrial policy`
+**标签**: `#South Korea`, `#AI policy`, `#government budget`, `#semiconductors`, `#AI infrastructure`
 
 ---
 
-<a id="item-finance-news-2"></a>
-### [韩国消费者团体就特斯拉 FSD 宣传提起投诉](https://www.reuters.com/business/autos-transportation/tesla-misled-south-korean-customers-about-automated-driving-tech-consumer-group-2026-11-04/) ⭐️ 7.0/10
+<a id="item-finance-news-3"></a>
+### [甲骨文取消与腾讯约 70 亿美元 AI 芯片租赁协议](https://www.tradingview.com/news/seekingalpha:e51e68f4d094b:0-oracle-cancels-7b-ai-chip-lease-with-tencent-amid-us-concerns-ft/) ⭐️ 7.0/10
 
-韩国消费者团体“消费者主权市民会议”宣布，将于 5 日向韩国公平交易委员会投诉特斯拉，指控其误导数万名韩国消费者：特斯拉推销的 FSD 辅助驾驶软件一次性收费 904.3 万韩元，但在韩国约 80%的特斯拉车辆上无法合法使用。该团体要求公平交易委员会下达临时禁令，禁止特斯拉继续向无法合法使用的车型推销该软件，并处以行政罚款。
+甲骨文取消了与腾讯价值约 70 亿美元的五年期 AI 芯片租赁协议，该协议原计划让腾讯租用约 10 万枚先进 AI 芯片，并通过甲骨文在东南亚的数据中心获取这些芯片。据报道，美国官员曾就这笔交易向甲骨文表达担忧，随后甲骨文承受了特朗普政府的压力。
 
-telegram · zaihuapd · 11月4日 12:30
+telegram · zaihuapd · 11月4日 19:01
 
-**「背景」** 特斯拉的 FSD（完全自动驾驶辅助功能）需通过软件付费开通，其合法上路通常取决于当地监管审批。该消费者团体称，特斯拉韩国负责人已承认尚未正式向韩国国土交通部申请 FSD 测试。
+**「背景」** 据《金融时报》报道，腾讯今年签署了这项为期五年的租赁协议，计划通过甲骨文在东南亚的数据中心租用约 10 万枚先进 AI 芯片，以获取其在中国境内无法使用的芯片。
 
-**「影响」** 若公平交易委员会受理并下达临时禁令，特斯拉在韩国将不能再向无法合法使用 FSD 的车型推销该软件；目前尚不清楚有多少车主已在不适配车辆上购买该功能。
+**「影响」** 若交易确已取消，腾讯将无法按原计划通过甲骨文在东南亚的数据中心获得约 10 万枚先进 AI 芯片，其相关 AI 模型与智能体工具的开发算力来源需另寻替代；甲骨文则失去这笔约 70 亿美元的五年期租赁收入。上述影响基于媒体报道，尚未获双方独立确认。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://money.usnews.com/investing/news/articles/2026-11-03/exclusive-tesla-misled-south-korean-customers-about-automated-driving-tech-consumer-group-alleges">Exclusive-Tesla Misled South Korean Customers About Automated-Driving ...</a></li>
-<li><a href="https://www.newsnationnow.com/business/tech/tesla-misled-customers-automated-driving-south-korea-alleges/">Tesla misled customers on automated driving, S. Korea group alleges</a></li>
+<li><a href="https://www.rkjdev.com/blog/tencent-oracle-7-billion-ai-chip-deal/">Tencent Signs $ 7 B Oracle AI Chip Lease Deal | rkj dev</a></li>
+<li><a href="https://thefoxdaily.com/business/tencent-reportedly-leases-100000-ai-chips-from-oracle/21884/">Tencent Reportedly Leases 100,000 AI Chips From Oracle</a></li>
+<li><a href="https://updater.news/tr/financial-times-tencent-oracle-dan-100-bin-yapay-zeka-cipi-kiraladi/">Financial Times : Tencent , Oracle &#x27;dan 100 bin yapay... - Updater News</a></li>
+<li><a href="https://xenospectrum.com/en/tencent-oracle-ai-chip-lease-prepayments/">Tencent Reportedly Leases About 100,000 AI Chips From Oracle in...</a></li>
+<li><a href="https://www.benzinga.com/markets/tech/26/10/62102026/oracle-lands-7-billion-tencent-ai-deal-chinese-tech-giant-to-access-100000-advanced-chips-through-southeast-asia-data-centers-report">Oracle Lands $7 Billion Tencent AI Deal — Chinese Tech... - Benzinga</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Tesla`, `#FSD`, `#South Korea`, `#consumer protection`, `#autonomous driving regulation`
+**标签**: `#AI chips`, `#Oracle`, `#Tencent`, `#export controls`, `#data centers`
 
 ---
 
 ## 科技新闻
 
 <a id="item-tech-news-1"></a>
-### [传英伟达限制数据中心中国企业业务占比至 49%](https://www.tomshardware.com/tech-industry/data-centers/nvidia-tells-data-center-operators-to-limit-business-from-chinese-customers-with-new-global-restrictions-report-claims-allegedly-restricted-to-49-percent-of-the-total-ensuring-51-percent-are-non-chinese-outfits) ⭐️ 7.0/10
+### [NIKKE PC 启动器被指遭供应链投毒植入远控](https://github.com/WormW/nikke_malware_analysis) ⭐️ 7.0/10
 
-据《金融时报》报道并经 Tom&\#x27;s Hardware 转述，英伟达已要求全球数据中心运营商将来自中国企业的业务占比限制在 49% 以内，以确保至少 51% 的业务来自非中国企业。该要求适用于全球范围的数据中心，且仅针对新签和未来合同，不影响已签订的租赁协议。报道称新规由英伟达销售团队和区域团队口头传达，未见正式文件，因此消息尚未得到正式确认。英伟达对此表示，美国芯片是美国模型与应用厂商参与全球竞争的基础，现行美国政策鼓励云服务商基于美国基础设施接受各地业务。
+玩家与独立研究者分析称，《胜利女神：NIKKE》PC 启动器所加载的官方 CDN 文件被植入加载器，会下载并运行远控木马。该程序包含 19 条命令，可执行任意命令、截屏，并窃取开发者与 AI 工具凭据以及 28 个钱包扩展的数据。Level Infinite 已于 11 月 3 日替换两个被修改的文件，但尚未公开回应。玩家可在 debug.log 中搜索 k2f\_chan 进行自查，相关建议是暂不启动 PC 版。上述细节来自独立研究者与玩家分析，厂商尚未公开确认，仍属未经验证的说法。
 
-telegram · zaihuapd · 11月4日 00:19
+telegram · zaihuapd · 11月4日 15:00
 
-**「背景」** 英伟达的数据中心业务长期受美国出口管制政策约束，其对华芯片销售已被多轮限制收紧。此次报道中的要求延续了这一趋势，将限制范围从芯片出口延伸到数据中心运营商的客户结构，即通过约束采购方业务构成来间接影响中国企业的算力获取。报道称该要求以口头方式传达、无正式文件，且仅适用于新签合同，因此其实际约束力和执行范围仍不明确。
+**「背景」** 《胜利女神：NIKKE》是由韩国开发商 Shift Up 制作、Level Infinite 发行的移动与 PC 端游戏，其 PC 版通过启动器从官方 CDN 拉取脚本等资源文件运行。供应链投毒指攻击者篡改上游分发的合法文件，使下游用户在正常更新或启动时被动加载恶意代码，此类攻击因绕过用户主动下载环节而难以察觉。据社区与第三方报道，本次事件中 CDN 上的 JavaScript 文件被修改，玩家可通过检查安装目录下 Launcher/intl\_service/debug.log 是否出现 k2f\_chan 字符串来判断代理是否已执行。
 
-**「影响」** 若该口头要求属实，全球数据中心运营商在签署新合同时将需把中国企业客户占比控制在 49%以内，可能迫使依赖英伟达算力的中国 AI 与云服务企业转向其他供应渠道或调整海外算力布局。由于该限制仅以口头传达、无正式文件，且不涉及已签租赁协议，其实际执行力度和适用范围仍存在不确定性。
+**「影响」** 若指控属实，近期启动过 NIKKE PC 版的玩家与开发者应视为凭据可能已泄露，需尽快轮换开发者及 AI 工具密钥、检查浏览器钱包扩展并排查 debug.log 中的 k2f\_chan 标记；在厂商公开确认前，相关细节仍属未经证实的指控。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.tomshardware.com/tech-industry/data-centers/nvidia-tells-data-center-operators-to-limit-business-from-chinese-customers-with-new-global-restrictions-report-claims-allegedly-restricted-to-49-percent-of-the-total-ensuring-51-percent-are-non-chinese-outfits">Nvidia tells data center operators to limit business from Chinese ...</a></li>
-<li><a href="https://clashreport.com/world/articles/nvidia-orders-data-center-partners-to-cut-back-on-chinese-customers-chektuylv6">Nvidia Orders Data Center Partners to Cut Back on Chinese ...</a></li>
-<li><a href="https://www.ft.com/content/6f806f6e-61c1-4b8d-9694-90d7328a7b54?syn-25a6b1a6=1">Nvidia AI chips worth $1bn smuggled to China after Trump export ...</a></li>
-<li><a href="https://qz.com/nvidia-q1-2025-earnings-stock-jensen-huang-ai-chips-1851782018">Nvidia &#x27;s $43 billion question: Can Jensen Huang keep the AI hype train...</a></li>
+<li><a href="https://nikke.gg/how-to-check-if-your-pc-is-safe-from-nikke-infection/">Nikke Hacked? How to check if your PC is safe from Nikke ...</a></li>
+<li><a href="https://x.com/i/trending/2117673541055471930">Nikke PC Launcher Suspected in Supply Chain Malware Attack</a></li>
+<li><a href="https://www.invenglobal.com/articles/28122/is-my-pc-infected-nikke-launcher-tampering-concerns-from-attack-vector-to-remediation">&#x27;Is My PC Infected?&#x27; Nikke Launcher Tampering Concerns: From ...</a></li>
+<li><a href="https://github.com/whykusanagi/nikke_malware">GitHub - whykusanagi/ nikke _ malware · GitHub</a></li>
+<li><a href="https://gist.github.com/HyperATRI/4d78a04c1bb4f043c0cb53f17cf91bc0">NIKKE PC launcher compromise ( Nov 2026): Level Infinite CDN files ...</a></li>
+<li><a href="https://nikke.gg/how-to-check-if-your-pc-is-safe-from-nikke-infection/">How to check if your PC is safe from Nikke ... - Nikke : Goddess of Victory</a></li>
 
 </ul>
 </details>
 
-**标签**: `#nvidia`, `#data-centers`, `#export-controls`, `#ai-infrastructure`, `#tech-industry`
+**标签**: `#supply-chain-security`, `#malware`, `#credential-theft`, `#gaming`, `#incident-response`
 
 ---
 
 <a id="item-tech-news-2"></a>
-### [NIKKE PC 启动器被指供应链投毒植入远控](https://github.com/WormW/nikke_malware_analysis) ⭐️ 7.0/10
+### [腾讯混元 Hy4 发布：首次引入视觉能力](https://mp.weixin.qq.com/s/JrQeiqx3PXBDSGish2IzwA) ⭐️ 7.0/10
 
-玩家与独立研究者分析称，《胜利女神：NIKKE》PC 启动器所加载的官方 CDN 文件被植入加载器，会下载并运行远控木马。该程序包含 19 条命令，可执行任意命令、截屏，并窃取开发者与 AI 工具凭据以及 28 个钱包扩展数据。Level Infinite 已于 11 月 3 日替换两个被改文件，但尚未公开回应。玩家可在 debug.log 中搜索 k2f\_chan 进行自查，相关分析建议暂不启动 PC 版。上述指控目前来自玩家和独立研究者，尚无厂商公开确认，影响范围仍不确定。
-
-telegram · zaihuapd · 11月4日 15:00
-
-**「背景」** 游戏启动器通常从厂商 CDN 动态加载 JavaScript 等脚本文件，一旦这些文件被篡改，攻击者无需改动安装包即可向所有启动客户端的玩家投递恶意代码，这类风险属于典型的软件供应链攻击。据外部分析记录，NIKKE PC 启动器相关官方 CDN 脚本自 2026 年 9 月 27 日起疑似被植入攻击者代码，10 月 23 日及之后打开启动器的玩家可能已暴露。目前相关结论主要来自 NGA 玩家与 Discord 社区成员的独立分析，厂商尚未发布正式公告。
-
-**「影响」** 据分析，2026 年 10 月 24 日起启动过 NIKKE PC 启动器的用户可能暴露于该远控木马，受影响者应检查 debug.log 中的 k2f\_chan 并轮换 SSH 密钥、Git 凭据及钱包扩展相关密钥；在 Level Infinite 公开确认前，实际感染范围仍不确定。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://gist.github.com/MotherSphere/d6c049a09ba8ac3085c51ee9df24a4e5">NIKKE PC launcher compromise (Nov 2026): Level Infinite CDN files...</a></li>
-<li><a href="https://nikke.gg/how-to-check-if-your-pc-is-safe-from-nikke-infection/">How to check if your PC is safe from Nikke ... - Nikke : Goddess of Victory</a></li>
-<li><a href="https://game8.co/articles/latest/nikke-pc-launcher-files-were-reportedly-compromised-for-over-a-month-to-spread-malware">NIKKE PC Launcher Files Were Reportedly Compromised for Over...</a></li>
-<li><a href="https://nikke.gg/how-to-check-if-your-pc-is-safe-from-nikke-infection/">How to check if your PC is safe from Nikke infection</a></li>
-<li><a href="https://github.com/whykusanagi/nikke_malware">GitHub - whykusanagi/nikke_malware</a></li>
-<li><a href="https://automaton-media.com/en/news/goddess-of-victory-nikke-pc-launcher-reportedly-compromised-in-supply-chain-attack-no-official-confirmation-from-developers-yet/">Goddess of Victory: NIKKE PC launcher reportedly compromised ...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#supply-chain-security`, `#malware`, `#credential-theft`, `#game-launcher`, `#incident-response`
-
----
-
-<a id="item-tech-news-3"></a>
-### [腾讯混元 Hy4 发布：首次引入视觉与电脑操作能力](https://mp.weixin.qq.com/s/JrQeiqx3PXBDSGish2IzwA) ⭐️ 7.0/10
-
-腾讯混元于 11 月 4 日正式发布 Hy4，首次为该系列引入视觉能力，并支持电脑操作，同时针对 Blender、CAD 等专业软件进行了专项训练。在 579 个真实金融任务的众测中，Hy4 以 3.04 分位居开源模型第一，幻觉率从 15.76% 降至 5.45%。模型已在腾讯云和 OpenRouter 上线，API 价格保持不变。官方计划开源模型权重，并将在近期推出 Hy4 flash。上述基准与幻觉率数据来自官方转述，尚缺少独立验证。
+腾讯混元于 11 月 4 日正式发布 Hy4，这是该系列首次引入视觉能力，并支持电脑操作，同时针对 Blender、CAD 等专业软件进行了专项训练。官方称在 579 个真实金融任务的众测中，Hy4 以 3.04 分位居开源模型第一，幻觉率从 15.76% 降至 5.45%。模型已在腾讯云和 OpenRouter 上线，API 价格保持不变，官方计划开源权重并近期推出 Hy4 flash。上述性能数据均为腾讯自报，尚未经过独立验证。
 
 telegram · zaihuapd · 11月4日 15:33
 
-**「背景」** 腾讯混元此前在 2025 年 8 月发布并开源了新一代大语言模型 Hy4 preview，总参数 770B、激活参数 49B，上下文长度突破 1M。此次 Hy4 正式版在此基础上首次引入视觉理解能力，并扩展出电脑操作与专业软件专项训练等能力。官方还计划近期推出主打性价比的 Hy4 flash，在继承 Hy4 视觉、Agent 等能力的基础上通过模型与产品深度协同设计快速迭代。
+**「背景」** 腾讯混元此前已于今年 8 月发布并开源新一代大语言模型 Hy4 preview，总参数 770B、激活参数 49B，上下文长度突破 1M。此次 Hy4 正式版在此基础上首次引入视觉理解能力，并支持电脑操作。官方还计划近期推出 Hy4 flash，定位为继承 Hy4 视觉、Agent 等能力的高性价比实用模型。
 
-**「影响」** 对开发者而言，Hy4 已在腾讯云和 OpenRouter 上线且 API 价格不变，现有接入方可在不改动计费的前提下试用视觉与电脑操作能力；官方计划开源权重并近期推出 Hy4 flash，届时本地部署与低成本调用选项将进一步增加。
+**「影响」** 对开发者而言，Hy4 已在腾讯云和 OpenRouter 上线且 API 价格不变，可立即接入测试视觉与电脑操作能力；官方计划开源权重并推出 Hy4 flash，届时本地部署与低成本调用选项将进一步扩大。不过上述金融任务排名与幻觉率数据均为腾讯自报，尚无独立验证。
 
 <details><summary>参考链接</summary>
 <ul>
 <li><a href="https://www.163.com/dy/article/LADD67VP0519APGA.html">腾 讯 混 元 Hy 4 、 Hy 4 flash即将 发 布 ，首次引入 视 觉 理解 能 力</a></li>
-<li><a href="https://www.ithome.com/1/019/328.htm">首次引入 视 觉 理解， 腾 讯 混 元 Hy 4 、 Hy 4 flash AI 模型即将 发 布 - IT之家</a></li>
 <li><a href="https://www.chinaz.com/ainews/31948.shtml">腾 讯 混 元 Hy 4 、 Hy 4 flash即将 发 布 ，模型 能 力 、思维链效率全面提升</a></li>
-<li><a href="https://www.chinaz.com/ainews/31948.shtml">腾 讯 混 元 Hy 4 、 Hy 4 flash即将发布，模型能力、思维链效 率 全面提升</a></li>
 
 </ul>
 </details>
 
-**标签**: `#multimodal models`, `#Tencent Hunyuan`, `#open weights`, `#benchmarks`, `#model release`
+**标签**: `#LLM`, `#multimodal`, `#open-source`, `#Tencent Hunyuan`, `#model release`
+
+---
+
+<a id="item-tech-news-3"></a>
+### [Anthropic 开源 FlashProve 验证 AI 模型身份](https://assets.claude.com/8e1d181a83015078581c92d896757041713f0160.pdf) ⭐️ 7.0/10
+
+Anthropic 正在开发并开源 FlashProve，一种用加密证明验证某段 AI 输出是否由指定模型生成的方法。研究人员表示，该系统可帮助用户识别模型替换，也可核实第三方关于模型执行任务的说法。实验室需为发布的模型公开指纹，供后续匹配输出；指纹不会披露模型权重，验证也可在本地设备进行。Anthropic 已发布技术规范和代码，但研究仍在进行，目前没有部署计划。
+
+telegram · zaihuapd · 11月4日 18:16
+
+**「背景」** AI 模型溯源旨在确认某段输出究竟由哪个模型生成，以应对模型替换、冒名或第三方对模型执行任务的不实声明。Anthropic 将 FlashProve 定位为“可证明推理”（provable inference）的原型，其密码学设计保证证明过程不泄露模型的权重。该研究以开源技术规范和代码形式发布，属于早期性能原型，尚处研究阶段。
+
+**「影响」** 若 FlashProve 被模型发布方采用，用户和第三方审计者将能在不接触模型权重的前提下，通过公开指纹在本地核验某段输出是否确由指定模型生成，从而识别模型替换或核实第三方关于模型执行任务的说法。不过 Anthropic 表示研究仍在进行且目前没有部署计划，实际效果取决于实验室是否愿意为发布的模型公开指纹。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://interestingengineering.com/ai-robotics/anthropic-flashprove-cryptographic-model-verification">Anthropic unveils cryptographic tool to verify model outputs</a></li>
+<li><a href="https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/">Anthropic is working on a system to prove AI models &#x27; identity</a></li>
+<li><a href="https://www.anthropic.com/research/provable-inference">Progress on provable inference for large language models \ Anthropic</a></li>
+<li><a href="https://thevalue.engineering/news/flashprove-enterprise-inference-audits.html">FlashProve: Enterprise Inference Audits — The Value Engineering</a></li>
+<li><a href="https://lumienai.com/news/anthropic-flashprove-cryptographic-ai-model-identity-verification">Anthropic’s FlashProve: Cryptographic Proof of Which AI…</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI model provenance`, `#cryptographic verification`, `#open source`, `#Anthropic`, `#AI trust and safety`
 
 ---
