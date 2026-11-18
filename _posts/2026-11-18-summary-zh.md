@@ -5,86 +5,133 @@ date: 2026-11-18
 lang: zh
 ---
 
-> 从 27 条内容中筛选出 7 条重要资讯。
+> 从 26 条内容中筛选出 9 条重要资讯。
 
 ---
 
+**科技财经**
+1. [英伟达财报与微软、Anthropic 操作系统更新](#item-tech-finance-1) ⭐️ 5.0/10
+
 **财经新闻**
-1. [特朗普、习近平与普京将在深圳 APEC 峰会会面，外界预期不高](#item-finance-news-1) ⭐️ 7.0/10
-2. [英伟达、苹果等美国科技企业面临对华两难](#item-finance-news-2) ⭐️ 7.0/10
-3. [工信部委托中汽协评估 17 家车企 60 天账期执行情况](#item-finance-news-3) ⭐️ 7.0/10
-4. [美国芯片新规致 4.8 亿美元字节跳动 GPU 贷款暂停](#item-finance-news-4) ⭐️ 7.0/10
-5. [英国移民与庇护法案通过下议院，提交上议院审议](#item-finance-news-5) ⭐️ 7.0/10
+1. [特朗普抵达深圳出席 APEC 会议](#item-finance-news-1) ⭐️ 8.0/10
+2. [腾讯三季度营收利润增速放缓，AI 资本开支大幅超预期](#item-finance-news-2) ⭐️ 8.0/10
+3. [中韩宣布自贸协定服务与投资后续谈判实质性结束](#item-finance-news-3) ⭐️ 8.0/10
+4. [特朗普、习近平与普京齐聚深圳 APEC 峰会，外界预期难有突破](#item-finance-news-4) ⭐️ 7.0/10
+5. [工信部委托中汽协评估 17 家车企 60 天账期](#item-finance-news-5) ⭐️ 7.0/10
+6. [美国芯片新规致 4.8 亿美元字节跳动 GPU 贷款暂停](#item-finance-news-6) ⭐️ 7.0/10
+7. [英国移民与庇护法案通过下议院，将提交上议院](#item-finance-news-7) ⭐️ 7.0/10
 
 **科技新闻**
-1. [OpenAI 发布 GPT-6.2 Astra 与 Sol 双模型](#item-tech-news-1) ⭐️ 9.0/10
-2. [Java 曝高危未认证 RCE 漏洞 CVE-2026-114938](#item-tech-news-2) ⭐️ 9.0/10
+1. [Java 曝高危未认证 RCE 漏洞 CVE-2026-114938](#item-tech-news-1) ⭐️ 9.0/10
+
+---
+
+## 科技财经
+
+<a id="item-tech-finance-1"></a>
+### [英伟达财报与微软、Anthropic 操作系统更新](https://stratechery.com/2026/nvidia-earnings-office-convergence-os-wars-ai-edition/) ⭐️ 5.0/10
+
+Stratechery 评论文章称英伟达本次财报“平淡无奇”，并认为这在一定程度上说明黄仁勋大概不会回归；文章还提到微软和 Anthropic 分别发布了相互竞争的操作系统更新。所给文本未包含具体财务数字或产品细节。
+
+rss · Stratechery · 11月18日 19:00
+
+**「背景」** 据福克斯商业频道报道，黄仁勋上周因婚外情报道辞去英伟达 CEO 一职，此次是英伟达在他离职后发布的首份季度财报。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.foxbusiness.com/markets/nvidia-releases-quarterly-earnings-after-jensen-huangs-resignation-ceo">Nvidia releases first quarterly earnings report since Jensen ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Nvidia`, `#earnings`, `#Microsoft`, `#Anthropic`, `#AI`
 
 ---
 
 ## 财经新闻
 
 <a id="item-finance-news-1"></a>
-### [特朗普、习近平与普京将在深圳 APEC 峰会会面，外界预期不高](https://www.cnbc.com/2026/11/18/apec-trump-xi-putin-shenzhen.html) ⭐️ 7.0/10
+### [特朗普抵达深圳出席 APEC 会议](https://weibo.com/1699432410/5366644789744407) ⭐️ 8.0/10
 
-美国总统特朗普、中国国家主席习近平与俄罗斯总统普京本周将在深圳举行的亚太经合组织（APEC）峰会期间会面，其中习近平与特朗普、普京的三方会晤定于周四举行，为三人首次同场。据美方官员称，特朗普与习近平的会谈将聚焦落实贸易协议，而非英伟达相关指控；两国此前商定对彼此约 300 亿美元商品下调关税，但未公布生效日期。
+据新华社和央视新闻报道，美国总统特朗普乘专机抵达深圳宝安国际机场，国家主席习近平到场迎接；特朗普将出席 11 月 18 日至 19 日举行的亚太经合组织第三十三次领导人非正式会议。
 
-rss · CNBC Finance · 11月18日 14:04
+telegram · zaihuapd · 11月18日 16:42
 
-**「背景」** 去年 APEC 期间的美中会晤促成了一年期贸易休战，包括下调部分关税和恢复部分稀土流通，该休战已延长两个月至 2027 年 1 月。
-
-**「影响」** 若约 300 亿美元商品关税下调落地，相关美中出口企业将直接受影响；同时华盛顿正收紧让中国企业获得美国人工智能技术的漏洞，而北京已威胁采取反制措施。
-
-**标签**: `#US-China trade`, `#APEC summit`, `#geopolitics`, `#AI technology restrictions`, `#tariffs`
-
----
-
-<a id="item-finance-news-2"></a>
-### [英伟达、苹果等美国科技企业面临对华两难](https://www.cnbc.com/2026/11/17/us-tech-firms-china-ties-political-pressure.html) ⭐️ 7.0/10
-
-美国政府周一收紧了对中国企业远程使用美国先进芯片的限制，以堵住通过海外数据中心规避出口管制的漏洞；与此同时，英伟达 CEO 黄仁勋辞职，使美国科技企业在华盛顿限制与中国市场依赖之间的取舍更加突出。
-
-rss · CNBC Finance · 11月17日 16:52
-
-**「背景」** 英伟达于 2026 年 11 月 12 日宣布，黄仁勋辞去总裁、首席执行官及董事会成员职务，首席财务官 Colette Kress 出任临时 CEO。此前有报道称其存在婚外情，其中一名对象被美国情报部门怀疑是中国间谍。特朗普与习近平定于 11 月 19 日会晤，而两国此前达成的贸易休战协议期限至 2027 年 1 月 10 日。
-
-**「影响」** 美国收紧对华芯片远程访问限制，可能波及东南亚数据中心运营商——这些设施被指帮助中国规避出口管制；同时，依赖中国稀土供应的企业面临钇等关键材料短缺风险，可能限制飞机发动机的生产与维修。
+**「背景」** 亚太经合组织（APEC）是亚太地区主要经济体的区域经济合作论坛，其领导人非正式会议每年举行一次。据新华社报道，第 33 次 APEC 领导人非正式会议于 2026 年 11 月 18 日至 19 日在深圳举行，主题为“建设亚太共同体，促进共同繁荣”。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.reuters.com/business/retail-consumer/nvidia-ceo-jensen-huang-step-down-big-blow-ai-boom-2026-11-12/">Nvidia CEO Jensen Huang resigns in blow to AI boom he helped ...</a></li>
-<li><a href="https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-CEO-Transition/default.aspx">NVIDIA Corporation - NVIDIA Announces CEO Transition</a></li>
-<li><a href="https://admiralmarkets.com/analytics/traders-blog/trump-xi-apec-shenzhen-meeting-markets">Trump-Xi Meeting at APEC: Trade Truce and Market Focus</a></li>
-<li><a href="https://theworlddata.com/apec-summit/">APEC Summit 2026 | Trump-Xi-Putin Meeting, Date, Location ...</a></li>
-<li><a href="https://www.cnbc.com/2026/11/17/nvidia-china-cloud-ai-chip-access.html">Nvidia warns chip buyers of legal risks tied to China access : sources</a></li>
-<li><a href="https://www.bbc.com/news/articles/cwq6e2qgvmlgo">How Trump&#x27; s chip restrictions on South East Asia will hit China</a></li>
-<li><a href="https://forums.hardwarezone.com.sg/threads/us-to-restrict-chinese-remote-access-to-ai-chips-from-southeast-asian-data-centers-report.7231761/">US to restrict Chinese remote access to AI chips from Southeast...</a></li>
+<li><a href="https://sputnikglobe.com/20261118/live-putin-arrives-in-shenzhen-for-apec-summit-and-delivers-remarks-1125086884.html">LIVE: Putin Arrives in Shenzhen for APEC Summit and Delivers...</a></li>
+<li><a href="https://english.news.cn/20261116/dcb0b5b284a047b596fef856788b8f97/c.html">Xinhua Commentary: APEC Shenzhen meeting to inject fresh...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#US-China tech tensions`, `#semiconductor export controls`, `#Nvidia`, `#Apple supply chain`, `#corporate strategy`
+**标签**: `#APEC`, `#US-China relations`, `#trade policy`, `#diplomacy`
+
+---
+
+<a id="item-finance-news-2"></a>
+### [腾讯三季度营收利润增速放缓，AI 资本开支大幅超预期](https://api3.cls.cn/share/article/2537922?os=android&amp;amp;sv=8.8.5&amp;amp;app=cailianpress&amp;amp;selected=) ⭐️ 8.0/10
+
+腾讯公布 2026 年第三季度财报，营收 2073 亿元、同比增长 8%，低于市场预期；归母净利润 636 亿元、同比增长 0.8%。当季资本开支 814.33 亿元，远超市场预估的 554 亿元，单季自由现金流为负 691 亿元。
+
+telegram · zaihuapd · 11月18日 17:20
+
+**「背景」** 资本开支指企业购置设备、建设数据中心等长期投入，自由现金流是经营现金流入扣除这类投入后的余额，为负意味着当季投入超过自身经营产生的现金。腾讯还称，其 AI 产品 WorkBuddy 日均 Token（模型处理文本的计量单位）用量超过 100 万亿，为国内大语言模型产品最高，该说法为公司自行披露，无外部数据对照。
+
+**「影响」** 对投资者而言，资本开支远超预期叠加自由现金流转负，意味着腾讯正把更多现金投入 AI 基础设施，短期可分配现金相应减少。
+
+**标签**: `#Tencent earnings`, `#AI capex`, `#free cash flow`, `#China tech`, `#large language models`
 
 ---
 
 <a id="item-finance-news-3"></a>
-### [工信部委托中汽协评估 17 家车企 60 天账期执行情况](http://www.caam.org.cn/chn/5/cate_68/con_5237404.html) ⭐️ 7.0/10
+### [中韩宣布自贸协定服务与投资后续谈判实质性结束](https://x.com/Jaemyung_Lee/status/2122988472994791476) ⭐️ 8.0/10
 
-中国汽车工业协会 11 月 16 日发布通知，称受工信部委托作为第三方机构，对 17 家重点车企的供应商账款支付情况开展调研评估，核查 60 天账期是否落地。评估标准包括中小企业账期不超过 60 天、非中小企业以现金和银行承兑汇票支付的比例不低于 80%。
+中韩于 11 月 18 日宣布，自贸协定服务与投资后续谈判实质性结束。中方承诺在电影、游戏等领域给予韩国最惠国待遇，并扩大旅游、法律、建筑、金融等领域开放；部分技术事项仍留待工作层面协商。
+
+telegram · zaihuapd · 11月18日 18:02
+
+**「背景」** 这轮后续谈判自 2018 年 3 月启动，历时约 8 年 8 个月，目的是在原有货物贸易协定基础上补充服务贸易和投资规则。
+
+**「影响」** 若后续技术磋商完成并落地，韩国影视、游戏企业及旅游、法律、建筑、金融等行业进入中国市场的条件可能改善；双方还将视听节目共同制作范围从电影扩大到电视剧、动画、综艺和纪录片。
+
+**标签**: `#China-South Korea FTA`, `#trade policy`, `#services and investment`, `#media and entertainment`, `#market opening`
+
+---
+
+<a id="item-finance-news-4"></a>
+### [特朗普、习近平与普京齐聚深圳 APEC 峰会，外界预期难有突破](https://www.cnbc.com/2026/11/18/apec-trump-xi-putin-shenzhen.html) ⭐️ 7.0/10
+
+据 CNBC 报道，美国总统特朗普、中国国家主席习近平与俄罗斯总统普京本周将在深圳举行的亚太经合组织（APEC）峰会期间会面，其中三人同场会晤为首次；报道称外界对峰会取得突破的预期较低，美中双方预计重点讨论落实贸易协议。
+
+rss · CNBC Finance · 11月18日 14:04
+
+**「背景」** 美中此前达成为期一年的贸易休战，包括下调关税和恢复部分稀土流通，该休战已延长两个月至 2027 年 1 月；两国 9 月表示将下调对彼此价值 300 亿美元商品的关税，但未说明生效日期。
+
+**「影响」** 报道称，华盛顿正着手收紧让中国企业获得美国人工智能技术的漏洞，而北京迄今的回应是威胁采取反制措施，这使依赖美中技术供应链的芯片与科技企业面临政策不确定性。
+
+**标签**: `#US-China trade`, `#APEC summit`, `#geopolitics`, `#tariffs`, `#AI technology restrictions`
+
+---
+
+<a id="item-finance-news-5"></a>
+### [工信部委托中汽协评估 17 家车企 60 天账期](http://www.caam.org.cn/chn/5/cate_68/con_5237404.html) ⭐️ 7.0/10
+
+中国汽车工业协会 11 月 16 日发布通知，受工信部委托作为第三方机构，对一汽、上汽、比亚迪、理想、蔚来、小鹏、小米汽车、零跑等 17 家重点车企的供应商账款支付情况开展调研评估，核查 60 天账期是否落地。评估标准包括中小企业账期不超过 60 天、非中小企业现金和银行承兑汇票支付比例不低于 80%。
 
 telegram · zaihuapd · 11月18日 09:15
 
-**「背景」** 今年 6 月 10 日起，中国一汽、东风公司、广汽集团等十余家主流车企相继承诺，将供应商货款支付账期统一压缩至 60 天以内，以响应国务院《保障中小企业款项支付条例》；工信部随后表示支持中汽协发布支付规范倡议。
+**「背景」** 今年 6 月，一汽、东风、广汽等十余家主流车企宣布将供应商货款账期统一至 60 天内；9 月 15 日，中汽协发布《汽车整车企业供应商账款支付规范倡议》，明确了“60 天账期”的支付起算时间，17 家车企随后响应。
 
-**「影响」** 此次评估直接关系为这 17 家车企供货的中小企业供应商能否按时收到货款；据媒体报道，此前部分供应商反映收账进展不一，且 60 天账期政策红利主要覆盖重点车企的中小企业供应商，非重点车企及非中小企业供应商仍面临账期过长问题。
+**「影响」** 此次评估直接关系为这 17 家车企供货的中小企业能否按时收回货款；据新京报报道，此前车企虽集体承诺 60 天账期，但供应商实际收款进展不一。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://news.qq.com/rain/a/20250915A05DAA00?suid=&amp;media_id=">明确“ 60 天 账 期 ”和 账 期 起计时间， 中 汽 协 “喊话” 车 企 解绑 供 应 商 _腾讯新闻</a></li>
+<li><a href="https://www.cls.cn/detail/2145695">中 汽 协 推动“ 60 天 账 期 ”承诺落地 17家 车 企 响 应</a></li>
 <li><a href="http://www.ifengweekly.com/detil.php?id=25195">“ 60 天 账 期 ”承诺， 车 企 供 应 商 的救命稻草？ -凤凰周刊</a></li>
-<li><a href="https://www.bjnews.com.cn/detail/1749644188168851.html">从“百日煎熬”到“ 60 天 承诺”： 车 企 账 期 瘦身， 供 应 商 解压 — 新京报</a></li>
 <li><a href="https://m.bjnews.com.cn/detail/1756434113168407.html">“ 60 天 账 期 ” 车 企 执行有差异，有 供 应 商 还没拿到钱</a></li>
-<li><a href="https://cj.sina.com.cn/articles/view/1650111241/625ab30902001fz5e">汽 车 行业“ 60 ...”</a></li>
 
 </ul>
 </details>
@@ -93,25 +140,23 @@ telegram · zaihuapd · 11月18日 09:15
 
 ---
 
-<a id="item-finance-news-4"></a>
+<a id="item-finance-news-6"></a>
 ### [美国芯片新规致 4.8 亿美元字节跳动 GPU 贷款暂停](https://www.bloomberg.com/news/articles/2026-11-17/banks-pause-480-million-chip-loan-tied-to-china-s-bytedance) ⭐️ 7.0/10
 
-美国最新 AI 芯片出口管制出台后，五家银行暂停推进一笔 4.8 亿美元贷款，该贷款原计划为字节跳动在马来西亚的数据中心采购英伟达先进 GPU。借款方为新加坡云服务商 Aolani Cloud，星展集团担任牵头安排行；Aolani 表示正与监管机构及融资伙伴评估新规以确保合规。
+据报道，美国最新 AI 芯片出口管制出台后，五家银行暂停推进一笔 4.8 亿美元贷款，该贷款原计划为字节跳动在马来西亚的数据中心采购英伟达先进 GPU。借款方为新加坡云服务商 Aolani Cloud，星展集团担任牵头安排行。
 
 telegram · zaihuapd · 11月18日 13:11
 
-**「背景」** 此前有报道称，字节跳动通过与新加坡云服务商 Aolani Cloud 合作，在马来西亚建设 AI 数据中心，涉及约 3.6 万颗英伟达 Blackwell B200 芯片、交易规模超过 25 亿美元。美国新规要求新加坡、马来西亚等国的数据中心运营商在采购先进 AI 芯片前须获得许可，银行因此重新评估这笔贷款的合规风险。
+**「背景」** 美国新规要求马来西亚、泰国、印尼、新加坡等东南亚数据中心在采购先进 AI 芯片前须获美方许可，以阻止中国企业通过海外设施远程使用英伟达芯片（据 CNBC、Politico 和半岛电视台报道）。这笔贷款原计划为字节跳动在马来西亚的数据中心采购英伟达 GPU 提供资金。
 
-**「影响」** 若融资持续停滞，原计划为字节跳动马来西亚数据中心采购英伟达先进 GPU 的项目可能延后，涉及该项目的云服务商 Aolani Cloud 及牵头行星展集团等五家银行将面临合规审查与放款节奏调整。
+**「影响」** 据 ZeroHedge 报道，新规要求新加坡、马来西亚等国的数据中心运营商在采购先进 AI 芯片前须获得许可，因此这类跨境数据中心项目的融资和芯片采购可能面临更长的合规审查。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://savedelete.com/article/bytedance-36000-nvidia-b200-chips-malaysia/">ByteDance Orders 36K Nvidia B200 Chips for Malaysia | SaveDelete</a></li>
-<li><a href="https://www.zerohedge.com/ai/first-domino-falls-us-ai-chip-crackdown-freezes-480-loan-linked-chinas-bytedance">First Domino Falls: US AI Chip Crackdown Freezes... | ZeroHedge</a></li>
+<li><a href="https://www.cnbc.com/2026/11/18/nvidia-us-ai-chip-export-controls-data-centers-.html">New U.S. chip curbs put Southeast Asia&#x27;s data center ... - CNBC</a></li>
+<li><a href="https://www.politico.com/news/2026/11/16/commerce-closes-chinas-backdoor-to-nvidia-chips-after-white-house-steps-in-01167199">Commerce closes China’s backdoor to Nvidia chips after White ...</a></li>
+<li><a href="https://www.aljazeera.com/economy/2026/11/17/us-moves-to-block-chinas-remote-access-to-ai-chips-amid-nvidia-scandal">US moves to block China’s remote access to AI chips amid ...</a></li>
 <li><a href="https://www.zerohedge.com/ai/first-domino-falls-us-ai-chip-crackdown-freezes-480-loan-linked-chinas-bytedance">First Domino Falls: US AI Chip Crackdown Freezes $480MM Loan ...</a></li>
-<li><a href="https://www.crowdbyte.ai/topics/bytedance-builds-massive-ai-supercluster-in-malaysia-with-nvidia-chips">ByteDance Builds Massive AI Supercluster in Malaysia with NVIDIA ...</a></li>
-<li><a href="https://www.gate.com/news/detail/us-ai-chip-export-controls-halt-bytedance-linked-480m-nvidia-financing-on-25690585">U.S. AI Chip Export Controls Halt ByteDance-Linked $480M ...</a></li>
-<li><a href="https://www.explainx.ai/blog/bytedance-malaysia-aolani-480m-gpu-loan-pause-export-licence-2026">ByteDance $480M Malaysia GPU Loan on Hold (Nov 2026 ...</a></li>
 
 </ul>
 </details>
@@ -120,67 +165,42 @@ telegram · zaihuapd · 11月18日 13:11
 
 ---
 
-<a id="item-finance-news-5"></a>
-### [英国移民与庇护法案通过下议院，提交上议院审议](https://www.bloomberg.com/news/articles/2026-11-17/uk-s-house-of-commons-passes-controversial-immigration-bill) ⭐️ 7.0/10
+<a id="item-finance-news-7"></a>
+### [英国移民与庇护法案通过下议院，将提交上议院](https://www.bloomberg.com/news/articles/2026-11-17/uk-s-house-of-commons-passes-controversial-immigration-bill) ⭐️ 7.0/10
 
-英国《移民与庇护法案》以 290 票赞成、94 票反对通过下议院最终审议，现将提交上议院审查。法案将多数移民申请定居所需的基准居住年限从 5 年延长至 10 年，并加快遣返未获庇护者。
+英国《移民与庇护法案》以 290 票赞成、94 票反对通过下议院最终审议，现将提交上议院审查。法案将多数移民申请定居的基准居住年限从 5 年延长至 10 年，但年收入至少 2.5 万英镑的部分医疗和社会护理签证持有人仍可按 5 年路径申请。
 
 telegram · zaihuapd · 11月18日 13:51
 
-**「背景」** 该法案还拟缩短难民初次居留许可期限，并设立独立移民上诉机构；符合条件、年收入至少 2.5 万英镑的部分医疗和社会护理签证持有人仍可按 5 年路径申请定居，扩大豁免范围的修正案则遭否决。
+**「背景」** 该法案还涉及加快遣返未获庇护者、缩短难民初次居留许可期限，并设立独立移民上诉机构；扩大豁免范围的修正案遭否决。法案尚需上议院通过才能成为法律。
 
-**「影响」** 由于法案仅通过下议院、尚待上议院审查，最终生效时间和具体条款仍不确定；若按现文本生效，多数移民的定居等待期将翻倍，而部分医疗和社会护理人员可继续适用 5 年路径。
+**「影响」** 若法案最终生效，医疗和社会护理行业中年收入低于 2.5 万英镑的相关签证持有人将无法适用 5 年定居路径，需按 10 年基准等待。
 
-**标签**: `#UK immigration policy`, `#asylum and deportation`, `#legislation`, `#labour and care sector`, `#UK politics`
+**标签**: `#UK immigration policy`, `#asylum and deportation`, `#legislation`, `#labour and health-care workforce`, `#UK politics`
 
 ---
 
 ## 科技新闻
 
 <a id="item-tech-news-1"></a>
-### [OpenAI 发布 GPT-6.2 Astra 与 Sol 双模型](https://openai.com/index/introducing-gpt-6-2-astra-sol/) ⭐️ 9.0/10
-
-OpenAI 发布 GPT-6.2 Astra 与 Sol 两款模型，前者面向最难的专业项目，后者强调日常工作效率，并已在 ChatGPT Work 和 Codex 上线。API 定价方面，Astra 每百万 token 输入 8 美元、缓存输入 0.4 美元、输出 40 美元，比 GPT-6 Astra 低 20%；Sol 则沿用 GPT-6.1 Sol 的价格。该消息来自一条简短的 Telegram 摘要，未披露模型参数规模、上下文长度、基准测试成绩等具体技术细节，相关发布信息仍有待核实。
-
-telegram · zaihuapd · 11月18日 01:55
-
-**「背景」** OpenAI 此前已推出 GPT-6 系列，其中 GPT-6 Astra 定位前沿旗舰模型，GPT-6.1 Sol 则主打高效通用场景，两者分别对应高难度专业任务与日常生产力需求。此次 GPT-6.2 版本延续双模型命名体系，Astra 与 Sol 各自迭代升级，并同步登陆 ChatGPT Work、Codex 以及 GitHub Copilot、Amazon Bedrock 等第三方平台。
-
-**「影响」** 已订阅 Plus、Pro、Enterprise 和 Edu 的用户可立即在 ChatGPT Work 与 Codex 中使用 Astra 和 Sol，Pro 500 订阅者还可在两款模型上启用 Ultrafast；API 侧 Astra 输入价格较 GPT-6 Astra 降低 20%，Sol 维持 GPT-6.1 Sol 原价。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://openai.com/index/introducing-gpt-6-2-astra-sol/">Introducing GPT-6.2 Astra and Sol | OpenAI</a></li>
-<li><a href="https://github.blog/changelog/2026-11-17-openais-gpt-6-2-astra-and-gpt-6-2-sol-now-available/">OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol now available</a></li>
-<li><a href="https://aws.amazon.com/about-aws/whats-new/2026/11/openai-gpt-6-2-astra-sol-amazon-bedrock/">OpenAI GPT-6.2 Astra, and GPT-6.2 Sol are now generally ...</a></li>
-<li><a href="https://openai.com/index/introducing-gpt-6-2-astra-sol/">Introducing GPT - 6 . 2 Astra and Sol | OpenAI</a></li>
-<li><a href="https://pay2gpt.com/en/blog/gpt-6-2">GPT - 6 . 2 Astra and Sol : ChatGPT plans, Plus limits, API price</a></li>
-
-</ul>
-</details>
-
-**标签**: `#OpenAI`, `#LLM release`, `#AI models`, `#API pricing`, `#Codex`
-
----
-
-<a id="item-tech-news-2"></a>
 ### [Java 曝高危未认证 RCE 漏洞 CVE-2026-114938](https://censys.com/advisory/cve-2026-114938/) ⭐️ 9.0/10
 
-据 Telegram 频道“科技圈·茶馆”转述 Censys 公告，Java 被曝出无需认证的远程代码执行高危漏洞 CVE-2026-114938，CVSS 4.0 评分 9.2，潜伏期接近 4 年。受影响版本包括 Java 17（17.0.6 及之后全部 17 线）、21、25 和 27；标准 Java 8/11 通常不受影响，但 Oracle Java 8 Performance Pack 例外。该漏洞仅影响搭载 AVX-512 VBMI 指令集的 x86-64 服务器处理器，大致对应 2021 年及以后发布的 Intel 处理器（Ice Lake 及更新世代 Xeon）和 2022 年及以后发布的 AMD 处理器（Zen 4 及更新 EPYC/Ryzen），ARM64 架构不受影响。上述细节来自简短的 Telegram 摘要，CVE 具体信息尚未在现有材料中得到独立核实。
+据 Telegram 频道转述，Java 被曝出无需认证的远程代码执行高危漏洞 CVE-2026-114938，CVSS 4.0 评分为 9.2，据称已潜伏近 4 年。受影响范围包括 Java 17（17.0.6 及之后全部 17 线）、21、25 和 27；标准 Java 8/11 通常不受影响，但 Oracle Java 8 Performance Pack 例外。该漏洞仅影响搭载 AVX-512 VBMI 指令集的 x86-64 服务器处理器，大致对应 2021 年及以后发布的 Intel 处理器（Ice Lake 及更新世代 Xeon）和 2022 年及以后发布的 AMD 处理器（Zen 4 及更新 EPYC/Ryzen），ARM64 架构不受影响。上述信息来自一条简短转述，尚未见到独立验证或更深入的技术细节。
 
 telegram · zaihuapd · 11月18日 11:55
 
-**「背景」** 该漏洞位于 OpenJDK 虚拟机（JVM）的 Base64 解码优化实现中：为提升性能，OpenJDK 在支持 AVX-512 VBMI 指令集的 x86-64 处理器上启用了基于该指令集的加速解码路径，而 CVE-2026-114938 正是这一路径中的内存破坏缺陷，可导致堆损坏、JVM 崩溃乃至未认证远程代码执行。由于该优化路径仅在特定 CPU 上启用，漏洞影响范围被限定在较新的 x86-64 服务器平台，ARM64 等架构不受影响。
+**「背景」** 该漏洞位于 OpenJDK 的 AVX-512 Base64 解码器实现中：为提升性能，OpenJDK 在支持 AVX-512 VBMI 指令集的 x86-64 处理器上启用了这一优化路径，而漏洞正是通过在该解码器中破坏内存来实现远程代码执行。由于该优化仅在特定硬件上生效，漏洞的实际可利用范围被限定在支持 AVX-512 VBMI 的 Intel 与 AMD 服务器芯片上，ARM64 等架构不受影响。据安全厂商 Calif 披露，该漏洞及利用方式由其发现并公开，并被命名为“Java4Shell”。
 
-**「影响」** 运行 Java 17.0.6 及之后版本、21、25 或 27 且部署在支持 AVX-512 VBMI 的 x86-64 服务器上的用户面临无需认证的远程代码执行风险，需优先排查并升级；标准 Java 8/11 通常不受影响，ARM64 平台亦不受影响。
+**「影响」** 运行 Java 17、21、25 或 27 且部署在支持 AVX-512 VBMI 的 x86-64 服务器上的用户面临无需认证的远程代码执行风险，需优先排查并修补；标准 Java 8/11 用户通常不受影响，但使用 Oracle Java 8 Performance Pack 者仍需评估。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://securitylabs.datadoghq.com/articles/java4shell-remote-code-execution-in-openjdk-cve-2026-114938/">Java4Shell: Remote Code Execution in OpenJDK (CVE-2026-114938)</a></li>
-<li><a href="https://www.wiz.io/blog/cve-2026-114938-rce-java4shell-openjdk">CVE-2026-114938 OpenJDK RCE (Java4Shell): Everything You Need ...</a></li>
-<li><a href="https://blackpointcyber.com/blog/java4shell-cve-2026-114938-java-base64-decoder-flaw/">Java4Shell (CVE-2026-114938): Inside a Critical Flaw in Java ...</a></li>
-<li><a href="https://access.redhat.com/security/cve/cve-2026-114938">CVE-2026-114938 - Red Hat Customer Portal</a></li>
+<li><a href="https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html">Java 4 Shell Flaw ( CVE - 2026 - 114938 ) Enables Pre-Auth RCE in Jira...</a></li>
+<li><a href="https://securitylabs.datadoghq.com/articles/java4shell-remote-code-execution-in-openjdk-cve-2026-114938/">Java 4 Shell : Remote Code Execution in OpenJDK ( CVE - 2026 - 114938 )</a></li>
+<li><a href="https://www.wiz.io/blog/cve-2026-114938-rce-java4shell-openjdk">CVE - 2026 - 114938 OpenJDK RCE ( Java 4 Shell ): Everything... | Wiz Blog</a></li>
 <li><a href="https://cycode.com/blog/java4shell-cve-2026-114938/">Java4Shell (CVE-2026-114938): Affected Versions, How to Check ...</a></li>
+<li><a href="https://www.herodevs.com/blog-posts/java4shell-cve-2026-114938-spring-boot-tomcat-jetty">Java4Shell CVE-2026-114938: Exposure and How to Patch</a></li>
+<li><a href="https://blog.qualys.com/vulnerabilities-threat-research/2026/11/17/how-to-find-mitigate-and-patch-the-critical-java4shell-flaw-cve-2026-114938-now">How to Find, Mitigate, and Patch the Critical Java4Shell Flaw ...</a></li>
 
 </ul>
 </details>
